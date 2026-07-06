@@ -1,0 +1,1699 @@
+<0>19 de Julho
+<1>Na Toca do Coelho
+<2>map023
+<3>dayyk0719
+<4>se098
+<5>kaga_000488
+<6>Kagami
+<7>"Porque estamos andando na escuridão? Deveriamos ligar as luzes."
+<8>tuka_000346
+<9>Tsukasa
+<10>"O que tá dizendo? Precisamos desligar o máximo de luzes pudermos."
+<11>zaku_000606
+<12>Zakuro
+<13>"Por que?"
+<14>tuka_000347
+<15>Tsukasa
+<16>"Enquanto observarmos as estrelas, as luzes são os nossos maiores inimigos. Quando seus olhos se acostumarem com a luz, não conseguimos ver as estrelas."
+<17>kaga_000489
+<18>Kagami
+<19>"Mesmo assim, a escola dá arrepios à noite. Não acredito que fica tão escuro assim quando se apaga as luzes"
+<20>tuka_000348
+<21>Tsukasa
+<22>"Ahaha, isso é porque a escola fica no meio de uma floresta. Lá dentro é bem escuro."
+<23>yuki_000921
+<24>Yuki
+<25>"Olhe por onde anda, ago~."
+<26>black
+<27>kg0008a_l
+<28>bg1011d
+<29>
+<30>kg0009a_l
+<31>kaga_000490
+<32>Kagami
+<33>"Ahhhh!"
+<34>
+<35>tk0006
+<36>tuka_000349
+<37>Tsukasa
+<38>"Colocar uma lanterna embaixo do rosto é o truque mais antigo que existe."
+<39>yuki_000922
+<40>Yuki
+<41>"Ahaha, mas você ouviu o que a Kagami disse agora há pouco? 'Ahhhh!' ela fez uma cara intakavel, ahaha."
+<42>tuka_000350
+<43>Tsukasa
+<44>"Claro que ela vai ficar surpresa se você usar uma luz daquele jeito, com celofane vermelho cobrindo a lâmpada."
+<45>yuki_000923
+<46>Yuki
+<47>Sim. fez parecer que você está coberto de sangue."
+<48>kg0004_l
+<49>kaga_000491
+<50>Kagami
+<51>"Oh, sério? Então vou te cobrir de sangue de verdade."
+<52>yuki_000924
+<53>Yuki
+<54>"Hã?"
+<55>se516
+<56>se007
+<57>map029
+<58>map029
+<59>bg1011d
+<60>bgm023
+<61>yuki_000925
+<62>Yuki
+<63>"U-Uauuu..."
+<64>kg0004
+<65>kaga_000492
+<66>Kagami
+<67>"Você colhe o que planta. Considere-se sortudo por não estar sangrando de verdade."
+<68>zk0008
+<69>zaku_000607
+<70>Zakuro
+<71>"Mas, porque a luz é vermelha?"
+<72>tk0002
+<73>tuka_000351
+<74>Tsukasa
+<75>"Uma lanterna comum é muito forte, então eu a transformei em vermelha. Olha só, tem elásticos segurando o celofane no lugar."
+<76>yuki_000926
+<77>Yuki
+<78>"Mas, falando sério, mesmo que tivéssemos um telescópio, provavelmente não conseguiríamos ver as estrelas, já que Tóquio é tão iluminada."
+<79>tk0001a
+<80>tuka_000352
+<81>Tsukasa
+<82>"A escola fica bem longe da área comercial, mas talvez ainda haja luz demais."
+<83>yuki_000927
+<84>Yuki
+<85>"Bem, mesmo assim, é importante deixar nossos olhos se acostumarem com a escuridão."
+<86>zaku_000608
+<87>Zakuro
+<88>"Entendi."
+<89>zk0006a
+<90>zaku_000609
+<91>Zakuro
+<92>"Além disso, desculpa. O Triângulo de Verão foi só uma desculpa"
+<93>tk0003a
+<94>tuka_000353
+<95>Tsukasa
+<96>"Tudo bem. Graças à sua desculpa, podemos aproveitar nossa última noite juntos assim."
+<97>kg0003a
+<98>kaga_000493
+<99>Kagami
+<100>"É isso mesmo. É a nossa última noite. Vamos aproveitar"
+<101>zk0001a
+<102>zaku_000610
+<103>Zakuro
+<104>"Sim."
+<105>zk0006a
+<106>kg0010a
+<107>tk0002a
+<108>bg1017c
+<109>kaga_000494
+<110>Kagami
+<111>"Bem, É exatamente como imaginávamos. A vista é apenas um pouco melhor"
+<112>tuka_000354
+<113>Tsukasa
+<114>"É mesmo? Não acha que tem muitas estrelas céu esta noite?"
+<115>kg0002a
+<116>kaga_000495
+<117>Kagami
+<118>"Sim, Você não acha que há muitas estrelas no céu hoje à noite"
+<119>tk0010a
+<120>tuka_000355
+<121>Tsukasa
+<122>"Isso não aconteceria a menos que fôssemos para a montanha."
+<123>yuki_000928
+<124>Yuki
+<125>"Você esperava demais, não é?"
+<126>kg0001a
+<127>kaga_000496
+<128>Kagami
+<129>"Bem, é bom que não haja muito luar..."
+<130>zk0009a
+<131>zaku_000611
+<132>Zakuro
+<133>"Hum... olhe para a cidade, por favor."
+<134>tk0009a
+<135>tuka_000356
+<136>Tsukasa
+<137>"Hã?"
+<138>kg0009a
+<139>kaga_000497
+<140>Kagami
+<141>"Isso... Isso é..."
+<142>Por um momento, não conseguimos entender o que estava acontecendo. As luzes da cidade estavam se apagando uma a uma.
+<143>yuki_000929
+<144>Yuki
+<145>"Não acredito. É falta de luz?"
+<146>kaga_000498
+<147>Kagami
+<148>"É... é a primeira vez que vejo um."
+<149>tuka_000357
+<150>Tsukasa
+<151>"Eu também."
+<152>yuki_000930
+<153>Yuki
+<154>"Eu achava que as quedas de energia só aconteciam na era Showa. Parece que ainda acontecem."
+<155>zk0000b
+<156>zaku_000612
+<157>Zakuro
+<158>"Ahh..."
+<159>Takashima-san olhou para o céu e ergueu a voz.
+<160>map004
+<161>sp0008m
+<162>bgm110
+<163>yuki_000931
+<164>Yuki
+<165>"Uau..."
+<166>tuka_000358
+<167>Tsukasa
+<168>"É incrível..."
+<169>Nossos olhos já estavam acostumados com a escuridão, mas o céu que se abria acima de nós era completamente diferente do que tínhamos visto antes.
+<170>kaga_000499
+<171>Kagami
+<172>"I-Isso é um milagre, não é?"
+<173>tuka_000359
+<174>Tsukasa
+<175>"Incrível. É como se Deus tivesse planejado que isso acontecesse."
+<176>yuki_000932
+<177>Yuki
+<178>"Não... Tsukasa, se fosse Deus quem tivesse feito isso, estaria causando muitos problemas para as pessoas da cidade."
+<179>zaku_000613
+<180>Zakuro
+<181>"Acho que sim, já que as luzes se apagaram de repente."
+<182>tuka_000360
+<183>Tsukasa
+<184>"Eu me pergunto quanto tempo isso vai durar."
+<185>yuki_000933
+<186>Yuki
+<187>"Não sei. Um vídeo longo teria uns dez minutos, certo? Mas não tenho certeza."
+<188>kaga_000500
+<189>Kagami
+<190>"Uau... Incrível..."
+<191>tuka_000361
+<192>Tsukasa
+<193>"Dá para ver muito bem. Olha, no céu a leste, dá para ver a Via Láctea."
+<194>yuki_000934
+<195>Yuki
+<196>"Não tem como a gente conseguir ver isso no céu de Tóquio."
+<197>kaga_000501
+<198>Kagami
+<199>"Aposto que a Miu vai ficar furiosa quando souber disso."
+<200>tuka_000362
+<201>Tsukasa
+<202>"É isso mesmo. Ela não consegue ver isso, mesmo olhando sempre para o céu com tanto entusiasmo, mas nós conseguimos ver por mero acaso."
+<203>yuki_000935
+<204>Yuki
+<205>"Mas, mesmo assim, as estrelas são realmente lindas."
+<206>tuka_000363
+<207>Tsukasa
+<208>"A estrela mais brilhante que existe é Vega. É a estrela de Orihime."
+<209>yuki_000936
+<210>Yuki
+<211>"E então, aquele ali é o Altair. Comparado à Orihime, o Natsuhiko não se destaca muito. Embora, nesta época, isso não seja tão surpreendente."
+<212>tuka_000364
+<213>Tsukasa
+<214>"A época não tem nada a ver com isso."
+<215>yuki_000937
+<216>Yuki
+<217>"Você sabe o nome da ponte que liga essas duas cidades?"
+<218>tuka_000365
+<219>Tsukasa
+<220>"Não sei. Isso tem algum nome?"
+<221>yuki_000938
+<222>Yuki
+<223>"Chama-se Ponte da Magpie."
+<224>tuka_000366
+<225>Tsukasa
+<226>"O que é uma magpie?"
+<227>yuki_000939
+<228>Yuki
+<229>"É um tipo de pássaro. No entanto, não há muitos deles no Japão."
+<230>tuka_000367
+<231>Tsukasa
+<232>"Por que um pássaro?"
+<233>yuki_000940
+<234>Yuki
+<235>"É que as costas e a cauda da pega são pretas. Só a barriga é branca, então, quando se vê um bando delas de baixo para cima, parece uma ponte, ou pelo menos é o que dizem."
+<236>yuki_000941
+<237>Yuki
+<238>"Todas as magpies se unem para abrir as asas e voar da margem sul da Via Láctea até a margem norte, formando uma ponte para Natsuhiko e Orihime."
+<239>yuki_000942
+<240>Yuki
+<241>"Nossa, Natsuhiko, é por isso que você é tão sem graça. Você tem que pedir ajuda a um passarinho minúsculo como uma magpie!"
+<242>tuka_000368
+<243>Tsukasa
+<244>"Isso não está certo. Natsuhiko é uma estrela de primeira magnitude, por isso é muito brilhante."
+<245>yuki_000943
+<246>Yuki
+<247>"Mas a Orihime é mais brilhante, não é? Ela é a quinta estrela mais brilhante de todo o céu."
+<248>tuka_000369
+<249>Tsukasa
+<250>"Acho que sim, mas a Natsuhiko também está se esforçando ao máximo."
+<251>zaku_000614
+<252>Zakuro
+<253>"Por que as duas foram separadas?"
+<254>yuki_000944
+<255>Yuki
+<256>"As duas eram trabalhadoras até se casarem e deixarem de trabalhar. O Rei Celestial ficou furioso com isso e os separou."
+<257>zaku_000615
+<258>Zakuro
+<259>"I-Isso... não faz com que pareça uma história muito romântica"
+<260>kaga_000502
+<261>Kagami
+<262>"Vejamos. Aquela é Deneb."
+<263>yuki_000945
+<264>Yuki
+<265>"Aquele ali é o cu do cisne."
+<266>kaga_000503
+<267>Kagami
+<268>"Não diz isso!"
+<269>yuki_000946
+<270>Yuki
+<271>"Mas na real, apartir da sua localização, seria isso, não é? A bunda, quer dizer."
+<272>kaga_000504
+<273>Kagami
+<274>"Yuki, sabe alguma coisa sobre a constelação do Cisne?"
+<275>yuki_000947
+<276>Yuki
+<277>"Olha, pense em Deneb como a cabeça."
+<278>kaga_000505
+<279>Kagami
+<280>"A cabeça?"
+<281>yuki_000948
+<282>Yuki
+<283>"Certo. Se Deneb é a cabeça, Então o que poderia ser além do cu?"
+<284>kaga_000506
+<285>Kagami
+<286>"Ugh. Não sei. Não sei dizer direito como as constelações deveriam ser. Para mim, parece apenas uma cruz."
+<287>yuki_000949
+<288>Yuki
+<289>"Correto. Nos países cristãos, eles a veem como um crucifixo, por isso a chamam de Cruzeiro do Norte"
+<290>yuki_000950
+<291>Yuki
+<292>"No sul, existe o Cruzeiro do Sul, e o Cruzeiro do Norte fica oposta a ele no céu do norte."
+<293>kaga_000507
+<294>Kagami
+<295>"Ah..."
+<296>tuka_000370
+<297>Tsukasa
+<298>"O som é bastante romântico."
+<299>yuki_000951
+<300>Yuki
+<301>"Mas é o cu do cisne"
+<302>tuka_000371
+<303>Tsukasa
+<304>"Não, não é!"
+<305>zk0002a
+<306>kg0002a
+<307>tk0002a
+<308>bg1017c
+<309>yuki_000952
+<310>Yuki
+<311>"De qualquer jeito, a energia ainda não voltou."
+<312>zk0000a
+<313>kg0000a
+<314>tk0000a
+<315>zaku_000616
+<316>Zakuro
+<317>"Ah, a propósito, estava dando uma olhada nas notícias no celular e parece que vai demorar uma hora para a energia voltar."
+<318>yuki_000953
+<319>Yuki
+<320>"O que aconteceu? Por que houve uma grande corte de energia?"
+<321>zk0006a
+<322>kg0008a
+<323>tk0008a
+<324>zaku_000617
+<325>Zakuro
+<326>"Dizem que um navio-guindaste descia o rio com o braço levantado e bateu em uma linha de alta tensão."
+<327>yuki_000954
+<328>Yuki
+<329>"O quê? Isso é muito ruim, não é?"
+<330>zaku_000618
+<331>Zakuro
+<332>"Tanto a linha principal quanto a de reserva foram cortadas, então vai demorar um pouco"
+<333>tk0003a
+<334>tuka_000372
+<335>Tsukasa
+<336>"Então, devemos pegar o telescópio emprestado na sala do clube de astronomia"
+<337>zk0008a
+<338>zaku_000619
+<339>Zakuro
+<340>"Podemos pegá-lo emprestado?"
+<341>kg0002a
+<342>kaga_000508
+<343>Kagami
+<344>"Nós temos permissão."
+<345>kaga_000509
+<346>Kagami
+<347>"Vem, a chave abre tanto o telhado quanto a sala do clube."
+<348>yuki_000955
+<349>Yuki
+<350>"Então, Quem vai buscar?"
+<351>kg0003a
+<352>kaga_000510
+<353>Kagami
+<354>"Você vai, é óbvio."
+<355>yuki_000956
+<356>Yuki
+<357>"Why?"
+<358>kg0002a
+<359>kaga_000511
+<360>Kagami
+<361>"Porque você é a mais forte, né?"
+<362>yuki_000957
+<363>Yuki
+<364>"Nah. Eu não consigo me comparar à sua força de idiota."
+<365>kg0003a_l
+<366>se005
+<367>kg0003a
+<368>kaga_000512
+<369>Kagami
+<370>"Disse alguma coisa?"
+<371>yuki_000958
+<372>Yuki
+<373>"Não, nada..."
+<374>yuki_000959
+<375>Yuki
+<376>"Mas eu não sei onde fica a sala do clube de astronomia."
+<377>kg0106a
+<378>kaga_000513
+<379>Kagami
+<380>"S-Sério? Acho que outra pessoa vai ter que ir com a Yuki."
+<381>kg0108a
+<382>kaga_000514
+<383>Kagami
+<384>"Vamos ver. A Yuki pode carregar as coisas, e quanto a alguém que saiba onde fica a sala do clube..."
+<385>zk0000a
+<386>zaku_000620
+<387>Zakuro
+<388>"Não sei onde fica."
+<389>tk0006a
+<390>tuka_000373
+<391>Tsukasa
+<392>"Eu sei onde fica, mas..."
+<393>kg0102a
+<394>kaga_000515
+<395>Kagami
+<396>"Então vai lá, Tsukasa."
+<397>tk0007a
+<398>tuka_000374
+<399>Tsukasa
+<400>"Por que diria isso??"
+<401>kg0109a
+<402>kaga_000516
+<403>Kagami
+<404>"A-Algo errado?"
+<405>tk0004
+<406>tuka_000375
+<407>Tsukasa
+<408>"É você quem realmente quer ir."
+<409>kg0108a
+<410>kg0109a
+<411>kaga_000517
+<412>Kagami
+<413>"Hã? P-Por que você pensaria isso?!"
+<414>zk0010a
+<415>zaku_000621
+<416>Zakuro
+<417>"Para nós, isso é bastante óbvio."
+<418>kaga_000518
+<419>Kagami
+<420>"P-Por que?!"
+<421>zaku_000622
+<422>Zakuro
+<423>"Porque seu rosto ficou vermelho assim que alguém disse 'junto com a Yuki'."
+<424>kg0109a
+<425>kg0109a
+<426>kg0109a
+<427>kg0109a
+<428>kaga_000519
+<429>Kagami
+<430>"S-Sem chance!"
+<431>tk0003a
+<432>zk0008
+<433>tuka_000376
+<434>Tsukasa
+<435>"Ahaha. Claro que não. Não tem como a gente ver isso no escuro. Ah!"
+<436>tk0109a
+<437>tk0109a
+<438>tk0109a
+<439>tk0109a
+<440>
+<441>kg0109
+<442>kaga_000520
+<443>Kagami
+<444>"Haa!"
+<445>yuki_000960
+<446>Yuki
+<447>"Hã? Algo de estranho?"
+<448>zk0008a
+<449>kaga_000521
+<450>Kagami
+<451>"Takashima-san, p-porque..."
+<452>tuka_000377
+<453>Tsukasa
+<454>"…você está com as mãos nos nossos peitos?"
+<455>zaku_000623
+<456>Zakuro
+<457>"Seus corações, ambos estão batendo rápido. Eles estão a todo vapor."
+<458>tuka_000378
+<459>Tsukasa
+<460>"I-I-Isso não é verdade."
+<461>kaga_000522
+<462>Kagami
+<463>"E-E-E o que isso prova?"
+<464>bgm004
+<465>zaku_000624
+<466>Zakuro
+<467>"Mas o coração de Kagami-san está batendo um pouquinho mais rápido."
+<468>kg0105a
+<469>kaga_000523
+<470>Kagami
+<471>"Por que diria isso?!"
+<472>zaku_000625
+<473>Zakuro
+<474>"Então, isso só mostra o quanto está animada, certo?"
+<475>kaga_000524
+<476>Kagami
+<477>"O-O que isso significa?"
+<478>zk0002a
+<479>zaku_000626
+<480>Zakuro
+<481>"Tsukasa-san, Kagami-san. Suas mãos..."
+<482>tk0108a
+<483>tuka_000379
+<484>Tsukasa
+<485>"Hã?"
+<486>kg0108
+<487>tk0108a
+<488>zaku_000627
+<489>Zakuro
+<490>"Coloque uma mão no peito da outra pessoa e a outra no seu próprio peito"
+<491>tuka_000380
+<492>Tsukasa
+<493>"Ah..."
+<494>kg0107
+<495>kaga_000525
+<496>Kagami
+<497>"Urgh..."
+<498>tk0102a
+<499>tuka_000381
+<500>Tsukasa
+<501>"Está certa. A da Onee-chan realmente está mais rápido."
+<502>kg0109
+<503>kaga_000526
+<504>Kagami
+<505>"N-Não é isso! Eu sou um medroso, sabe? É isso! É só por isso que meu coração está batendo mais rápido."
+<506>tuka_000382
+<507>Tsukasa
+<508>"Então, nós três devemos ir juntos."
+<509>kg0102
+<510>kaga_000527
+<511>Kagami
+<512>"Ah, claro. dá certo. Sim."
+<513>zk0006a
+<514>zaku_000628
+<515>Zakuro
+<516>"Vai me deixar aqui sozinha? Isso parece um pouco solitário."
+<517>tk0003a
+<518>tuka_000383
+<519>Tsukasa
+<520>"Desculpe por isso. Bem, vamos nessa."
+<521>Tsukasa nos puxou pelas mãos enquanto descia as escadas.
+<522>Eu estava preocupada que a Tsukasa pudesse cair se descesse correndo as escadas, já que ela era tão desastrada.
+<523>bg1011d
+<524>kg0000a
+<525>tk0009a
+<526>tuka_000384
+<527>Tsukasa
+<528>"Ah... Oh não, o que devo fazer...."
+<529>kg0009
+<530>kaga_000528
+<531>Kagami
+<532>"O que é isso?"
+<533>tk0103a
+<534>tuka_000385
+<535>Tsukasa
+<536>"Hehehe. Preciso ir ao banheiro."
+<537>kaga_000529
+<538>Kagami
+<539>"Hã?"
+<540>tuka_000386
+<541>Tsukasa
+<542>"Desculpe, é uma emergência, então terá que ir buscar o telescópio sozinha com a Yuki, Onee-chan."
+<543>kg0109
+<544>kaga_000530
+<545>Kagami
+<546>"O que está dizendo? Nesse caso, eu vou com você."
+<547>tuka_000387
+<548>Tsukasa
+<549>"Tem um sofá enorme na sala do clube de astronomia!"
+<550>kaga_000531
+<551>Kagami
+<552>"Ts-Tsukasa!"
+<553>Tsukasa subiu correndo as escadas que tínhamos acabado de descer.
+<554>kg0106a
+<555>kaga_000532
+<556>Kagami
+<557>"Argh..."
+<558>yuki_000961
+<559>Yuki
+<560>"Bem, vamos indo?"
+<561>kg0109a
+<562>kaga_000533
+<563>Kagami
+<564>"I-Ir?"
+<565>yuki_000962
+<566>Yuki
+<567>"Ué? Não vamos?"
+<568>kg0106a
+<569>kaga_000534
+<570>Kagami
+<571>"A-Acho que sim... M-Mas enfim, vamos!"
+<572>kg0105a
+<573>
+<574>yuki_000963
+<575>Yuki
+<576>"Esse é  plano."
+<577>bg1011d
+<578>kg0006a
+<579>kaga_000535
+<580>Kagami
+<581>"A escola é realmente assustadora à noite."
+<582>yuki_000964
+<583>Yuki
+<584>"Especialmente porque as salas dos clubes ficam mais pro interior."
+<585>kaga_000536
+<586>Kagami
+<587>"Astronomia... Astronomia... Ah, tá aqui."
+<588>kg0001a
+<589>
+<590>yuki_000965
+<591>Yuki
+<592>"tá ai."
+<593>kaga_000537
+<594>Kagami
+<595>"Hum... a chave... tá aqui."
+<596>se522
+<597>kg0006a
+<598>bg1046b
+<599>kaga_000538
+<600>Kagami
+<601>"Tá escuro. Hum, é só isso?"
+<602>yuki_000966
+<603>Yuki
+<604>"Fica bem alto, não é?"
+<605>kg0004a
+<606>kaga_000539
+<607>Kagami
+<608>"Ah... Caralho, onde está? Não consigo ver de jeito nenhum!"
+<609>kg0005a
+<610>
+<611>yuki_000967
+<612>Yuki
+<613>"Ah, K-Kagami."
+<614>kg0009a_l
+<615>se648
+<616>yuki_000968
+<617>Yuki
+<618>"Aii…"
+<619>kaga_000540
+<620>Kagami
+<621>"Y-Yuki?"
+<622>yuki_000969
+<623>Yuki
+<624>"O que você está fazendo? O globo acabou de cair em cima de mim."
+<625>kaga_000541
+<626>Kagami
+<627>"Então foi isso que aconteceu. D-Desculpe!"
+<628>yuki_000970
+<629>Yuki
+<630>"Caramba..."
+<631>Eu caí em cima da Kagami quando desviei do globo que estava caindo.
+<632>Nossos rostos estavam estranhamente próximos.
+<633>Ahahaha. Isso me fez pensar um pouco sobre o que fizemos antes.
+<634>Eu ri e estava prestes a me mexer...
+<635>Então, naquele instante, a boca de Kagami se abriu.
+<636>bgm102
+<637>ev3101a
+<638>kaga_000542
+<639>Kagami
+<640>"E-Ei, Yuki."
+<641>yuki_000971
+<642>Yuki
+<643>"Hã? Q-Quê?"
+<644>kaga_000543
+<645>Kagami
+<646>"sabe, outro dia a gente se beijou, não foi?"
+<647>yuki_000972
+<648>Yuki
+<649>"Hã? Ah, sim..."
+<650>Por que raios ela tava mencionando isso?
+<651>Eu tava tentando não pensar nisso.
+<652>Por algum motivo, conseguia sentir meu coração batendo mais rápido.
+<653>Eu me perguntava por que conseguia senti-la tão claramente. Normalmente não prestamos atenção às batidas do nosso próprio coração.
+<654>Kagami e eu nos olhamos nos olhos.
+<655>Ela foi a primeira a falar novamente.
+<656>kaga_000544
+<657>Kagami
+<658>"Sabe, quando nossos lábios se tocaram, eu fiquei incrivelmente feliz. Ahaha, Eu sou pervertida?"
+<659>yuki_000973
+<660>Yuki
+<661>"Você é uma pervertida, hein?"
+<662>kaga_000545
+<663>Kagami
+<664>"O-O quê?!"
+<665>Kagami pareceu irritada.
+<666>De alguma forma, ver aquela expressão me deu vontade de provocá-la.
+<667>Meu coração começou a bater ainda mais rápido.
+<668>Se eu continuasse olhando para a pele pálida de Kagami, aqui na escuridão, eu talvez...
+<669>yuki_000974
+<670>Yuki
+<671>"É. Quando você me beijou de repente, foi bem surpreendente. Mesmo sendo uma garota, você beijou outra garota como eu."
+<672>kaga_000546
+<673>Kagami
+<674>"I-Isso foi porque era o Jogo do Rei."
+<675>yuki_000975
+<676>Yuki
+<677>"Então você simplesmente me beijou assim do nada?"
+<678>kaga_000547
+<679>Kagami
+<680>"B-bem, sim."
+<681>yuki_000976
+<682>Yuki
+<683>"Nesse caso..."
+<684>kaga_000548
+<685>Kagami
+<686>"Hã?"
+<687>Empurrei o corpo de Kagami para baixo e sussurrei, com minha boca bem perto da dela.
+<688>yuki_000977
+<689>Yuki
+<690>"E se desta vez, eu te beijasse aqui e agora?"
+<691>kaga_000549
+<692>Kagami
+<693>"Hã?"
+<694>Meus lábios lentamente se aproximaram dos dela.
+<695>Kagami fechou os olhos.
+<696>yuki_000978
+<697>Yuki
+<698>"Hmm..."
+<699>kaga_000550
+<700>Kagami
+<701>"Ah!"
+<702>ev3101b
+<703>Minha língua percorreu o contorno dos lábios da Kagami
+<704>Era uma brincadeira
+<705>Tinhamos nos beijado antes, e eu estava apenas tocando os lábios dela.
+<706>Era só uma brincadeira, uma continuação de antes.
+<707>Contra minha vontade, o calor do momento tornou impossível resistir à brincadeira
+<708>yuki_000979
+<709>Yuki
+<710>"Hehe. Isso mal foi um beijo."
+<711>Eu ri enquanto dizia isso.
+<712>E então...
+<713>kaga_000551
+<714>Kagami
+<715>"Ahh..."
+<716>yuki_000980
+<717>Yuki
+<718>"Hh?!"
+<719>Segurando meu rosto entre as mãos, Kagami retribuiu o beijo
+<720>kaga_000552
+<721>Kagami
+<722>"Ngha... mmha, ngh... hnn... chu... ngha... nn..."
+<723>Estávamos tão apressados que nossos dentes ficavam se chocando o tempo todo. Mas a Kagami não pareceu perceber nada, então continuou me beijando.
+<724>kaga_000553
+<725>Kagami
+<726>"Auh... hnn... psh... hnn... Aha... ngh... haa... ha..."
+<727>Mesmo quando nos afastamos, um fio prateado ainda conectava nossos lábios.
+<728>Kagami me olhou em silêncio, com os olhos marejados.
+<729>Eram exatamente os mesmos olhos que ela tinha no outro dia. Desde que ela me olhou com aqueles olhos pela primeira vez, era só uma questão de tempo até acabarmos fazendo isso.
+<730>Eu a provoquei enquanto sentia meu próprio coração batendo como um tambor no peito. Eventualmente, ele estava batendo tão rápido que eu não estava mais apenas a provocando.
+<731>A situação cresceu como uma bola de neve rolando ladeira abaixo.
+<732>À medida que role, ele vai ficando maior.
+<733>Assim como nossos corações.
+<734>Eu me vi me aproximando para outro beijo antes de perceber.
+<735>kaga_000554
+<736>Kagami
+<737>"Ahn... hnn... psh... ngh... ha... ha..."
+<738>A língua macia de Kagami se abriu para dentro da minha boca.
+<739>yuki_000981
+<740>Yuki
+<741>"Hmm... hmm... psh... ha... hnn... ha..."
+<742>Respondi unindo a minha língua na dela.
+<743>Molhamos os lábios uma da outra, o som que espacava era tão obsceno.
+<744>ev3101c
+<745>kaga_000555
+<746>Kagami
+<747>"Haa... Yuki."
+<748>yuki_000982
+<749>Yuki
+<750>"O que foi, Kagami?"
+<751>kaga_000556
+<752>Kagami
+<753>"Yuki, sua burra. Burra, burra, burra."
+<754>yuki_000983
+<755>Yuki
+<756>"Você não deveria chamar as pessoas de burras o tempo todo."
+<757>kaga_000557
+<758>Kagami
+<759>"Aff, É culpa sua por eu não consegui mais segurar o que sinto."
+<760>yuki_000984
+<761>Yuki
+<762>"Minha culpa?"
+<763>kaga_000558
+<764>Kagami
+<765>"Isso mesmo. Yuki, eu..."
+<766>yuki_000985
+<767>Yuki
+<768>"Sabe, não tem mais nada que precisa esconder."
+<769>kaga_000559
+<770>Kagami
+<771>"Huh?"
+<772>yuki_000986
+<773>Yuki
+<774>"Porque eu sinto o mesmo que você."
+<775>yuki_000987
+<776>Yuki
+<777>"hm... ah... hnng... ha... ha... hnng... mm..."
+<778>Eu tinha tentado negar isso, mas...
+<779>Na verdade, eu sabia disso desde.
+<780>Eu sabia disso desde que nos beijados durante o Jogo do Rei.
+<781>Um jogo pode mudar a realidade.
+<782>Uma brincadeira em meu coração se tornou um amor verdadeiro.
+<783>ev3102a
+<784>Deslizei meus dedos sobre a coxa da Kagami.
+<785>yuki_000988
+<786>Yuki
+<787>"Sua pele é tão suave e macia."
+<788>kaga_000560
+<789>Kagami
+<790>"Ah... Y-Yuki?"
+<791>yuki_000989
+<792>Yuki
+<793>"Quê? Quer que eu pare?"
+<794>kaga_000561
+<795>Kagami
+<796>"Ah, não! Se parar..."
+<797>yuki_000990
+<798>Yuki
+<799>"Hmm? O que?"
+<800>kaga_000562
+<801>Kagami
+<802>"Grr... Burra, burra, burra!"
+<803>kaga_000563
+<804>Kagami
+<805>"Ah, haa... Ha."
+<806>yuki_000991
+<807>Yuki
+<808>"Relaxa. Não vou parar."
+<809>Minha mão deslizou embaixo da saia dela.
+<810>yuki_000992
+<811>Yuki
+<812>"Haa... Tá tão quente aqui embaixo. Só tem apenas esse resto de pano entre mim e você."
+<813>ev3102b
+<814>kaga_000564
+<815>Kagami
+<816>"Ah, uhn...!"
+<817>Kagami tava muito quente ali embaixo... e molhada.
+<818>yuki_000993
+<819>Yuki
+<820>"Tá suando?"
+<821>ev3102c
+<822>kaga_000565
+<823>Kagami
+<824>"É-É isso mesmo. Tá tão quente, então eu tava suando."
+<825>yuki_000994
+<826>Yuki
+<827>"Hum, então seu suor está todo viscoso assim."
+<828>Afastei minha mão, pegajosa com seus fluídos, e abri meus dedos para mostrá-la
+<829>Senti seu corpo tremendo embaixo de mim.
+<830>kaga_000566
+<831>Kagami
+<832>"A-ah, não… não é isso… n-não é assim…"
+<833>yuki_000995
+<834>Yuki
+<835>"O que não é assim? Isso é suor"
+<836>kaga_000567
+<837>Kagami
+<838>"Ah… eu… eu… ah… sabe…"
+<839>yuki_000996
+<840>Yuki
+<841>"Hehe... Seu suor é meio pegajoso, mas tem um bom gosto"
+<842>kaga_000568
+<843>Kagami
+<844>"Ah, aí é... Não lamba isso. Yuki é... Yuki é... Minha... Minha..."
+<845>O corpo da Kagami tremia. Parecia que tinha chegado ao apíce do tesão só de me ver lamber seu suor.
+<846>yuki_000997
+<847>Yuki
+<848>"Heh... hehe... Porque só a sua buceta está úmida? Sua coxa está molhad."
+<849>kaga_000569
+<850>Kagami
+<851>"Hã? Ah... Ha!"
+<852>Eu esfreguei por cima da calcinha dela.
+<853>Kagami tampou a boca com as mãos, mas não conseguia conter os gemidos
+<854>kaga_000570
+<855>Kagami
+<856>"Por que... Por que tá me provocando? Não me provoque desse jeito"
+<857>yuki_000998
+<858>Yuki
+<859>"O que foi? Isso é suor, não é? Então não há nada com o que se vergonhar… né?"
+<860>kaga_000571
+<861>Kagami
+<862>"N-não… não pode… Yu-Yuki… isso não… ah… aaah… não… Yuki…"
+<863>yuki_000999
+<864>Yuki
+<865>"Kagami? O que é que não pode? Me diz, vai?"
+<866>kaga_000572
+<867>Kagami
+<868>"Se me tocar mais uma vez... Eu... Eu vou... Ah."
+<869>Enquanto deixava Kagami explicar, eu abaixei a roupa íntima dela...
+<870>ev3102d
+<871>Embora estivesse escuro, a parte de dentro do corpo dela ficou completamente exposta quando levantei a saia.
+<872>kaga_000573
+<873>Kagami
+<874>"Aaah... Yuki..."
+<875>yuki_001000
+<876>Yuki
+<877>"Algo errado?"
+<878>kaga_000574
+<879>Kagami
+<880>"Hyaaaaha... ha."
+<881>Ela fez o possível para cobrir a boca e impedir que seus gemidos saíssem.
+<883>Qualquer um podia perceber o estado que ela estava. Apenas um leve toque para sentir o quanto ela estava molhada
+<884>Meu dedo fazia barulhos indecentes toda vez que eu o movia.
+<885>yuki_001001
+<886>Yuki
+<887>"Seu suor é muito esquisito. E Preciso perguntar, você sua pela buceta"
+<888>kaga_000575
+<889>Kagami
+<890>"Uhaa."
+<891>yuki_001002
+<892>Yuki
+<893>"Tem tanta coisa... É uma pervertida, mesma né? Pervertida."
+<894>kaga_000576
+<895>Kagami
+<896>"P-Pervertida... E-Eu..."
+<897>yuki_001003
+<898>Yuki
+<899>"Se excitar ao ser tocada por uma mulher, isso faz de você uma pervertida. Não concorda?"
+<900>kaga_000577
+<901>Kagami
+<902>"N-Não. Não. E-Eu... É porque é você. É porque estou sendo tocada por você."
+<903>yuki_001004
+<904>Yuki
+<905>"Isso mesmo. Você tá com tesão porque eu tô te tocando."
+<906>kaga_000578
+<907>Kagami
+<908>"Ah, haa... Que sensação boa... Seus dedos... me sinto tão bem..."
+<909>Kagami empurrou meu dedo ainda mais fundo, dentro de seu lugar especial.
+<910>kaga_000579
+<911>Kagami
+<912>"Ah, ha... ha... Seus dedos... Tão bons..."
+<913>yuki_001005
+<914>Yuki
+<915>"É mesmo, Muito pervetida."
+<916>kaga_000580
+<917>Kagami
+<918>"Ah, hnn... Desculpa... Eu... Eu sou... pervertida... mas estou feliz... que você tá... fazendo isso pra mim..."
+<919>yuki_001006
+<920>Yuki
+<921>"Hehehe. Certo? Era isso que você quis que eu fizesse."
+<922>kaga_000581
+<923>Kagami
+<924>"Ooh... Que cruel..."
+<925>yuki_001007
+<926>Yuki
+<927>"Mas a sua cara é tão fofa."
+<928>Chup, chup. Meus dedos estavam quente e úmidos
+<929>Kagami estava melada por ter sido tocada.
+<930>yuki_001008
+<931>Yuki
+<932>"Haa... Haa... Tão fofa, Me dá vontade de te implicar."
+<933>kaga_000582
+<934>Kagami
+<935>"Haa, ha... Se falar uma coisa dessas... Eu... Eu... Yuki."
+<936>yuki_001009
+<937>Yuki
+<938>"Hehehe... Pervertida."
+<939>yuki_001010
+<940>Yuki
+<941>"Mas... Kagami, olha. Eu também. Tanto que nem consigo acreditar."
+<942>Coloquei a mão de Kagami dentro da minha saia. Minha coxa estava melada, como se eu estivesse me mijado.
+<943>yuki_001011
+<944>Yuki
+<945>"Sou pervitida, Igual a você..."
+<946>yuki_001012
+<947>Yuki
+<948>"Humm... ha... ha... humm..."
+<949>kaga_000583
+<950>Kagami
+<951>"Ha... Haa... Haaa! Yuki... Ha! Aa..."
+<952>Kagami não queria se afastar dos meus lábios. Naquele instante, éramos um só.
+<953>kaga_000584
+<954>Kagami
+<955>"Aaa... Aaaaa... Não, não, não, não, não... Eu vou..."
+<956>white
+<957>white
+<958>white
+<959>white
+<960>white
+<961>ev3102e
+<962>kaga_000585
+<963>Kagami
+<964>"Kuha, ha, ha, ha, ha! Ahhhhhh..."
+<965>Kagami se contorceu, e então o corpo dela ficou rígido como se tivesse sido atingida por um raio.
+<966>kaga_000586
+<967>Kagami
+<968>"Aah... ha... ha... ha..."
+<969>yuki_001013
+<970>Yuki
+<971>"Hehehe... gostou?"
+<972>kaga_000587
+<973>Kagami
+<974>"C-Claro... Foi gostoso..."
+<975>kaga_000588
+<976>Kagami
+<977>"M-Mas só foi bom pra mim..."
+<978>yuki_001014
+<979>Yuki
+<980>"Kagami... hnn... psh... ngh..."
+<981>Beijei Kagami por um bom tempo.
+<982>E então, tirei todas as roupas dela.
+<983>ev3103a
+<984>Fomos atingidos por um prazer que nunca havíamos sentido antes
+<985>Nossas partes quentes e meladas se esfregavam uma na outra
+<986>kaga_000589
+<987>Kagami
+<988>"Aah, incrível... O da Yuki e a minha estão..."
+<989>yuki_001015
+<990>Yuki
+<991>"Hmm... Ha..."
+<992>Essa ação, o simples fato de esfregamos nossas bucetas uma na outra era tão bom. Uma ação tão simples...
+<993>Mas a sensação de nossas partes mais sensíveis estarem em contato só se intensificou com a sensação de depravação, de estarmos fazendo isso apesar de sermos amigos de infância.
+<994>kaga_000590
+<995>Kagami
+<996>"N-Não! Yuki! Não... Yuki... Tão bom... Incrível."
+<997>yuki_001016
+<998>Yuki
+<999>"Kagami... isso é incrível... tá tão molhada... de um jeito tão safada...."
+<1000>kaga_000591
+<1001>Kagami
+<1002>"Ah, ah... alinhando nossas partes de garota... Não dá pra acreditar..."
+<1003>yuki_001017
+<1004>Yuki
+<1005>"Incrível... Sua buceta é tão gostosa... É incrível... Ah... Mesmo que sejamos duas garotas... Duas garotas esfregando suas partes uma na outra... Duas garotas se esfregando..."
+<1006>kaga_000592
+<1007>Kagami
+<1008>"Haa... Ha... Mas Yuki, Você também tá molhada... Eu... Eu não sei que tá acontecendo comigo..."
+<1009>yuki_001018
+<1010>Yuki
+<1011>"Sua buceta é gostosa... É vermelho vivo... tão molhada, Eu não consigo dizer se é suor ou gozo"
+<1012>kaga_000593
+<1013>Kagami
+<1014>"Não... Não diz isso... Aahhh... Não não... Aah... Não, Yuki... É prazeroso demais."
+<1015>Nós nos esfregamos uma na outra na sala do clube, no meio da noite.
+<1016>Estávamos ambas completamente nuas.
+<1017>Fizemos o nosso melhor para esfregar nossas partes mais quentes juntas. Empurramos mais forte e fundo e ficamos ainda mais quente
+<1018>Era como se estivéssemos derretendo uma na outra. Nós nos esfregávamos, balançando os quadris com determinação.
+<1019>E nos beijamos.
+<1020>Nossos lábios se encontraram por completo.
+<1021>kaga_000594
+<1022>Kagami
+<1023>"Ah, ah, que... ... Sua buceta é tão gostosa... Consigo sentir sua buceta... Aahh..."
+<1024>yuki_001019
+<1025>Yuki
+<1026>"Mm... hup... hmm... ha... psh... haa... Sua buceta tá tão quente..."
+<1027>kaga_000595
+<1028>Kagami
+<1029>"Hmm... haah... Yuki, Yuki, Yuki... Ahm, Hmm, hmm... Ha... Hmm hmm... Yuki, Eu quero mais. Seu corpo... Eu quero mais..."
+<1030>yuki_001020
+<1031>Yuki
+<1032>"U... Uha... ha, sua buceta... é tão macia... Ee, ha... ha..."
+<1033>yuki_001021
+<1034>Yuki
+<1035>"Haa... ha... ngh... ha... Eu também te quero... Vamos unir mais nossos corpos... Esfregar nossas bucetas ... mais, mais."
+<1036>kaga_000596
+<1037>Kagami
+<1038>"Sim... eu quero o seu calor... eu quero sentir mais o seu calor..."
+<1039>yuki_001022
+<1040>Yuki
+<1041>"Auh... ha... ha... hmmm... Chega mais perto... nossos corpos mais... tudo, todos os fluidos de nossos corpos... mais, mais..."
+<1042>kaga_000597
+<1043>Kagami
+<1044>"Haaa, uuuh... Haa... ha... uh...  tá muito intenso, ahh... ah... ahh… Yuki, Yuki, Yuki... ahh, que gostoso..."
+<1045>yuki_001023
+<1046>Yuki
+<1047>"Eu também... tá intenso, é incrível... Haa... psh... ngha... uhhh... Eu... Eu..."
+<1048>kaga_000598
+<1049>Kagami
+<1050>"N-Nãããooo... Haaa! Não aguento mais... Yuki, isso é tão bom..."
+<1051>yuki_001024
+<1052>Yuki
+<1053>"Ah, I... Não dá mais pra aguentar... Kagami... Aaauu... Haa! Haa, haaa!"
+<1054>kaga_000599
+<1055>Kagami
+<1056>"Aah, Tudo bem... Eu também... Eu... não consigo... não consigo me segurar... Aah..."
+<1057>kaga_000600
+<1058>Kagami
+<1059>"Ahaah! Amazing... Aahh, ahhh, ahhh, Eu estou gozando! Paaaara!"
+<1060>yuki_001025
+<1061>Yuki
+<1062>"Haa, hngh, Eu... Eu vou... gozar! Haa, ha, ha, ha, haaaaa, hngh, ha, haa!"
+<1063>white
+<1064>white
+<1065>white
+<1066>white
+<1067>white
+<1068>ev3103b
+<1069>Chegamos quase ao mesmo tempo.
+<1070>Nos duas caímos exaustas bem ali onde estávamos e então...
+<1071>Nós duas, exaustas, dormimos.
+<1072>se058
+<1073>bg1046a
+<1074>As the sun was rising on a new day, we were woken by Tsukasa.
+<1075>She saw us embracing each other, completely naked.
+<1076>But she wasn't surprised or disgusted.
+<1077>zk0106a
+<1078>tk0110a_l
+<1079>tuka_000388
+<1080>Tsukasa
+<1081>"Onee-chan, would you please think of the people who have been waiting for you upstairs all night?"
+<1082>Tsukasa got mad and said that.
+<1083>Behind her, Takashima was giggling.
+<1084>zk0103a_l
+<1085>tk0110a
+<1086>zaku_000629
+<1087>Zakuro
+<1088>"Well, there's no time to shower. Put on your clothes. Let's go home."
+<1089>Like that, the last day ended.
+<1090>zaku_000630
+<1091>Zakuro
+<1092>"But Tsukasa-san's heart is beating just a little bit faster."
+<1093>tk0109a
+<1094>tuka_000389
+<1095>Tsukasa
+<1096>"Huh? Th-That's not..."
+<1097>kg0102a
+<1098>kaga_000601
+<1099>Kagami
+<1100>"Oh? What are you thinking about, Tsukasa?"
+<1101>tk0105a
+<1102>tuka_000390
+<1103>Tsukasa
+<1104>"I-It's a misunderstanding. I'm not thinking about anything."
+<1105>zk0002a
+<1106>zaku_000631
+<1107>Zakuro
+<1108>"Well then, you two, use your own hands and feel it for yourself..."
+<1109>tk0109a
+<1110>tuka_000391
+<1111>Tsukasa
+<1112>"Huh?"
+<1113>kg0108
+<1114>tk0108a
+<1115>zaku_000632
+<1116>Zakuro
+<1117>"Which one is faster, the heartbeat coming from your own chest, or the heartbeat coming from the other's?"
+<1118>tk0107a
+<1119>tuka_000392
+<1120>Tsukasa
+<1121>"Urgh..."
+<1122>kg0109
+<1123>kaga_000602
+<1124>Kagami
+<1125>"Whoa, it's fast."
+<1126>tk0105a
+<1127>tuka_000393
+<1128>Tsukasa
+<1129>"Th-That's not it. That's a loaded question! If you ask me that, of course my heart rate is going to speed up."
+<1130>kg0110
+<1131>kaga_000603
+<1132>Kagami
+<1133>"But she said the same thing to me."
+<1134>tuka_000394
+<1135>Tsukasa
+<1136>"N-No. This is one of Zhuge Liang's traps. Zhou Yu is in trouble!"
+<1137>zk0001a
+<1138>zaku_000633
+<1139>Zakuro
+<1140>"There's no trap. Just reality."
+<1141>kg0102
+<1142>kaga_000604
+<1143>Kagami
+<1144>"Go with her. We'll be here, wholesomely looking at the stars."
+<1145>tuka_000395
+<1146>Tsukasa
+<1147>"Wh-What's that? You make it sound like we're about to do something that's not wholesome."
+<1148>kg0108
+<1149>kg0102
+<1150>kaga_000605
+<1151>Kagami
+<1152>"Heheh. I didn't say that. I just said we're going to be here, wholesomely looking at the stars."
+<1153>tk0109a
+<1154>tuka_000396_a
+<1155>Tsukasa
+<1156>"Ughh, that's a trap!"
+<1157>tk0105a
+<1158>tuka_000397
+<1159>Tsukasa
+<1160>"Jeez, it's fine. I'll go get it myself!"
+<1161>yuki_001026
+<1162>Yuki
+<1163>"Oh... Tsukasa went alone."
+<1164>kg0101a_l
+<1165>kaga_000606
+<1166>Kagami
+<1167>"Go on. Hurry up and go catch her."
+<1168>yuki_001027
+<1169>Yuki
+<1170>"Huh? Me?"
+<1171>kg0105a_l
+<1172>kaga_000607
+<1173>Kagami
+<1174>"That's right. Run, Sima Yi! Death to Zhuge Liang!"
+<1175>kg0102a_l
+<1176>yuki_001028
+<1177>Yuki
+<1178>"That makes so little sense that I don't even know where to begin."
+<1179>kg0103a_l
+<1180>kaga_000608
+<1181>Kagami
+<1182>"Anyway, just go after her!"
+<1183>yuki_001029
+<1184>Yuki
+<1185>"Y-Yeah. Gotcha."
+<1186>map002
+<1187>map002
+<1188>bg1011d
+<1189>But where had she gone?
+<1190>The astronomy clubroom ought to be in the club wing of the school, so going there was probably my best bet.
+<1191>map002
+<1192>map002
+<1193>bg1011d
+<1194>yuki_001030
+<1195>Yuki
+<1196>"Ah, Tsukasa!"
+<1197>tuka_000398
+<1198>Tsukasa
+<1199>"Huh?"
+<1200>tk0109a
+<1201>tuka_000399
+<1202>Tsukasa
+<1203>"Y-Yuki..."
+<1204>yuki_001031
+<1205>Yuki
+<1206>"Why did you run off? It was hard to catch up."
+<1207>tk0106
+<1208>tuka_000400
+<1209>Tsukasa
+<1210>"S-Sorry. Y-You see..."
+<1211>yuki_001032
+<1212>Yuki
+<1213>"Huh? What is it?"
+<1214>tuka_000401
+<1215>Tsukasa
+<1216>"Well... don't get too close to me, please."
+<1217>yuki_001033
+<1218>Yuki
+<1219>"Huh?"
+<1220>tuka_000402
+<1221>Tsukasa
+<1222>"When we're alone together... you shouldn't get too close to me..."
+<1223>yuki_001034
+<1224>Yuki
+<1225>"U-Uh, that's..."
+<1226>I wasn't sure, but... did she hate me now?!
+<1227>Why?! Hadn't I been trying to get along with her lately?
+<1228>map002
+<1229>map002
+<1230>bg1011d
+<1231>tk0102a
+<1232>tuka_000403
+<1233>Tsukasa
+<1234>"Uh, the astronomy club is all the way at the end of the club wing. Oh, there it is!"
+<1235>yuki_001035
+<1236>Yuki
+<1237>"Yeah."
+<1238>It really was all the way at the end.
+<1239>tk0100
+<1240>tuka_000404
+<1241>Tsukasa
+<1242>"Uh, um, the key, the key... Oh, here."
+<1243>se522
+<1244>tk0107
+<1245>bg1046b
+<1246>tuka_000405
+<1247>Tsukasa
+<1248>"S-So, we'd better find it quickly. Uh, I think it was on this shelf..."
+<1249>tk0107_l
+<1250>yuki_001036
+<1251>Yuki
+<1252>"Is it on that shelf?"
+<1253>tk0108_l
+<1254>
+<1255>tk0109a
+<1256>tuka_000406
+<1257>Tsukasa
+<1258>"Hey! Stop!"
+<1259>yuki_001037
+<1260>Yuki
+<1261>"Huh? What is it?"
+<1262>tk0106
+<1263>tuka_000407
+<1264>Tsukasa
+<1265>"U-Um, Yuki, something bad could happen if you get any closer to me."
+<1266>yuki_001038
+<1267>Yuki
+<1268>"Why's that? Why are you suddenly avoiding me like that?"
+<1269>tk0105a
+<1270>tuka_000408
+<1271>Tsukasa
+<1272>"N-No, don't come closer."
+<1273>bg1046b
+<1274>yuki_001039
+<1275>Yuki
+<1276>"Ah..."
+<1277>bg1046b
+<1278>tk0006a_ll
+<1279>tk0006a_eye11
+<1280>tk0006a_eye12
+<1281>tk0006a_eye21
+<1282>tk0006a_eye22
+<1283>tuka_000409
+<1284>Tsukasa
+<1285>"I-I-I can't... hold on..."
+<1286>yuki_001040
+<1287>Yuki
+<1288>"Ts-Tsukasa?"
+<1289>tuka_000410
+<1290>Tsukasa
+<1291>"Ah!"
+<1292>bg1046b
+<1293>se011
+<1294>map003
+<1295>What happened?
+<1296>Huh? Wh-What was this? I was being pushed down?
+<1297>bgm102
+<1298>ev3104a
+<1299>tuka_000411
+<1300>Tsukasa
+<1301>"I t-told you... you shouldn't get any closer."
+<1302>tuka_000412
+<1303>Tsukasa
+<1304>"I-I'm... unbelievably bad at holding back... That time too, everyone else was shocked by how long I kissed you..."
+<1305>tuka_000413
+<1306>Tsukasa
+<1307>"I think you understand... I-I... was so wet... that your leg was soaked..."
+<1308>tuka_000414
+<1309>Tsukasa
+<1310>"Since then... I get like this... every time I look at your face..."
+<1311>yuki_001041
+<1312>Yuki
+<1313>"Mm?!"
+<1314>tuka_000415
+<1315>Tsukasa
+<1316>"Aah... hmm... ha... hnghh... hmmm..."
+<1317>yuki_001042
+<1318>Yuki
+<1319>"Ngh... ha... hmm... ha..."
+<1320>Tsukasa insatiably explored the inside of my mouth. My tongue responded in kind, moving against hers as well.
+<1321>With every clash of our tongues, a shudder went through our bodies.
+<1322>With every shudder, a small cry escaped Tsukasa's mouth.
+<1323>tuka_000416
+<1324>Tsukasa
+<1325>"Ah, ah, aah... Yuki, you dummy, you're stronger, so you have to stop me... If you don't, I'll... I'll..."
+<1326>yuki_001043
+<1327>Yuki
+<1328>"I-If I don't... you'll do what?"
+<1329>tuka_000417
+<1330>Tsukasa
+<1331>"I won't be able to just be your childhood friend anymore... Since then, I've constantly been thinking of your lips... Never, never able to forget that kiss... I can't..."
+<1332>yuki_001044
+<1333>Yuki
+<1334>"I-Is that so... My lips... were that good..."
+<1335>I feigned calm, but even I could tell my voice was shaking.
+<1336>My heart was beating so loudly I could hardly hear my own words.
+<1337>tuka_000418
+<1338>Tsukasa
+<1339>"Yeah... Ah, aah, that's why I want to kiss you more... More and more. I want to kiss you and have it never end..."
+<1340>Tsukasa's eyes were wet. Her skin was soft. Her lips were beautiful, warm, and moist.
+<1341>yuki_001045
+<1342>Yuki
+<1343>"I-I... don't mind... Mmh?!"
+<1344>Before I could even finish speaking, Tsukasa silenced my lips with her own. She cradled my head and, rather than kissing me, she seemed to be devouring my lips.
+<1345>yuki_001046
+<1346>Yuki
+<1347>"Mm, mm... ha... hmm... mmhh..."
+<1348>tuka_000419
+<1349>Tsukasa
+<1350>"Nhaa... psh... mhaa... mhaa... mmm... ha, ha, haa..."
+<1351>tuka_000420
+<1352>Tsukasa
+<1353>"Haa, S-Sorry... Sorry... Yuki... I'm... Haa... weird, huh? You probably think I'm weird..."
+<1354>tuka_000421
+<1355>Tsukasa
+<1356>"I thought just a kiss would be fine, ha, ha. I thought if I could just kiss you... that would be enough, but..."
+<1357>tuka_000422
+<1358>Tsukasa
+<1359>"Ha, haa, I can't stop this feeling. I want to get closer to your warmth."
+<1360>yuki_001047
+<1361>Yuki
+<1362>"Hhmm?! ...Hnnn... Ha, haa..."
+<1363>Tsukasa didn't tire of kissing me. Her lips and tongue ventured everywhere. Not just my mouth but also my cheeks and the nape of my neck were licked. She licked all over my face, almost like a dog.
+<1364>tuka_000423
+<1365>Tsukasa
+<1366>"Ah, haa, I love you, Yuki... I love you... haa... psh... mhaa... ha... I want to feel you, Yuki..."
+<1367>Even in the dark, I could tell her face was flushed. It wasn't just warmth. Her body was burning, like she had a fever.
+<1368>Next, Tsukasa licked my blouse as well as my face. After that, she started unbuttoning it with her teeth.
+<1369>ev3105a
+<1370>tuka_000424
+<1371>Tsukasa
+<1372>"Yuki... Yuki... haa... haa... Yuki..."
+<1373>After unbuttoning it, she buried her face in my exposed breasts.
+<1374>tuka_000425
+<1375>Tsukasa
+<1376>"Your skin... Your... haa, haa... Yuki..."
+<1377>She buried her face in my breasts. I wasn't sure what was my sweat and what was her saliva. She buried her face in my breasts, covering her face in liquid.
+<1378>I unhooked my bra. That was when I noticed my hand was shaking terribly.
+<1379>My body was already too excited to move without shaking.
+<1380>My head was just blank. Tsukasa wanted me, and I wanted her.
+<1381>My mind was completely shorted out by the heat. All I could hear was the racing of my heart and my ragged breath.
+<1382>yuki_001048
+<1383>Yuki
+<1384>"Ah, aa... aauh... No, ah..."
+<1385>Tsukasa pushed my bra out of the way with her tongue and managed to get to my nipples.
+<1386>ev3105b
+<1387>It would've been easier if she had just calmed down and used her hands.
+<1388>tuka_000426
+<1389>Tsukasa
+<1390>"Ha, ha, ha... hmm... psh... Your skin... You're soft... fluffy... You smell good... hmm... mm... ha... haa, haa..."
+<1391>yuki_001049
+<1392>Yuki
+<1393>"Tsukasa, Tsukasa... Auuuh, that's..."
+<1394>Tsukasa's hand was rolling my skirt up. Her finger started rubbing my crotch.
+<1395>ev3105c
+<1396>tuka_000427
+<1397>Tsukasa
+<1398>"Ha, ha, ha... Yuki... Yuki... Yuki..."
+<1399>I couldn't believe the sensation I felt just from being touched through my underwear. The impossible pleasure set my entire body trembling.
+<1400>Tsukasa brought her face to my breast and traced it with her tongue. The sensation of her tongue really felt amazing. Her tongue was really soft and warm.
+<1401>yuki_001050
+<1402>Yuki
+<1403>"Haa... Hnn... Haa... Hmm... Aah..."
+<1404>ev3104b
+<1405>tuka_000428
+<1406>Tsukasa
+<1407>"Haa, your crotch, haa... It's so warm... I'm just one piece of fabric away from your..."
+<1408>I reached out and slid my hand under her skirt.
+<1409>ev3104c
+<1410>tuka_000429
+<1411>Tsukasa
+<1412>"Wah?!"
+<1413>Her crotch was already so wet that her underwear couldn't absorb it all.
+<1414>yuki_001051
+<1415>Yuki
+<1416>"Hee... Huaa."
+<1417>The tip of her finger touched my underwear and ran along my special place.
+<1418>yuki_001052
+<1419>Yuki
+<1420>"Haa, ha, hnn, Tsukasa..."
+<1421>tuka_000430
+<1422>Tsukasa
+<1423>"A-Aah, haa... I-I'm so happy... When your finger touches me... it feels so good..."
+<1424>tuka_000431
+<1425>Tsukasa
+<1426>"Haa... ha... Amazing... It's amazing... ha, haa... Yuki, Yuki, I love you..."
+<1427>The sounds of our clothes rustling mingled with our voices.
+<1428>I responded to the stimulus of her finger, rubbing my special place against her hand.
+<1429>tuka_000432
+<1430>Tsukasa
+<1431>"This is like a dream, like I'm dreaming. I'm doing... dirty things with Yuki..."
+<1432>yuki_001053
+<1433>Yuki
+<1434>"Tsukasa... ha... haa, haa..."
+<1435>We pushed against each other's bodies, trying to go inside. We wanted to get closer and feel more. We wanted to be together even more.
+<1436>tuka_000433
+<1437>Tsukasa
+<1438>"Haa... haa... I love you, Yuki... I want to tease your crotch more... haa..."
+<1439>Our two warm bodies desired each other. Fluids being exchanged between them. We writhed, as if our entire beings were going to melt into each other.
+<1440>Neither of us could think straight.
+<1441>We just indulged in each other. We just desired each other.
+<1442>Our breathing was ragged. The two of us called each other's names in shrill voices. Above all, there was the sound of our fluids mingling.
+<1443>tuka_000434
+<1444>Tsukasa
+<1445>"Haa, ha, ha, I-I can't, can't hold... I, Yuki, I can't hold on... I'm going to cum... I'm going to cum!"
+<1446>yuki_001054
+<1447>Yuki
+<1448>"Ha, wait just a little bit... M-Me too, if you wait just a little bit, haa, haa."
+<1449>Our juices intermingled, our fingers so drenched that we could hardly even tell where they were rubbing any longer.
+<1450>yuki_001055
+<1451>Yuki
+<1452>"Hauu, ah, I might... I might be about to... Auuhh..."
+<1453>I was caught at the height of pleasure. I couldn't hold on more than a few seconds longer. In an instant, ecstasy flowed through my entire body.
+<1454>white
+<1455>white
+<1456>white
+<1457>white
+<1458>white
+<1459>ev3105d
+<1460>yuki_001056
+<1461>Yuki
+<1462>"A-A-Aaannnnnnnnnnnghh!"
+<1463>ev3104d
+<1464>tuka_000435
+<1465>Tsukasa
+<1466>"Huaaaaaauaaauaaaaann!"
+<1467>A sweet stimulus crawled up from my lower body, and then I felt as if I were floating in air.
+<1468>ev3105c
+<1469>yuki_001057
+<1470>Yuki
+<1471>"Haa, haa, ha... ha..."
+<1472>tuka_000436
+<1473>Tsukasa
+<1474>"Haa, haa, haa, haa... ha... ha... Yuki..."
+<1475>We both desired each other and started kissing again.
+<1476>yuki_001058
+<1477>Yuki
+<1478>"Mm... hmm... ha... hmm... ha..."
+<1479>tuka_000437
+<1480>Tsukasa
+<1481>"Ahhmm... Ha... Hmm... Aah... Hmm... Ha, ha..."
+<1482>tuka_000438
+<1483>Tsukasa
+<1484>"Look, my finger is so... hmm... hmmm..."
+<1485>Tsukasa lasciviously licked the fluid off her finger.
+<1486>tuka_000439
+<1487>Tsukasa
+<1488>"Haa, ha... I want to kiss your body more... I want to kiss you where I can feel your warmth..."
+<1489>yuki_001059
+<1490>Yuki
+<1491>"Ha... You want to lick it?"
+<1492>tuka_000440
+<1493>Tsukasa
+<1494>"Let me lick it... I want to lick your pussy..."
+<1495>yuki_001060
+<1496>Yuki
+<1497>"Pervert..."
+<1498>tuka_000441
+<1499>Tsukasa
+<1500>"I'm a pervert... A pervert who likes girls... I've always, always loved you, Yuki..."
+<1501>yuki_001061
+<1502>Yuki
+<1503>"It's fine... but let me kiss yours too..."
+<1504>tuka_000442
+<1505>Tsukasa
+<1506>"Huh? But that's no good... I can't make you do that..."
+<1507>yuki_001062
+<1508>Yuki
+<1509>"I'm saying that I want to..."
+<1510>tuka_000443
+<1511>Tsukasa
+<1512>"Aah..."
+<1513>ev3104e
+<1514>tuka_000444
+<1515>Tsukasa
+<1516>"Au, auuh, it's embarrassing..."
+<1517>yuki_001063
+<1518>Yuki
+<1519>"Incredible... Soaked doesn't describe you anymore... It's more like flooded..."
+<1520>tuka_000445
+<1521>Tsukasa
+<1522>"That's not true... Ahh."
+<1523>I lightly kissed Tsukasa's swelling slit.
+<1524>I did it lightly, yet Tsukasa jumped.
+<1525>yuki_001064
+<1526>Yuki
+<1527>"Mm... It tastes like Tsukasa."
+<1528>tuka_000446
+<1529>Tsukasa
+<1530>"Haaa, ha... Yours... is just as wet as mine..."
+<1531>tuka_000447
+<1532>Tsukasa
+<1533>"I have to clean it up..."
+<1534>ev3105e
+<1535>yuki_001065
+<1536>Yuki
+<1537>"Haa, ha... hmph... ha... ha-hauu... ha... hmm..."
+<1538>tuka_000448
+<1539>Tsukasa
+<1540>"Hmm... hmm... hah... mm... mm... hmmm... ha..."
+<1541>tuka_000449
+<1542>Tsukasa
+<1543>"Haa, haa... No matter how much I clean it with my tongue, it doesn't stop... It keeps coming and coming... So much is coming out..."
+<1544>yuki_001066
+<1545>Yuki
+<1546>"Haa... ha... W-Well, of... of course... If... If you lick me there with your soft tongue..."
+<1547>yuki_001067
+<1548>Yuki
+<1549>"You too... You're so wet... So much... Tsukasa..."
+<1550>ev3104e
+<1551>tuka_000450
+<1552>Tsukasa
+<1553>"Auuhhaa, aa... Your tongue... Your tongue is... Your tongue... Ah, you're licking... You're licking me... haa."
+<1554>yuki_001068
+<1555>Yuki
+<1556>"Mhaa, mm... I found... your... ha, ha... I'll lick it for you... so stay still..."
+<1557>tuka_000451
+<1558>Tsukasa
+<1559>"Ha, ha, haa, whaa, don't peel it. Ah, ahh, aaa, it feels amazing. It's too amazing... You can't do that..."
+<1560>As if to announce her pleasure, juice poured from her slit, filling my mouth.
+<1561>tuka_000452
+<1562>Tsukasa
+<1563>"Haa, haa... Not just me... I have to... make you feel good too..."
+<1564>Tsukasa reached her hand between my thighs, pulled back the hood of my clitoris like I had hers, and began licking it.
+<1565>ev3105e
+<1566>yuki_001069
+<1567>Yuki
+<1568>"Haa, haa, ann, haa. It's so good... No, it really feels good... There, Tsukasa... ahh."
+<1569>tuka_000453
+<1570>Tsukasa
+<1571>"Yes... Me too... It feels good... I love you... so please feel more... haa."
+<1572>We pushed on each other's clitorises, lightly pinching them. Our pussies were drenched.
+<1573>yuki_001070
+<1574>Yuki
+<1575>"Haa, ha... ha... mmm... mhmm... ha... nn..."
+<1576>tuka_000454
+<1577>Tsukasa
+<1578>"Mmm... haa... psh... mmm... ha... mmm... ha..."
+<1579>ev3104f
+<1580>We licked each other's genitals, each relishing the other.
+<1581>We licked and licked each other, covering our entire bodies in fluids.
+<1582>ev3105f
+<1583>yuki_001071
+<1584>Yuki
+<1585>"Haa, hann, ha, haa... It feels good. It feels so good, Tsukasa, Tsukasa, Tsukasa."
+<1586>We could still scarcely think, the two of us carried away by the heat. We just licked each other's sensitive parts, rubbing together, tasting higher pleasure and unity.
+<1587>ev3104f
+<1588>tuka_000455
+<1589>Tsukasa
+<1590>"Haa, me too, it feels so good. I'm going to melt, Yuki, Yuki."
+<1591>Our fluids overflowed, as if they would never stop coming.
+<1592>ev3105f
+<1593>yuki_001072
+<1594>Yuki
+<1595>"Ha, haaa, I can't... can't... It's incredible, so incredible. I'm going to come. I'm going to cum!"
+<1596>ev3104f
+<1597>tuka_000456
+<1598>Tsukasa
+<1599>"I'm going to cum too... I can't hold on. Something... Something amazing's coming, ah, aahaahaaaah!"
+<1600>Right then, Tsukasa sucked on my erect clitoris, and the core of that condensed pleasure exploded, sending it soaring and galloping through my body.
+<1601>white
+<1602>white
+<1603>white
+<1604>white
+<1605>white
+<1606>ev3105g
+<1607>yuki_001073
+<1608>Yuki
+<1609>"Nnaaaaaaaaaaaaaaaa!"
+<1610>white
+<1611>white
+<1612>white
+<1613>white
+<1614>white
+<1615>ev3104g
+<1616>white
+<1617>white
+<1618>white
+<1619>white
+<1620>white
+<1621>tuka_000457
+<1622>Tsukasa
+<1623>"Aannaaaaaaaaaaaaaaaaaaaa!"
+<1624>ev3104f
+<1625>tuka_000458
+<1626>Tsukasa
+<1627>"Haha, haa, haa..."
+<1628>The blood didn't reach our brains. We felt dizzy. I didn't know how long we were in that state, but I then noticed something was amiss with Tsukasa.
+<1629>tuka_000459
+<1630>Tsukasa
+<1631>"...Haa... haa... I... d-did it..."
+<1632>tuka_000460
+<1633>Tsukasa
+<1634>"I... did this... I... I... shouldn't have done it, but... I couldn't resist... I..."
+<1635>yuki_001074
+<1636>Yuki
+<1637>"Haa, ha, ha... mm..."
+<1638>I calmed down and embraced Tsukasa before she could start panicking.
+<1639>tuka_000461
+<1640>Tsukasa
+<1641>"Huh?"
+<1642>yuki_001075
+<1643>Yuki
+<1644>"Dummy... I'm not gonna let you regret it..."
+<1645>tuka_000462
+<1646>Tsukasa
+<1647>"Huh? Huh?"
+<1648>yuki_001076
+<1649>Yuki
+<1650>"You made me do this, so... take responsibility..."
+<1651>tuka_000463
+<1652>Tsukasa
+<1653>"Huh? Huh? Yuki, you mean..."
+<1654>yuki_001077
+<1655>Yuki
+<1656>"Mm... ha... mmm... haa..."
+<1657>tuka_000464
+<1658>Tsukasa
+<1659>"Ahh... hmm... ha."
+<1660>yuki_001078
+<1661>Yuki
+<1662>"I love you... Tsukasa..."
+<1663>tuka_000465
+<1664>Tsukasa
+<1665>"Huh? What?"
+<1666>Tsukasa covered her mouth with her hand. Huge tears flowed from her eyes.
+<1667>Whether it's above or below, she really loves to drip on me, doesn't she?
+<1668>tuka_000466
+<1669>Tsukasa
+<1670>"That means you'll forgive me for this?"
+<1671>yuki_001079
+<1672>Yuki
+<1673>"There's nothing to forgive. Come on, don't cry."
+<1674>tuka_000467
+<1675>Tsukasa
+<1676>"But... But, Yuki, Yuki... I... I... Waaaahh..."
+<1677>yuki_001080
+<1678>Yuki
+<1679>"C'mon... Jeez."
+<1680>We embraced each other, bare skin against bare skin.
+<1681>Tsukasa kept crying, and I kept embracing her.
+<1682>bg1017a
+<1683>She eventually stopped crying, and when I brought her back up to the roof, the sun was rising.
+<1684>kg0003a
+<1685>kg0103a_l
+<1686>Kagami smiled and slowly walked over to me.
+<1687>se003
+<1688>And then punched me in the face.
+<1689>kg0105a
+<1690>kaga_000609
+<1691>Kagami
+<1692>"Haven't you heard of moderation? No matter what you were doing, it shouldn't take until morning."
+<1693>kg0105a_l
+<1694>kaga_000610
+<1695>Kagami
+<1696>"Imagine if you were the one waiting!"
+<1697>se003
+<1698>We greeted the morning of the 20th day of the month.
+<1699>1-1_0720_Dream

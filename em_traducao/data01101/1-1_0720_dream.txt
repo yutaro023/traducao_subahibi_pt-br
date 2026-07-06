@@ -174,121 +174,121 @@
 <173>ev1007i
 <174>zaku_000658
 <175>Zakuro
-<176>"Farewell."
+<176>"Adeus."
 <177>map023
 <178>white
 <179>se328
-<180>Takashima-san laughed.
-<181>The train doors closed.
+<180>Takashima-san riu.
+<181>As portas do trem se fecharam.
 <182>se329
-<183>The train shook, and then it started to move.
-<184>Zakuro-chan's hand waved in the air.
-<185>It only lasted a moment.
-<186>A very, very long moment.
+<183>O trem tremeu, e então começou a se mover.
+<184>A mão de Zakuro-chan acenou no ar.
+<185>Durou apenas um instante.
+<186>Um instante muito, muito longo.
 <187>bg1007b
 <188>kg0010a_l
 <189>kaga_000616
 <190>Kagami
-<191>"You look a bit down."
+<191>"Você parece um pouco desanimada."
 <192>yuki_001092
 <193>Yuki
-<194>"Huh? What do you mean?"
+<194>"Hã? O que quer dizer?"
 <195>kg0006a_l
 <196>kaga_000617
 <197>Kagami
-<198>"Since Takashima-san left, I mean."
+<198>"Quero dizer, desde que a Takashima-san foi embora."
 <199>yuki_001093
 <200>Yuki
-<201>"Really? Well it's awfully lonely without her, isn't it?"
+<201>"Sério? bem é muito solitário sem ela, não é?"
 <202>kg0004a_l
 <203>kaga_000618
 <204>Kagami
-<205>"What the heck? Just go live with her, then."
+<205>"Que isso? Vai viver junto dela, então."
 <206>yuki_001094
 <207>Yuki
-<208>"Who?"
+<208>"Quem?"
 <209>kaga_000619
 <210>Kagami
-<211>"You."
+<211>"Você."
 <212>yuki_001095
 <213>Yuki
-<214>"What are you talking about? Are you jealous?"
+<214>"Do que está falando? Está com ciúmes?"
 <215>kg0105a_l
 <216>kaga_000620
 <217>Kagami
-<218>"Wh-Why would I be?!"
+<218>"P-Por que eu estaria?!"
 <219>kg0104a_l
 <220>yuki_001096
 <221>Yuki
-<222>"Well, you sure seem like you're upset about something, and you were watching my face really intently when you said that."
+<222>"Bem, você realmente parece estar desanimada com alguma coisa, e também tava olhando intensamente pro meu rosto."
 <223>kg0105_l
 <224>kaga_000621
 <225>Kagami
-<226>"Y-You're so self-centered! Wh-Why do you think I care about you?!"
+<226>"Você é tão egocêntrica! Por que acha que me importo contigo?!"
 <227>yuki_001097
 <228>Yuki
-<229>"Because you love me, of course?"
+<229>"Porque você me ama, certo?"
 <230>kg0106_l
 <231>kaga_000622
 <232>Kagami
 <233>"Geh!"
 <234>yuki_001098
 <235>Yuki
-<236>"You're all red."
+<236>"Está toda vermelha."
 <237>kg0105a_l
 <238>kaga_000623
 <239>Kagami
-<240>"H-Hey, you're teasing me, aren't you?!"
+<240>"E-Ei, Tá zuando com a minha cara, não está?!"
 <241>yuki_001099
 <242>Yuki
-<243>"Teasing? Whatever could you mean?"
+<243>"Zuando? O que quer dizer afinal?"
 <244>kg0108a_l
 <245>kaga_000624
 <246>Kagami
-<247>"Huh?"
+<247>"Hã?"
 <248>white
-<249>I embraced Kagami.
-<250>She doesn't look it, but Kagami is actually a very fragile little girl.
-<251>It seemed as if I could break her in an instant.
+<249>Eu abraçei Kagami.
+<250>Kagami não parecia, mas ela, na verdade é uma garotinha delicada.
+<251>Parecia que podia quebrá-la em um instante.
 <252>ev3003b
-<253>If there is one thing that changed after Takashima-san came into my life, it's that my childhood friend became something more than a childhood friend.
-<254>I got a new girlfriend.
-<255>A girlfriend, even though I'm a girl myself. How about that? Though it probably doesn't really matter.
-<256>Happy days...
-<257>Something inside me had been filled.
-<258>That's the kind of world I live in now.
+<253>Se tem uma coisa que mudou depois que a Takashima-san entrou na minha vida, é que minha amiga de infância se tornou algo mais do que apenas uma amiga de infância.
+<254>Eu tenho uma nova namorada.
+<255>Uma namorada, embora eu mesma seja uma garota. E aí? Embora provavelmente não que isso importe muito.
+<256>Dias felizes...
+<257>Alguma coisa dentro de mim tem sido preenchido.
+<258>Esse é o tipo de mundo que eu vivo agora.
 <259>bg1003a
 <260>tk0003a_l
 <261>tuka_000475
 <262>Tsukasa
-<263>"Hey there."
+<263>"Oi."
 <264>yuki_001100
 <265>Yuki
-<266>"Hey where?"
+<266>"Oi?"
 <267>tuka_000476
 <268>Tsukasa
-<269>"I came to play."
+<269>"Eu vim pra brincar."
 <270>yuki_001101
 <271>Yuki
-<272>"To play, huh?"
+<272>"Pra brincar, hein?"
 <273>tk0002a_l
 <274>tuka_000477
 <275>Tsukasa
-<276>"You were reading Takashima-san's letter again."
+<276>"Tava lendo a carta de Takashima-san de novo."
 <277>yuki_001102
 <278>Yuki
-<279>"Ah, yeah."
+<279>"Ah, sim."
 <280>tk0003a_l
 <281>tuka_000478
 <282>Tsukasa
-<283>"Ahaha. She was really interesting."
+<283>"Ahaha. Ela era realmente interessante."
 <284>yuki_001103
 <285>Yuki
-<286>"Yeah, she sure was."
+<286>"Ah claro, com certeza ela era."
 <287>tk0002a_l
 <288>tuka_000479
 <289>Tsukasa
-<290>"Thanks to her, I was able to catch you."
+<290>"Graças a ela, eu consegui te alcançar"
 <291>yuki_001104
 <292>Yuki
 <293>"Ahahaha."
@@ -296,38 +296,38 @@
 <295>tk0003a_l
 <296>tuka_000480
 <297>Tsukasa
-<298>"A chance!"
+<298>"Uma chance!"
 <299>white
 <300>yuki_001105
 <301>Yuki
-<302>"You always go for the hug right away."
-<303>An unchanging day to day.
-<304>Unchanging scenery.
-<305>It was like the world was just a container, made of inorganic matter.
-<306>Our lives gradually changed.
-<307>In both good ways and bad.
-<308>I got a girlfriend.
-<309>It might sound strange to say I got a girlfriend even though I'm a girl myself, but still, I was pretty happy about it.
+<302>"Você vai sempre direto pro abraço."
+<303>Dias que não mudam.
+<304>Cenários que não mudam.
+<305>Era como se o mundo fosse apenas um recipiente, feito de matéria .
+<306>Nossas vidas mudaram gradualmente.
+<307>Tanto de formas boas quanto ruins.
+<308>Eu tenho uma namorada.
+<309>Pode parecer estranho dizer que eu arranjei uma namorada mesmo sendo uma garota, mas ainda assim eu fiquei bem feliz com isso.
 <310>yuki_001106
 <311>Yuki
-<312>"Tsukasa, you're heavy."
+<312>"Tsukasa, tá pesada."
 <313>tuka_000481
 <314>Tsukasa
 <315>"Ahahaha."
 <316>tuka_000482
 <317>Tsukasa
-<318>"Hey, Yuki."
+<318>"Ei, Yuki."
 <319>yuki_001107
 <320>Yuki
-<321>"What?"
+<321>"Que?"
 <322>tuka_000483
 <323>Tsukasa
-<324>"Kiss me."
+<324>"Me beija."
 <325>yuki_001108
 <326>Yuki
-<327>"Okay, okay."
+<327>"Certo, certo."
 <328>ev3003d
-<329>Happy days...
-<330>Something inside me had been filled.
-<331>That's the kind of world I live in now.
+<329>Dias felizes...
+<330>Alguma coisa dentro de mim foi preenchida.
+<331>Este é o tipo de mundo que eu vivo agora.
 <332>end1-1kt
