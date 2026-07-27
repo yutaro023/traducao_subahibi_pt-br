@@ -73,10 +73,10 @@
 <72>"Tudo que uma mulher precisa na vida são
 <73>ev0001_l
 <74>yuki_000002_b
-<75>cigarros,
+<75> cigarros,
 <76>ev0001_l
 <77>yuki_000002_c
-<78>um teto
+<78> um teto
 <79>yuki_000002_d
 <80>e
 <81>ev0001_l

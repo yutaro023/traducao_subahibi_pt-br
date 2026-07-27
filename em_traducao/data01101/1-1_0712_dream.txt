@@ -36,7 +36,7 @@
 <35>Yuki
 <36>"Ah, verdade. Talvez isso esteja na minha descrição de personagem."
 <37>kaga_000001
-<38>"Do que tu tá falando? O que a descrição de personagem tem a ver com o seu trabalho?"
+<38>"Do que está falando? O que a descrição de personagem tem a ver com o seu trabalho?"
 <39>tk0003a
 <40>kg0010a
 <41>yuki_000036

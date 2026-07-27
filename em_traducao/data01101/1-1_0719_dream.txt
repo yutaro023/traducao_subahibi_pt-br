@@ -5,19 +5,19 @@
 <4>se098
 <5>kaga_000488
 <6>Kagami
-<7>"Porque estamos andando na escuridão? Deveriamos ligar as luzes."
+<7>"Por que estamos andando na escuridão? Deveriamos ligar as luzes."
 <8>tuka_000346
 <9>Tsukasa
-<10>"O que tá dizendo? Precisamos desligar o máximo de luzes pudermos."
+<10>"O que tá dizendo? Precisamos desligar o máximo de luzes que pudermos."
 <11>zaku_000606
 <12>Zakuro
 <13>"Por que?"
 <14>tuka_000347
 <15>Tsukasa
-<16>"Enquanto observarmos as estrelas, as luzes são os nossos maiores inimigos. Quando seus olhos se acostumarem com a luz, não conseguimos ver as estrelas."
+<16>"Enquanto observarmos as estrelas, as luzes são os nossos maiores inimigos. Quando seus olhos se acostumarem com a luz, não conseguiremos ver as estrelas."
 <17>kaga_000489
 <18>Kagami
-<19>"Mesmo assim, a escola dá arrepios à noite. Não acredito que fica tão escuro assim quando se apaga as luzes"
+<19>"Mesmo assim, a  escola dá arrepios à noite. Não acredito que fica tão escuro assim quando se apaga as luzes"
 <20>tuka_000348
 <21>Tsukasa
 <22>"Ahaha, isso é porque a escola fica no meio de uma floresta. Lá dentro é bem escuro."
@@ -42,10 +42,10 @@
 <41>"Ahaha, mas você ouviu o que a Kagami disse agora há pouco? 'Ahhhh!' ela fez uma cara intakavel, ahaha."
 <42>tuka_000350
 <43>Tsukasa
-<44>"Claro que ela vai ficar surpresa se você usar uma luz daquele jeito, com celofane vermelho cobrindo a lâmpada."
+<44>"Claro que ela vai ficar surpresa se usar uma luz daquele jeito, com celofane vermelho cobrindo a lâmpada."
 <45>yuki_000923
 <46>Yuki
-<47>Sim. fez parecer que você está coberto de sangue."
+<47>Sim. Fez parecer que você está coberto de sangue."
 <48>kg0004_l
 <49>kaga_000491
 <50>Kagami
@@ -65,7 +65,7 @@
 <64>kg0004
 <65>kaga_000492
 <66>Kagami
-<67>"Você colhe o que planta. Considere-se sortudo por não estar sangrando de verdade."
+<67>"Você colhe o que planta. Considere-se sortuda por não estar sangrando de verdade."
 <68>zk0008
 <69>zaku_000607
 <70>Zakuro
@@ -109,7 +109,7 @@
 <108>bg1017c
 <109>kaga_000494
 <110>Kagami
-<111>"Bem, É exatamente como imaginávamos. A vista é apenas um pouco melhor"
+<111>"Bem, É exatamente como imaginávamos. A vista é apenas um pouco melhor."
 <112>tuka_000354
 <113>Tsukasa
 <114>"É mesmo? Não acha que tem muitas estrelas céu esta noite?"
@@ -355,7 +355,7 @@
 <354>"Você vai, é óbvio."
 <355>yuki_000956
 <356>Yuki
-<357>"Why?"
+<357>"Por que?"
 <358>kg0002a
 <359>kaga_000511
 <360>Kagami
@@ -398,7 +398,7 @@
 <397>tk0007a
 <398>tuka_000374
 <399>Tsukasa
-<400>"Por que diria isso??"
+<400>"Por que diria isso?"
 <401>kg0109a
 <402>kaga_000516
 <403>Kagami
@@ -452,7 +452,7 @@
 <451>"Takashima-san, p-porque..."
 <452>tuka_000377
 <453>Tsukasa
-<454>"…você está com as mãos nos nossos peitos?"
+<454>"você está com as mãos nos nossos peitos?"
 <455>zaku_000623
 <456>Zakuro
 <457>"Seus corações, ambos estão batendo rápido. Eles estão a todo vapor."
@@ -574,7 +574,7 @@
 <573>
 <574>yuki_000963
 <575>Yuki
-<576>"Esse é  plano."
+<576>"Esse é plano."
 <577>bg1011d
 <578>kg0006a
 <579>kaga_000535
@@ -616,7 +616,7 @@
 <615>se648
 <616>yuki_000968
 <617>Yuki
-<618>"Aii…"
+<618>"Aii"
 <619>kaga_000540
 <620>Kagami
 <621>"Y-Yuki?"
@@ -830,13 +830,13 @@
 <829>Senti seu corpo tremendo embaixo de mim.
 <830>kaga_000566
 <831>Kagami
-<832>"A-ah, não… não é isso… n-não é assim…"
+<832>"A-ah, não... não é isso... n-não é assim..."
 <833>yuki_000995
 <834>Yuki
 <835>"O que não é assim? Isso é suor"
 <836>kaga_000567
 <837>Kagami
-<838>"Ah… eu… eu… ah… sabe…"
+<838>"Ah... eu... eu... ah... sabe..."
 <839>yuki_000996
 <840>Yuki
 <841>"Hehe... Seu suor é meio pegajoso, mas tem um bom gosto"
@@ -846,7 +846,7 @@
 <845>O corpo da Kagami tremia. Parecia que tinha chegado ao apíce do tesão só de me ver lamber seu suor.
 <846>yuki_000997
 <847>Yuki
-<848>"Heh... hehe... Porque só a sua buceta está úmida? Sua coxa está molhad."
+<848>"Heh... hehe... Porque só a sua buceta está úmida? Sua coxa está molhada."
 <849>kaga_000569
 <850>Kagami
 <851>"Hã? Ah... Ha!"
@@ -857,10 +857,10 @@
 <856>"Por que... Por que tá me provocando? Não me provoque desse jeito"
 <857>yuki_000998
 <858>Yuki
-<859>"O que foi? Isso é suor, não é? Então não há nada com o que se vergonhar… né?"
+<859>"O que foi? Isso é suor, não é? Então não há nada com o que se vergonhar... né?"
 <860>kaga_000571
 <861>Kagami
-<862>"N-não… não pode… Yu-Yuki… isso não… ah… aaah… não… Yuki…"
+<862>"N-não... não pode... Yu-Yuki... isso não... ah... aaah... não... Yuki..."
 <863>yuki_000999
 <864>Yuki
 <865>"Kagami? O que é que não pode? Me diz, vai?"
@@ -880,6 +880,7 @@
 <879>Kagami
 <880>"Hyaaaaha... ha."
 <881>Ela fez o possível para cobrir a boca e impedir que seus gemidos saíssem.
+<882>Mesmo assim, toda vez que ela tapava a boca, fluidos escapavam lá de baixo.
 <883>Qualquer um podia perceber o estado que ela estava. Apenas um leve toque para sentir o quanto ela estava molhada
 <884>Meu dedo fazia barulhos indecentes toda vez que eu o movia.
 <885>yuki_001001
@@ -1041,7 +1042,7 @@
 <1041>"Auh... ha... ha... hmmm... Chega mais perto... nossos corpos mais... tudo, todos os fluidos de nossos corpos... mais, mais..."
 <1042>kaga_000597
 <1043>Kagami
-<1044>"Haaa, uuuh... Haa... ha... uh...  tá muito intenso, ahh... ah... ahh… Yuki, Yuki, Yuki... ahh, que gostoso..."
+<1044>"Haaa, uuuh... Haa... ha... uh...  tá muito intenso, ahh... ah... ahh... Yuki, Yuki, Yuki... ahh, que gostoso..."
 <1045>yuki_001023
 <1046>Yuki
 <1047>"Eu também... tá intenso, é incrível... Haa... psh... ngha... uhhh... Eu... Eu..."
@@ -1071,50 +1072,50 @@
 <1071>Nós duas, exaustas, dormimos.
 <1072>se058
 <1073>bg1046a
-<1074>As the sun was rising on a new day, we were woken by Tsukasa.
-<1075>She saw us embracing each other, completely naked.
-<1076>But she wasn't surprised or disgusted.
+<1074>Ao amanhecer de um novo dia, fomos acorados Tsukasa.
+<1075>Ela nos viu nos abraçando, completamente nus.
+<1076>mas não ficou surpresa nem sequer enojoada.
 <1077>zk0106a
 <1078>tk0110a_l
 <1079>tuka_000388
 <1080>Tsukasa
-<1081>"Onee-chan, would you please think of the people who have been waiting for you upstairs all night?"
-<1082>Tsukasa got mad and said that.
-<1083>Behind her, Takashima was giggling.
+<1081>"Onee-chan, poderia sequer pensar nas pessoas que estiveram esperando por vocêss lá em cima a noite toda?"
+<1082>Tsukasa ficou brava e disse isso.
+<1083>Atrás dela, Takashima dava risadinhas.
 <1084>zk0103a_l
 <1085>tk0110a
 <1086>zaku_000629
 <1087>Zakuro
-<1088>"Well, there's no time to shower. Put on your clothes. Let's go home."
-<1089>Like that, the last day ended.
+<1088>"Bem, Não há tempo para tomar banho. Vista-se. Vamos pra casa."
+<1089>Assim, o último dia terminou.
 <1090>zaku_000630
 <1091>Zakuro
-<1092>"But Tsukasa-san's heart is beating just a little bit faster."
+<1092>"Mas o coração de Tsukasa-san está batendo um pouquinho mais rápido."
 <1093>tk0109a
 <1094>tuka_000389
 <1095>Tsukasa
-<1096>"Huh? Th-That's not..."
+<1096>"Hein? I-Isso não é..."
 <1097>kg0102a
 <1098>kaga_000601
 <1099>Kagami
-<1100>"Oh? What are you thinking about, Tsukasa?"
+<1100>"Oh? O que acha, Tsukasa?"
 <1101>tk0105a
 <1102>tuka_000390
 <1103>Tsukasa
-<1104>"I-It's a misunderstanding. I'm not thinking about anything."
+<1104>"É-É um mal-entendido. Eu não estou pensando em nada."
 <1105>zk0002a
 <1106>zaku_000631
 <1107>Zakuro
-<1108>"Well then, you two, use your own hands and feel it for yourself..."
+<1108>"Então, vocês duas, usem as próprias mãos e sintam por si mesmo..."
 <1109>tk0109a
 <1110>tuka_000391
 <1111>Tsukasa
-<1112>"Huh?"
+<1112>"Hã?"
 <1113>kg0108
 <1114>tk0108a
 <1115>zaku_000632
 <1116>Zakuro
-<1117>"Which one is faster, the heartbeat coming from your own chest, or the heartbeat coming from the other's?"
+<1117>"Qual é o mais rápido? o batimento vindo do seu próprio peito ou o do peito da outra?"
 <1118>tk0107a
 <1119>tuka_000392
 <1120>Tsukasa
@@ -1122,72 +1123,72 @@
 <1122>kg0109
 <1123>kaga_000602
 <1124>Kagami
-<1125>"Whoa, it's fast."
+<1125>"Uau, tá rápido."
 <1126>tk0105a
 <1127>tuka_000393
 <1128>Tsukasa
-<1129>"Th-That's not it. That's a loaded question! If you ask me that, of course my heart rate is going to speed up."
+<1129>"N-Não é isso! Essa pergunta é injusta! Se você me pergunta uma coisa dessas, é claro que meu coração vai acelerar."
 <1130>kg0110
 <1131>kaga_000603
 <1132>Kagami
-<1133>"But she said the same thing to me."
+<1133>"Mas ela disse a mesma coisa pra mim."
 <1134>tuka_000394
 <1135>Tsukasa
-<1136>"N-No. This is one of Zhuge Liang's traps. Zhou Yu is in trouble!"
+<1136>"N-Não. Essa é uma das armadilhas de Zhuge Liang. Zhou Yu caiu numa enrascada!"
 <1137>zk0001a
 <1138>zaku_000633
 <1139>Zakuro
-<1140>"There's no trap. Just reality."
+<1140>"Não há armadilha. Apenas a realidade."
 <1141>kg0102
 <1142>kaga_000604
 <1143>Kagami
-<1144>"Go with her. We'll be here, wholesomely looking at the stars."
+<1144>"Vá com ela. Nós vamos ficar aqui, inocentemente vendo as estrelas."
 <1145>tuka_000395
 <1146>Tsukasa
-<1147>"Wh-What's that? You make it sound like we're about to do something that's not wholesome."
+<1147>"Q-Que é isso? Você está fazendo parecer que a gente vai fazer alguma coisa que não é inocente."
 <1148>kg0108
 <1149>kg0102
 <1150>kaga_000605
 <1151>Kagami
-<1152>"Heheh. I didn't say that. I just said we're going to be here, wholesomely looking at the stars."
+<1152>"Hehe. Eu não disse isso. Eu só falei que nós vamos ficar aqui, inocentemente vendo as estrelas."
 <1153>tk0109a
 <1154>tuka_000396_a
 <1155>Tsukasa
-<1156>"Ughh, that's a trap!"
+<1156>"Ughh, É uma armadilha!"
 <1157>tk0105a
 <1158>tuka_000397
 <1159>Tsukasa
-<1160>"Jeez, it's fine. I'll go get it myself!"
+<1160>"Meus deus, está tudo bem. Eu mesma vou buscar!"
 <1161>yuki_001026
 <1162>Yuki
-<1163>"Oh... Tsukasa went alone."
+<1163>"Oh... Tsukasa foi sozinha."
 <1164>kg0101a_l
 <1165>kaga_000606
 <1166>Kagami
-<1167>"Go on. Hurry up and go catch her."
+<1167>"Vai. Anda logo e vai alcançá-la."
 <1168>yuki_001027
 <1169>Yuki
-<1170>"Huh? Me?"
+<1170>"Hein? Eu?"
 <1171>kg0105a_l
 <1172>kaga_000607
 <1173>Kagami
-<1174>"That's right. Run, Sima Yi! Death to Zhuge Liang!"
+<1174>"Sim. Corre, Sima Yi! Morte á Zhuge Liang!"
 <1175>kg0102a_l
 <1176>yuki_001028
 <1177>Yuki
-<1178>"That makes so little sense that I don't even know where to begin."
+<1178>"Isso faz tão pouco sentido que eu nem sei por onde começar."
 <1179>kg0103a_l
 <1180>kaga_000608
 <1181>Kagami
-<1182>"Anyway, just go after her!"
+<1182>"Enfim, Vai logo atrás dela!"
 <1183>yuki_001029
 <1184>Yuki
-<1185>"Y-Yeah. Gotcha."
+<1185>"C-Certo. Beleza."
 <1186>map002
 <1187>map002
 <1188>bg1011d
-<1189>But where had she gone?
-<1190>The astronomy clubroom ought to be in the club wing of the school, so going there was probably my best bet.
+<1189>Mas pra onde ela foi?
+<1190>A sala do clube de astronomia deve ficar na ala dos clubes da escola, então ir para lá era provavelmente a minha melhor opção..
 <1191>map002
 <1192>map002
 <1193>bg1011d
@@ -1196,80 +1197,80 @@
 <1196>"Ah, Tsukasa!"
 <1197>tuka_000398
 <1198>Tsukasa
-<1199>"Huh?"
+<1199>"Hãm?"
 <1200>tk0109a
 <1201>tuka_000399
 <1202>Tsukasa
 <1203>"Y-Yuki..."
 <1204>yuki_001031
 <1205>Yuki
-<1206>"Why did you run off? It was hard to catch up."
+<1206>"Por que saiu correndo? Foi difícil te alcançar."
 <1207>tk0106
 <1208>tuka_000400
 <1209>Tsukasa
-<1210>"S-Sorry. Y-You see..."
+<1210>"D-Desculpe. É que..."
 <1211>yuki_001032
 <1212>Yuki
-<1213>"Huh? What is it?"
+<1213>"Hãm? O que é isso?"
 <1214>tuka_000401
 <1215>Tsukasa
-<1216>"Well... don't get too close to me, please."
+<1216>"Olha... Não chega perto de mim, por favor."
 <1217>yuki_001033
 <1218>Yuki
-<1219>"Huh?"
+<1219>"Hein?"
 <1220>tuka_000402
 <1221>Tsukasa
-<1222>"When we're alone together... you shouldn't get too close to me..."
+<1222>"Quando estivermos sozinhas... Não chegue tão perto de mim..."
 <1223>yuki_001034
 <1224>Yuki
-<1225>"U-Uh, that's..."
-<1226>I wasn't sure, but... did she hate me now?!
-<1227>Why?! Hadn't I been trying to get along with her lately?
+<1225>"A-Ah, É-É..."
+<1226>Eu não sabia ao certo, mas... será que ela me odiava agora?!
+<1227>Por quê?! Eu não estava tentando me dar bem com ela ultimamente?
 <1228>map002
 <1229>map002
 <1230>bg1011d
 <1231>tk0102a
 <1232>tuka_000403
 <1233>Tsukasa
-<1234>"Uh, the astronomy club is all the way at the end of the club wing. Oh, there it is!"
+<1234>"Hum... o clube de astronomia fica lá no fim da ala dos clubes. Ah, ali está!."
 <1235>yuki_001035
 <1236>Yuki
-<1237>"Yeah."
-<1238>It really was all the way at the end.
+<1237>"Sim."
+<1238>Realmente ficava bem lá no fim..
 <1239>tk0100
 <1240>tuka_000404
 <1241>Tsukasa
-<1242>"Uh, um, the key, the key... Oh, here."
+<1242>"Ah, hum... a chave, a chave... Ah, aqui está."
 <1243>se522
 <1244>tk0107
 <1245>bg1046b
 <1246>tuka_000405
 <1247>Tsukasa
-<1248>"S-So, we'd better find it quickly. Uh, I think it was on this shelf..."
+<1248>"E-Então, é melhor a gente encontrar isso logo. Hum... acho que estava nesta prateleira...
 <1249>tk0107_l
 <1250>yuki_001036
 <1251>Yuki
-<1252>"Is it on that shelf?"
+<1252>"Está naquela pratileira?"
 <1253>tk0108_l
 <1254>
 <1255>tk0109a
 <1256>tuka_000406
 <1257>Tsukasa
-<1258>"Hey! Stop!"
+<1258>"Ei! Para!"
 <1259>yuki_001037
 <1260>Yuki
-<1261>"Huh? What is it?"
+<1261>"Hein? O que é isso?"
 <1262>tk0106
 <1263>tuka_000407
 <1264>Tsukasa
-<1265>"U-Um, Yuki, something bad could happen if you get any closer to me."
+<1265>"H-Hum, Yuki... se chegar mais perto de mim, pode acontecer alguma coisa."
 <1266>yuki_001038
 <1267>Yuki
-<1268>"Why's that? Why are you suddenly avoiding me like that?"
+<1268>"Por que isso? Por que está me evitando desse jeito?""
 <1269>tk0105a
 <1270>tuka_000408
 <1271>Tsukasa
-<1272>"N-No, don't come closer."
+<1272>"N-Não, Não se aproxima."
 <1273>bg1046b
 <1274>yuki_001039
 <1275>Yuki
@@ -1282,7 +1283,7 @@
 <1282>tk0006a_eye22
 <1283>tuka_000409
 <1284>Tsukasa
-<1285>"I-I-I can't... hold on..."
+<1285>"E-E-Eu não... me segurar..."
 <1286>yuki_001040
 <1287>Yuki
 <1288>"Ts-Tsukasa?"
@@ -1292,22 +1293,22 @@
 <1292>bg1046b
 <1293>se011
 <1294>map003
-<1295>What happened?
-<1296>Huh? Wh-What was this? I was being pushed down?
+<1295>O que aconteceu?
+<1296>Hein? O-O que é isso? Eu fui empurrada para baixo??
 <1297>bgm102
 <1298>ev3104a
 <1299>tuka_000411
 <1300>Tsukasa
-<1301>"I t-told you... you shouldn't get any closer."
+<1301>"Eu te falei... Que não deveria chegar mais perto."
 <1302>tuka_000412
 <1303>Tsukasa
-<1304>"I-I'm... unbelievably bad at holding back... That time too, everyone else was shocked by how long I kissed you..."
+<1304>"E-Eu... sou incrivelmente ruim em me controlar... Naquela vez também, todo mundo ficou chocado com o tempo que eu passei te beijando..."
 <1305>tuka_000413
 <1306>Tsukasa
-<1307>"I think you understand... I-I... was so wet... that your leg was soaked..."
+<1307>"Eu acho que você entende... E-Eu... estava tão molhada... que sua perna estava encharcada..."
 <1308>tuka_000414
 <1309>Tsukasa
-<1310>"Since then... I get like this... every time I look at your face..."
+<1310>"Desde então... eu fico assim... toda vez que olho para o seu rosto..."
 <1311>yuki_001041
 <1312>Yuki
 <1313>"Mm?!"
@@ -1317,31 +1318,31 @@
 <1317>yuki_001042
 <1318>Yuki
 <1319>"Ngh... ha... hmm... ha..."
-<1320>Tsukasa insatiably explored the inside of my mouth. My tongue responded in kind, moving against hers as well.
-<1321>With every clash of our tongues, a shudder went through our bodies.
-<1322>With every shudder, a small cry escaped Tsukasa's mouth.
+<1320>Tsukasa entrou lascivamente em minha boca. Minha língua respondeu da mesma forma, movendo-se da mesma forma.
+<1321>A cada encontro de nossas línguas, um tremor percorria nossos corpos.
+<1322>A cada tremor, um pequeno gemido escapava da boca de Tsukasa.
 <1323>tuka_000416
 <1324>Tsukasa
-<1325>"Ah, ah, aah... Yuki, you dummy, you're stronger, so you have to stop me... If you don't, I'll... I'll..."
+<1325>"Ah, ah, aah... Yuki, sua boba, você é mais forte, então você tem que me parar... Se você não parar, eu vou... eu vou..."
 <1326>yuki_001043
 <1327>Yuki
-<1328>"I-If I don't... you'll do what?"
+<1328>"E se eu não fizer?... você vai fazer o quê?"
 <1329>tuka_000417
 <1330>Tsukasa
-<1331>"I won't be able to just be your childhood friend anymore... Since then, I've constantly been thinking of your lips... Never, never able to forget that kiss... I can't..."
+<1331>"Não poderei mais ser apenas sua amiga de infância... Desde então, tenho pensado constantemente nos seus lábios... Nunca, nunca conseguirei esquecer aquele beijo... Eu não consigo..."
 <1332>yuki_001044
 <1333>Yuki
-<1334>"I-Is that so... My lips... were that good..."
-<1335>I feigned calm, but even I could tell my voice was shaking.
-<1336>My heart was beating so loudly I could hardly hear my own words.
+<1334>"É mesmo...? Meus lábios... eram tão bons..."
+<1335>Fingi calma, mas até eu percebi que minha voz estava tremendo.
+<1336>Meu coração batia tão forte que eu mal conseguia ouvir minhas próprias palavras.
 <1337>tuka_000418
 <1338>Tsukasa
-<1339>"Yeah... Ah, aah, that's why I want to kiss you more... More and more. I want to kiss you and have it never end..."
-<1340>Tsukasa's eyes were wet. Her skin was soft. Her lips were beautiful, warm, and moist.
+<1339>"Sim... Ah, aah, é por isso que eu quero te beijar mais... Cada vez mais. Quero te beijar e que isso nunca acabe..."
+<1340>Os olhos de Tsukasa estavam marejados. Sua pele era macia. Seus lábios eram bonitos, quentes e úmidos.
 <1341>yuki_001045
 <1342>Yuki
-<1343>"I-I... don't mind... Mmh?!"
-<1344>Before I could even finish speaking, Tsukasa silenced my lips with her own. She cradled my head and, rather than kissing me, she seemed to be devouring my lips.
+<1343>"Eu... não me importo... Hum?!"
+<1344>Antes mesmo que eu pudesse terminar de falar, Tsukasa silenciou meus lábios com os seus. Ela acariciou minha cabeça e, em vez de me beijar, parecia estar devorando meus lábios.
 <1345>yuki_001046
 <1346>Yuki
 <1347>"Mm, mm... ha... hmm... mmhh..."
@@ -1350,107 +1351,107 @@
 <1350>"Nhaa... psh... mhaa... mhaa... mmm... ha, ha, haa..."
 <1351>tuka_000420
 <1352>Tsukasa
-<1353>"Haa, S-Sorry... Sorry... Yuki... I'm... Haa... weird, huh? You probably think I'm weird..."
+<1353>"Haa, D-Desculpe... Desculpe... Yuki... Eu sou... Haa... estranha, né? Você provavelmente acha que eu sou estranha..."
 <1354>tuka_000421
 <1355>Tsukasa
-<1356>"I thought just a kiss would be fine, ha, ha. I thought if I could just kiss you... that would be enough, but..."
+<1356>"Pensei que um simples beijo bastaria, ha, ha. Pensei que se eu pudesse apenas te beijar... isso seria o suficiente, mas..."
 <1357>tuka_000422
 <1358>Tsukasa
-<1359>"Ha, haa, I can't stop this feeling. I want to get closer to your warmth."
+<1359>"Hahaha, não consigo conter esse sentimento. Quero me aproximar do seu calor."
 <1360>yuki_001047
 <1361>Yuki
 <1362>"Hhmm?! ...Hnnn... Ha, haa..."
-<1363>Tsukasa didn't tire of kissing me. Her lips and tongue ventured everywhere. Not just my mouth but also my cheeks and the nape of my neck were licked. She licked all over my face, almost like a dog.
+<1363>Tsukasa não se cansava de me beijar. Seus lábios e língua exploravam cada canto do meu corpo. Ela lambia não só minha boca, mas também minhas bochechas e a nuca. Lambia meu rosto inteiro, quase como um cachorro.
 <1364>tuka_000423
 <1365>Tsukasa
-<1366>"Ah, haa, I love you, Yuki... I love you... haa... psh... mhaa... ha... I want to feel you, Yuki..."
-<1367>Even in the dark, I could tell her face was flushed. It wasn't just warmth. Her body was burning, like she had a fever.
-<1368>Next, Tsukasa licked my blouse as well as my face. After that, she started unbuttoning it with her teeth.
+<1366>"Ah, haa, eu te amo, Yuki... eu te amo... haa... psh... mhaa... ha... eu quero te sentir, Yuki..."
+<1367>Mesmo no escuro, eu conseguia perceber que seu rosto estava corado. Não era apenas calor. Seu corpo ardia, como se ela estivesse com febre.
+<1368>Depois, Tsukasa lambeu minha blusa e meu rosto. Depois disso, começou a desabotoá-la com os dentes.
 <1369>ev3105a
 <1370>tuka_000424
 <1371>Tsukasa
 <1372>"Yuki... Yuki... haa... haa... Yuki..."
-<1373>After unbuttoning it, she buried her face in my exposed breasts.
+<1373>Depois de desabotoá-lo, ela enterrou o rosto nos meus seios expostos.
 <1374>tuka_000425
 <1375>Tsukasa
-<1376>"Your skin... Your... haa, haa... Yuki..."
-<1377>She buried her face in my breasts. I wasn't sure what was my sweat and what was her saliva. She buried her face in my breasts, covering her face in liquid.
-<1378>I unhooked my bra. That was when I noticed my hand was shaking terribly.
-<1379>My body was already too excited to move without shaking.
-<1380>My head was just blank. Tsukasa wanted me, and I wanted her.
-<1381>My mind was completely shorted out by the heat. All I could hear was the racing of my heart and my ragged breath.
+<1376>"Sua pele... Sua... haa, haa... Yuki..."
+<1377>Ela enterrou o rosto nos meus seios. Eu não tinha certeza do que era meu suor e do que era saliva dela. Ela enterrou o rosto nos meus seios, cobrindo o rosto com o líquido.
+<1378>Desabotoei o sutiã. Foi aí que percebi que minha mão estava tremendo muito.
+<1379>Meu corpo já estava tão excitado que era impossível me mover sem tremer.
+<1380>Minha cabeça estava completamente em branco. Tsukasa me queria, e eu a queria.
+<1381>O calor me deixou completamente atordoado. Tudo o que eu conseguia ouvir era o meu coração acelerado e a minha respiração ofegante.
 <1382>yuki_001048
 <1383>Yuki
 <1384>"Ah, aa... aauh... No, ah..."
-<1385>Tsukasa pushed my bra out of the way with her tongue and managed to get to my nipples.
+<1385>Tsukasa afastou meu sutiã com a língua e conseguiu alcançar meus mamilos.
 <1386>ev3105b
-<1387>It would've been easier if she had just calmed down and used her hands.
+<1387>Teria sido mais fácil se ela simplesmente tivesse se acalmado e usado as mãos.
 <1388>tuka_000426
 <1389>Tsukasa
-<1390>"Ha, ha, ha... hmm... psh... Your skin... You're soft... fluffy... You smell good... hmm... mm... ha... haa, haa..."
+<1390>"Ha, ha, ha... hmm... psh... Sua pele... tão macia... fofinha... Você cheira bem... hmm... mm... ha... haa, haa..."
 <1391>yuki_001049
 <1392>Yuki
-<1393>"Tsukasa, Tsukasa... Auuuh, that's..."
-<1394>Tsukasa's hand was rolling my skirt up. Her finger started rubbing my crotch.
+<1393>"Tsukasa, Tsukasa... Auuuh, isso é..."
+<1394>A mão de Tsukasa estava levantando minha saia. Seu dedo começou a esfregar minha buceta.
 <1395>ev3105c
 <1396>tuka_000427
 <1397>Tsukasa
 <1398>"Ha, ha, ha... Yuki... Yuki... Yuki..."
-<1399>I couldn't believe the sensation I felt just from being touched through my underwear. The impossible pleasure set my entire body trembling.
-<1400>Tsukasa brought her face to my breast and traced it with her tongue. The sensation of her tongue really felt amazing. Her tongue was really soft and warm.
+<1399>Eu não conseguia acreditar na sensação que senti apenas por ser tocada através da minha roupa íntima. O prazer indescritível fez meu corpo inteiro tremer.
+<1400>Tsukasa aproximou o rosto do meu seio e o percorreu com a língua. A sensação da língua dela era realmente incrível. Era muito macia e quente.
 <1401>yuki_001050
 <1402>Yuki
 <1403>"Haa... Hnn... Haa... Hmm... Aah..."
 <1404>ev3104b
 <1405>tuka_000428
 <1406>Tsukasa
-<1407>"Haa, your crotch, haa... It's so warm... I'm just one piece of fabric away from your..."
-<1408>I reached out and slid my hand under her skirt.
+<1407>"Haa, sua buceta, haa... Está tão quentinha... Estou a apenas um pedaço de tecido de distância de você..."
+<1408>Estendi a mão e a deslizei por baixo da saia dela.
 <1409>ev3104c
 <1410>tuka_000429
 <1411>Tsukasa
-<1412>"Wah?!"
-<1413>Her crotch was already so wet that her underwear couldn't absorb it all.
+<1412>"Hã?!"
+<1413>Sua virilha já estava tão molhada que sua roupa íntima não conseguiu absorver tudo.
 <1414>yuki_001051
 <1415>Yuki
 <1416>"Hee... Huaa."
-<1417>The tip of her finger touched my underwear and ran along my special place.
+<1417>A ponta do dedo dela tocou minha roupa íntima e deslizou ao longo da minha área mais íntima.
 <1418>yuki_001052
 <1419>Yuki
 <1420>"Haa, ha, hnn, Tsukasa..."
 <1421>tuka_000430
 <1422>Tsukasa
-<1423>"A-Aah, haa... I-I'm so happy... When your finger touches me... it feels so good..."
+<1423>"Ah, sim... Estou tão feliz... Quando seu dedo me toca... é tão bom..."
 <1424>tuka_000431
 <1425>Tsukasa
-<1426>"Haa... ha... Amazing... It's amazing... ha, haa... Yuki, Yuki, I love you..."
-<1427>The sounds of our clothes rustling mingled with our voices.
-<1428>I responded to the stimulus of her finger, rubbing my special place against her hand.
+<1426>"Haa... ha... Incrível... É incrível... ha, haa... Yuki, Yuki, eu te amo..."
+<1427>O farfalhar de nossas roupas se misturava com nossas vozes.
+<1428>Respondi ao estímulo do seu dedo, esfregando meu lugar especial usando a mão dela.
 <1429>tuka_000432
 <1430>Tsukasa
-<1431>"This is like a dream, like I'm dreaming. I'm doing... dirty things with Yuki..."
+<1431>"Isso é como um sonho, como se eu estivesse sonhando. Estou fazendo... coisas impróprias com a Yuki..."
 <1432>yuki_001053
 <1433>Yuki
 <1434>"Tsukasa... ha... haa, haa..."
-<1435>We pushed against each other's bodies, trying to go inside. We wanted to get closer and feel more. We wanted to be together even more.
+<1435>Nos empurrávamos um contra o outro, tentando penetrar. Queríamos nos aproximar e sentir mais. Queríamos estar juntos ainda mais.
 <1436>tuka_000433
 <1437>Tsukasa
-<1438>"Haa... haa... I love you, Yuki... I want to tease your crotch more... haa..."
-<1439>Our two warm bodies desired each other. Fluids being exchanged between them. We writhed, as if our entire beings were going to melt into each other.
-<1440>Neither of us could think straight.
-<1441>We just indulged in each other. We just desired each other.
-<1442>Our breathing was ragged. The two of us called each other's names in shrill voices. Above all, there was the sound of our fluids mingling.
+<1438>"Haa... haa... Eu te amo, Yuki... Quero te provocar mais... haa..."
+<1439>Nossos dois corpos quentes se desejavam. Fluidos se trocavam entre eles. Nos contorcíamos, como se nossos seres inteiros fossem se fundir um no outro.
+<1440>Nenhum de nós conseguia pensar com clareza.
+<1441>Nós simplesmente nos entregamos uma na outra. Nós simplesmente nos desejamos.
+<1442>Nossa respiração estava ofegante. Nós duas chamávamos uma à outra pelo nome em vozes estridentes. Acima de tudo, ouvia-se o som de nossos fluidos se misturando.
 <1443>tuka_000434
 <1444>Tsukasa
 <1445>"Haa, ha, ha, I-I can't, can't hold... I, Yuki, I can't hold on... I'm going to cum... I'm going to cum!"
 <1446>yuki_001054
 <1447>Yuki
-<1448>"Ha, wait just a little bit... M-Me too, if you wait just a little bit, haa, haa."
-<1449>Our juices intermingled, our fingers so drenched that we could hardly even tell where they were rubbing any longer.
+<1448>"Ah, espere só um pouquinho... E-Eu também, se você esperar só um pouquinho, haa, haa."
+<1449>Nossos fluidos se misturaram, nossos dedos tão encharcados que mal conseguíamos mais dizer onde estavam se esfregando.
 <1450>yuki_001055
 <1451>Yuki
-<1452>"Hauu, ah, I might... I might be about to... Auuhh..."
-<1453>I was caught at the height of pleasure. I couldn't hold on more than a few seconds longer. In an instant, ecstasy flowed through my entire body.
+<1452>"Hauu, ah, talvez... talvez eu esteja prestes a... Auuhh..."
+<1453>Fui surpreendida no ápice do prazer. Não consegui me conter por mais do que alguns segundos. Num instante, o êxtase percorreu todo o meu corpo.
 <1454>white
 <1455>white
 <1456>white
@@ -1464,7 +1465,7 @@
 <1464>tuka_000435
 <1465>Tsukasa
 <1466>"Huaaaaaauaaauaaaaann!"
-<1467>A sweet stimulus crawled up from my lower body, and then I felt as if I were floating in air.
+<1467>Uma doce sensação percorreu meu corpo, desde a parte inferior, e então senti como se estivesse flutuando no ar.
 <1468>ev3105c
 <1469>yuki_001057
 <1470>Yuki
@@ -1472,7 +1473,7 @@
 <1472>tuka_000436
 <1473>Tsukasa
 <1474>"Haa, haa, haa, haa... ha... ha... Yuki..."
-<1475>We both desired each other and started kissing again.
+<1475>Nós dois nos desejávamos e começamos a nos beijar novamente.
 <1476>yuki_001058
 <1477>Yuki
 <1478>"Mm... hmm... ha... hmm... ha..."
@@ -1481,56 +1482,56 @@
 <1481>"Ahhmm... Ha... Hmm... Aah... Hmm... Ha, ha..."
 <1482>tuka_000438
 <1483>Tsukasa
-<1484>"Look, my finger is so... hmm... hmmm..."
-<1485>Tsukasa lasciviously licked the fluid off her finger.
+<1484>"Olha, meu dedo está tão... hmm... hmmm..."
+<1485>Tsukasa lambeu lascivamente o líquido do dedo.
 <1486>tuka_000439
 <1487>Tsukasa
-<1488>"Haa, ha... I want to kiss your body more... I want to kiss you where I can feel your warmth..."
+<1488>"Hahaha... Quero beijar mais o seu corpo... Quero beijar onde eu possa sentir o seu calor..."
 <1489>yuki_001059
 <1490>Yuki
-<1491>"Ha... You want to lick it?"
+<1491>"Ah... Quer lamber?"
 <1492>tuka_000440
 <1493>Tsukasa
-<1494>"Let me lick it... I want to lick your pussy..."
+<1494>"Deixa eu lamber... Eu quero lamber sua bucetinha..."
 <1495>yuki_001060
 <1496>Yuki
-<1497>"Pervert..."
+<1497>"Pervertida..."
 <1498>tuka_000441
 <1499>Tsukasa
-<1500>"I'm a pervert... A pervert who likes girls... I've always, always loved you, Yuki..."
+<1500>"Eu sou uma pervertida... Uma pervertida que gosta de garotas... Eu sempre, sempre te amei, Yuki..."
 <1501>yuki_001061
 <1502>Yuki
-<1503>"It's fine... but let me kiss yours too..."
+<1503>"Tudo bem... mas deixe-me beijar o seu também..."
 <1504>tuka_000442
 <1505>Tsukasa
-<1506>"Huh? But that's no good... I can't make you do that..."
+<1506>"Hã? Mas isso não adianta... Eu não posso te obrigar a fazer isso..."
 <1507>yuki_001062
 <1508>Yuki
-<1509>"I'm saying that I want to..."
+<1509>"Estou dizendo que quero..."
 <1510>tuka_000443
 <1511>Tsukasa
 <1512>"Aah..."
 <1513>ev3104e
 <1514>tuka_000444
 <1515>Tsukasa
-<1516>"Au, auuh, it's embarrassing..."
+<1516>"Ai, ai, que vergonha..."
 <1517>yuki_001063
 <1518>Yuki
-<1519>"Incredible... Soaked doesn't describe you anymore... It's more like flooded..."
+<1519>"Incrível... Encharcado já não te descreve mais... É mais como inundado..."
 <1520>tuka_000445
 <1521>Tsukasa
-<1522>"That's not true... Ahh."
-<1523>I lightly kissed Tsukasa's swelling slit.
-<1524>I did it lightly, yet Tsukasa jumped.
+<1522>"Não é verdade... Ahh."
+<1523>Dei um leve beijo na fenda inchada de Tsukasa.
+<1524>Fiz com delicadeza, mas Tsukasa deu um pulo.
 <1525>yuki_001064
 <1526>Yuki
-<1527>"Mm... It tastes like Tsukasa."
+<1527>"Hum... Tem gosto de Tsukasa."
 <1528>tuka_000446
 <1529>Tsukasa
-<1530>"Haaa, ha... Yours... is just as wet as mine..."
+<1530>"Hahaha... O seu... está tão molhado quanto o meu..."
 <1531>tuka_000447
 <1532>Tsukasa
-<1533>"I have to clean it up..."
+<1533>"Preciso limpar isso..."
 <1534>ev3105e
 <1535>yuki_001065
 <1536>Yuki
@@ -1540,36 +1541,36 @@
 <1540>"Hmm... hmm... hah... mm... mm... hmmm... ha..."
 <1541>tuka_000449
 <1542>Tsukasa
-<1543>"Haa, haa... No matter how much I clean it with my tongue, it doesn't stop... It keeps coming and coming... So much is coming out..."
+<1543>"Haa, haa... Não importa o quanto eu limpe com a língua, não para... Continua saindo... Está saindo tanta coisa..."
 <1544>yuki_001066
 <1545>Yuki
-<1546>"Haa... ha... W-Well, of... of course... If... If you lick me there with your soft tongue..."
+<1546>"Haa... ha... B-Bem, claro... Se... Se você me lamber aí com sua língua macia..."
 <1547>yuki_001067
 <1548>Yuki
-<1549>"You too... You're so wet... So much... Tsukasa..."
+<1549>"Você também... Tão molhada... Tanto... Tsukasa..."
 <1550>ev3104e
 <1551>tuka_000450
 <1552>Tsukasa
-<1553>"Auuhhaa, aa... Your tongue... Your tongue is... Your tongue... Ah, you're licking... You're licking me... haa."
+<1553>"Auuhhaa, aa... Sua língua... Sua língua está... Sua língua... Ah, você está me lambendo... Você está me lambendo... haa."
 <1554>yuki_001068
 <1555>Yuki
-<1556>"Mhaa, mm... I found... your... ha, ha... I'll lick it for you... so stay still..."
+<1556>"Hum, hum... Achei... seu... ha, ha... Vou lamber para você... então fique quieta..."
 <1557>tuka_000451
 <1558>Tsukasa
-<1559>"Ha, ha, haa, whaa, don't peel it. Ah, ahh, aaa, it feels amazing. It's too amazing... You can't do that..."
-<1560>As if to announce her pleasure, juice poured from her slit, filling my mouth.
+<1559>"Ha, ha, haa, uau, não descasque. Ah, ahh, aaa, é uma sensação incrível. É incrível demais... Você não pode fazer isso..."
+<1560>Como que para anunciar seu prazer, o suco jorrou de sua fenda, enchendo minha boca.
 <1561>tuka_000452
 <1562>Tsukasa
-<1563>"Haa, haa... Not just me... I have to... make you feel good too..."
-<1564>Tsukasa reached her hand between my thighs, pulled back the hood of my clitoris like I had hers, and began licking it.
+<1563>"Hahaha... Não só eu... Eu também tenho que... fazer você se sentir bem..."
+<1564>Tsukasa levou a mão entre minhas coxas, puxou o capuz do meu clitóris como eu havia feito com o dela e começou a lamber.
 <1565>ev3105e
 <1566>yuki_001069
 <1567>Yuki
-<1568>"Haa, haa, ann, haa. It's so good... No, it really feels good... There, Tsukasa... ahh."
+<1568>"Haa, haa, ann, haa. É tão bom... Não, é muito bom mesmo... Tsukasa... ahh."
 <1569>tuka_000453
 <1570>Tsukasa
-<1571>"Yes... Me too... It feels good... I love you... so please feel more... haa."
-<1572>We pushed on each other's clitorises, lightly pinching them. Our pussies were drenched.
+<1571>"Sim... Eu também... É bom... Eu te amo... então, por favor, sinta mais... haa."
+<1572>Nós pressionávamos os clitóris uma da outra, beliscando-os levemente. Nossas vaginas estavam encharcadas.
 <1573>yuki_001070
 <1574>Yuki
 <1575>"Haa, ha... ha... mmm... mhmm... ha... nn..."
@@ -1577,27 +1578,27 @@
 <1577>Tsukasa
 <1578>"Mmm... haa... psh... mmm... ha... mmm... ha..."
 <1579>ev3104f
-<1580>We licked each other's genitals, each relishing the other.
-<1581>We licked and licked each other, covering our entire bodies in fluids.
+<1580>Nós lambemos os genitais um do outro, cada um saboreando o outro.
+<1581>lambemos sem parar, cobrindo nossos corpos inteiros com fluidos.
 <1582>ev3105f
 <1583>yuki_001071
 <1584>Yuki
-<1585>"Haa, hann, ha, haa... It feels good. It feels so good, Tsukasa, Tsukasa, Tsukasa."
-<1586>We could still scarcely think, the two of us carried away by the heat. We just licked each other's sensitive parts, rubbing together, tasting higher pleasure and unity.
+<1585>"Haa, hann, ha, haa... É bom. É tão bom, Tsukasa, Tsukasa, Tsukasa."
+<1586>Mal conseguíamos pensar, ambos levados pelo calor. Apenas lambíamos as partes sensíveis um do outro, roçando-as, saboreando um prazer e uma união ainda maiores.
 <1587>ev3104f
 <1588>tuka_000455
 <1589>Tsukasa
-<1590>"Haa, me too, it feels so good. I'm going to melt, Yuki, Yuki."
-<1591>Our fluids overflowed, as if they would never stop coming.
+<1590>"Haa, eu também, é tão bom. Vou derreter, Yuki, Yuki."
+<1591>Nossos fluidos derramaram, como se nunca fossem parar de sair.
 <1592>ev3105f
 <1593>yuki_001072
 <1594>Yuki
-<1595>"Ha, haaa, I can't... can't... It's incredible, so incredible. I'm going to come. I'm going to cum!"
+<1595>"Hahaha, eu não consigo... não consigo... É incrível, tão incrível. Vou gozar. Vou ter um orgasmo!"
 <1596>ev3104f
 <1597>tuka_000456
 <1598>Tsukasa
-<1599>"I'm going to cum too... I can't hold on. Something... Something amazing's coming, ah, aahaahaaaah!"
-<1600>Right then, Tsukasa sucked on my erect clitoris, and the core of that condensed pleasure exploded, sending it soaring and galloping through my body.
+<1599>"Eu também vou gozar... Não consigo me segurar. Algo... Algo incrível está por vir, ah, aahaahaaaah!"
+<1600>Nesse instante, Tsukasa chupou meu clitóris ereto, e no centro daquele prazer concentrado explodiu, expulsando-o para longe e atravessando por todo o meu corpo.
 <1601>white
 <1602>white
 <1603>white
@@ -1625,32 +1626,32 @@
 <1625>tuka_000458
 <1626>Tsukasa
 <1627>"Haha, haa, haa..."
-<1628>The blood didn't reach our brains. We felt dizzy. I didn't know how long we were in that state, but I then noticed something was amiss with Tsukasa.
+<1628>O sangue não chegou aos nossos cérebros. Sentimos tonturas. Não sei quanto tempo ficamos nesse estado, mas então percebi que algo estava errado com Tsukasa.
 <1629>tuka_000459
 <1630>Tsukasa
-<1631>"...Haa... haa... I... d-did it..."
+<1631>"...Haa... haa... Eu... c-consegui..."
 <1632>tuka_000460
 <1633>Tsukasa
-<1634>"I... did this... I... I... shouldn't have done it, but... I couldn't resist... I..."
+<1634>"Eu... fiz isso... Eu... Eu... não deveria ter feito isso, mas... eu não resisti... Eu..."
 <1635>yuki_001074
 <1636>Yuki
 <1637>"Haa, ha, ha... mm..."
-<1638>I calmed down and embraced Tsukasa before she could start panicking.
+<1638>Me acalmei e abracei Tsukasa antes que ela pudesse começar a entrar em pânico.
 <1639>tuka_000461
 <1640>Tsukasa
-<1641>"Huh?"
+<1641>"Hein?"
 <1642>yuki_001075
 <1643>Yuki
-<1644>"Dummy... I'm not gonna let you regret it..."
+<1644>"Bobinha... Eu não vou deixar você se arrepender..."
 <1645>tuka_000462
 <1646>Tsukasa
-<1647>"Huh? Huh?"
+<1647>"Hãn? Hein?"
 <1648>yuki_001076
 <1649>Yuki
-<1650>"You made me do this, so... take responsibility..."
+<1650>"Você me obrigou a fazer isso, então... assuma a responsabilidade..."
 <1651>tuka_000463
 <1652>Tsukasa
-<1653>"Huh? Huh? Yuki, you mean..."
+<1653>"Hã? Hã? Yuki, você quer dizer..."
 <1654>yuki_001077
 <1655>Yuki
 <1656>"Mm... ha... mmm... haa..."
@@ -1659,41 +1660,41 @@
 <1659>"Ahh... hmm... ha."
 <1660>yuki_001078
 <1661>Yuki
-<1662>"I love you... Tsukasa..."
+<1662>"Eu te amo... Tsukasa..."
 <1663>tuka_000465
 <1664>Tsukasa
-<1665>"Huh? What?"
-<1666>Tsukasa covered her mouth with her hand. Huge tears flowed from her eyes.
-<1667>Whether it's above or below, she really loves to drip on me, doesn't she?
+<1665>"Hãm? O que?"
+<1666>Tsukasa cobriu a boca com a mão. Enormes lágrimas escorreram de seus olhos.
+<1667>Seja por cima ou por baixo, ela adora mesmo pingar em mim, não é?
 <1668>tuka_000466
 <1669>Tsukasa
-<1670>"That means you'll forgive me for this?"
+<1670>"Isso significa que vai me perdoar por isso?"
 <1671>yuki_001079
 <1672>Yuki
-<1673>"There's nothing to forgive. Come on, don't cry."
+<1673>"Não há nada para se perdoar. Vamos, não chore."
 <1674>tuka_000467
 <1675>Tsukasa
-<1676>"But... But, Yuki, Yuki... I... I... Waaaahh..."
+<1676>"Mas... Mas, Yuki, Yuki... eu... eu... Uaaaahh..."
 <1677>yuki_001080
 <1678>Yuki
-<1679>"C'mon... Jeez."
-<1680>We embraced each other, bare skin against bare skin.
-<1681>Tsukasa kept crying, and I kept embracing her.
+<1679>"Vamos lá... Poxa."
+<1680>Nos abraçamos, pele nua contra pele nua
+<1681>Tsukasa não parava de chorar, e eu não parava de abraçá-la.
 <1682>bg1017a
-<1683>She eventually stopped crying, and when I brought her back up to the roof, the sun was rising.
+<1683>Ela finalmente parou de chorar, e quando a trouxe de volta para o telhado, o sol estava nascendo.
 <1684>kg0003a
 <1685>kg0103a_l
-<1686>Kagami smiled and slowly walked over to me.
+<1686>Kagami sorriu e caminhou lentamente até mim.
 <1687>se003
-<1688>And then punched me in the face.
+<1688>E depois me deu um soco na cara.
 <1689>kg0105a
 <1690>kaga_000609
 <1691>Kagami
-<1692>"Haven't you heard of moderation? No matter what you were doing, it shouldn't take until morning."
+<1692>"Você nunca ouviu falar em moderação? Não importa o que você estivesse fazendo, não deveria levar até de manhã."
 <1693>kg0105a_l
 <1694>kaga_000610
 <1695>Kagami
-<1696>"Imagine if you were the one waiting!"
+<1696>"Imagine se fosse você quem estivesse esperando!"
 <1697>se003
-<1698>We greeted the morning of the 20th day of the month.
+<1698>Chegou a manhã do vigésimo dia do mês.
 <1699>1-1_0720_Dream
