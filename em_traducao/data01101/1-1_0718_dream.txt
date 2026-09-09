@@ -1,0 +1,1419 @@
+<0>18 de Julho
+<1>Na Toca do Coelho
+<2>map023
+<3>dayyk0718
+<4>black
+<5>se912
+<6>sp0013_loopb
+<7>sp0013_window1
+<8>bgm004
+<9>Era sábado à tarde... Por algum motivo, Eu estava no trem.
+<10>"Vamoes nesse trem até a última estação."
+<11>Eu meio que senti que Takashima-san me empurrou para isso.
+<12>yuki_000728
+<13>Yuki
+<14>"Ah propósito, até onde esse trem vai?"
+<15>zaku_000408
+<16>Zakuro
+<17>"Em frente ao parque de diversões. Você nunca esteve lá?"
+<18>yuki_000729
+<19>Yuki
+<20>"Ah, é mesmo? Eu nunca estive lá. Na verdade, nem sabia que tinha um parque de diversões lá..."
+<21>zaku_000409
+<22>Zakuro
+<23>"..."
+<24>zaku_000410
+<25>Zakuro
+<26>"Ah, então é isso..."
+<27>Por um momento, a voz dela pareceu meio abatida.
+<28>Será que falei algo errado?
+<29>yuki_000730
+<30>Yuki
+<31>"E-Ei, Você já foi lá antes?"
+<32>zaku_000411
+<33>Zakuro
+<34>"Eu... Eu estive aqui uma vez antes."
+<35>yuki_000731
+<36>Yuki
+<37>"Ah, Sério? Com seus pais?"
+<38>zaku_000412
+<39>Zakuro
+<40>"Não. Eu estava com a pessoa que eu mais amei no mundo."
+<41>yuki_000732
+<42>Yuki
+<43>"É a primeira vez que ouço isso. Você estava gostando de alguém?"
+<44>zaku_000413
+<45>Zakuro
+<46>"Sim, eu estava."
+<47>yuki_000733
+<48>Yuki
+<49>"Estava? Por que está no passado?"
+<50>zaku_000414
+<51>Zakuro
+<52>"Porque tudo o que eu conhecia nessa pessoa mudou, até mesmo o rosto dela."
+<53>yuki_000734
+<54>Yuki
+<55>"Até o rosto?"
+<56>zaku_000415
+<57>Zakuro
+<58>"Sim,  Então a pessoa que eu amei não está mais neste mundo."
+<59>yuki_000735
+<60>Yuki
+<61>"Isso quer dizer que..."
+<62>Talvez ela tenha sofrido algum tipo de acidente ou doença...
+<63>yuki_000736
+<64>Yuki
+<65>"Acho que perguntei algo que não devia?"
+<66>zaku_000416
+<67>Zakuro
+<68>"Não, não se preocupe com isso... Yuki-sama não fez nada de errado, afinal... Mas mais importante ainda..."
+<69>Takashima-san apontou o dedo para fora da janela.
+<70>zaku_000417
+<71>Zakuro
+<72>"Eu consigo ver a última estação. Olha o parque de diversões é ali."
+<73>yuki_000737
+<74>Yuki
+<75>"Ah..."
+<76>A última parada estava a direita em frente do parque de diversões.
+<77>Eu já andava nesse trem há anos, mas nunca tinha percebido que ele parava ali
+<78>Era a última parada, então eu via "A caminho do parque de diversões" toda vez que pegava esse trem, mas provavelmente nem ligava pra isso.
+<79>se297
+<80>As portas se abriram na última estação.
+<81>As pessoas desceram mais devagar do que fariam em qualquer outra parada.
+<82>As portas ficaram abertas por muito tempo na última parada. Não havia necessidade de se apressar, como quando se tenta descer em uma das paradas intermediárias.
+<83>Na estação "Parque de diversões", todos desembarcavam lentamente, um após o outro.”
+<84>Próxima parada: "País das Maravilhas"
+<85>Um parque de diversões velho e barato demais para ser chamado de país das maravilhas.”
+<86>Todos riam ao entrar naquele país das maravilhas barato.
+<87>zaku_000418
+<88>Zakuro
+<89>"Não deveríamos descer aqui também?"
+<90>yuki_000738
+<91>Yuki
+<92>"Foi por isso que me trouxe aqui, não foi?"
+<93>zaku_000419
+<94>Zakuro
+<95>"Sim. É verdade, mas é só um lugar onde tenho muitas lembranças. Provavelmente não significa nada para você, então não me importo se preferir ir para casa."
+<96>yuki_000739
+<97>Yuki
+<98>"Não adianta voltar para casa agora."
+<99>zaku_000420
+<100>Zakuro
+<101>"Sério? Só estar com você assim já é o bastante para mim."
+<102>yuki_000740
+<103>Yuki
+<104>"E lá se vai você de novo... Sabe você não deveria ficar fazendo essas brincadeiras tão casualmente."
+<105>zaku_000421
+<106>Zakuro
+<107>"Quer dizer que até a Kagami-san e a Tsukasa-san são influenciadas e acabam tendo comportamentos estranhos?"
+<108>yuki_000741
+<109>Yuki
+<110>"Sim, basicamente."
+<111>zaku_000422
+<112>Zakuro
+<113>"Mas, dizer que é uma brincadeira é um pouco injusto... Yuki-sama."
+<114>yuki_000742
+<115>Yuki
+<116>"Hã?"
+<117>zaku_000423
+<118>Zakuro
+<119>"Gosto muito de passar um tempo a sós com você, Yuki... Mesmo que não consigamos nos afastar muito daquelas outras duas."
+<120>yuki_000743
+<121>Yuki
+<122>"Se afastar delas?"
+<123>zaku_000424
+<124>Zakuro
+<125>"Se Kagami-san e Tsukasa-san soubessem da verdade sobre o que estamos fazendo hoje, provavelmente isso não acabaria bem."
+<126>yuki_000744
+<127>Yuki
+<128>"L-Lá vem você falando essas coisas de novo.... Essas duas estão levando isso a sério."
+<129>zaku_000425
+<130>Zakuro
+<131>"Ainda está que é só uma... piada, pelo visto"
+<132>yuki_000745
+<133>Yuki
+<134>"Sim, exatamente."
+<135>zaku_000426
+<136>Zakuro
+<137>"Então vá em alguns brinquedos comigo aqui no parque de diversões. Só entre na brincadeira, como uma piada."
+<138>yuki_000746
+<139>Yuki
+<140>"Ah, não... Não me importo de te acompanhar."
+<141>zaku_000427
+<142>Zakuro	
+<143>"Muito obrigado."
+<144>yuki_000747
+<145>Yuki
+<146>"Bem, vamos nessa, então."
+<147>zaku_000428
+<148>Zakuro
+<149>"Sim."
+<150>ev1002a
+<151>Caminhamos juntas ao redor.
+<152>Nossos sapatos ecoavam no concreto duro.
+<153>yuki_000748
+<154>Yuki
+<155>"Fico me perguntando há quanto tempo faz que tomei raspadinha pela última vez."
+<156>zaku_000429
+<157>Zakuro
+<158>"Está bom?"
+<159>yuki_000749
+<160>Yuki
+<161>"Sim. é basicamente gelo, mas é muito bom."
+<162>zaku_000430
+<163>Zakuro
+<164>"Hehehehe. Eu te trouxe até aqui, então isso é o mínimo que poderia fazer."
+<165>yuki_000750
+<166>Yuki
+<167>"Não precisava pagar pelo meu também."
+<168>zaku_000431
+<169>Zakuro
+<170>"Não, precisa sim. Eu sabia que diria isso, porque você é muito gentil"
+<171>yuki_000751
+<172>Yuki
+<173>"Não é verdade."
+<174>zaku_000432
+<175>Zakuro
+<176>"Hehehe. Sério? acho que só por dizer isso já te considero gentil."
+<177>yuki_000752
+<178>Yuki
+<179>"Por que será que acabou assim...?"
+<180>yuki_000753
+<181>Yuki
+<182>"Mesmo assim, tem bastante gente aqui, hein... apesar de ser um parque de diversões tão mixuruca... Ouvi dizer que lugares assim hoje em dia geralmente dão prejuízo, mas..."
+<183>zaku_000433
+<184>Zakuro
+<185>"Isso só mostra o quanto este parque de diversões é maravilhoso... Afinal, as pessoas estão se reunindo aqui."
+<186>yuki_000754
+<187>Yuki
+<188>"Talvez seja isso mesmo."
+<189>Havia um castelo falso, e os manequins estavam enferrujados. O lugar inteiro era um amontoado de sonhos medíocres, todos jogados juntos de qualquer jeito.
+<190>Um mundo onde várias formas de sonhos foram reunidas sem nenhum conceito unificador.
+<191>As pessoas riam e brincavam em um mundo tão barato. Pessoas felizes
+<192>Enquanto caminhava entre aquelas pessoas, senti como se tivesse me transformado em um fantasma.
+<193>Senti uma sensação estranha, como se meus pés não estivessem realmente tocando o chão...
+<194>Como se um sonho tivesse se tornado realidade...
+<195>zaku_000434
+<196>Zakuro
+<197>"Hoje eu pago, então vamos aproveitar."
+<198>quele sentimento estranho foi dissipado pelo sorriso de Takashima-san.
+<199>yuki_000755
+<200>Yuki
+<201>"Ah, certo."
+<202>Um rebanho de sorrisos me cercou, reunido aqui neste mundo barato.
+<203>A sensação de flutuar é aliviada pelo sorriso das pessoas próximas.
+<204>yuki_000756
+<205>Yuki
+<206>"Ah, mas você realmente não precisa pagar por mim. De qualquer forma, já que estamos aqui, vamos nos divertir. Na verdade, eu não vou a um parque de diversões desde criança."
+<207>zaku_000435
+<208>Zakuro
+<209>"É verdade? Não desde que você era criança? Ah, a propósito, Yuki-sama."
+<210>yuki_000757
+<211>Yuki
+<212>"O que?"
+<213>ev1002b
+<214>zaku_000436
+<215>Zakuro
+<216>"Podemos chamar isso de um encontro?"
+<217>yuki_000758
+<218>Yuki
+<219>"Hã? Eu não me importo muito, mas por quê?"
+<220>zaku_000437
+<221>Zakuro
+<222>"Ah, nada. Só alguma coisa para eu me lembrar de você."
+<223>yuki_000759
+<224>Yuki
+<225>"Lembrar de mim?"
+<226>zaku_000438
+<227>Zakuro
+<228>"Sabe, amanhã é dia 19."
+<229>yuki_000760
+<230>Yuki
+<231>"É, é sim, mas e daí?"
+<232>zaku_000439
+<233>Zakuro
+<234>"A observação das estrelas foi marcada para o dia 19. Procuraremos o início e o fim do céu noturno de amanhã."
+<235>yuki_000761
+<236>Yuki
+<237>"Sim, vamos. Espero que encontremos desta vez."
+<238>ev1002a
+<239>zaku_000440
+<240>Zakuro
+<241>"Sim, mas se fizermos isso, provavelmente não poderemos ficar juntos no dia seguinte."
+<242>yuki_000762
+<243>Yuki
+<244>"Hã? O-O que você quer dizer?"
+<245>Ela quis dizer que era a garota do mundo? Que ela achava que voltaria para o céu no dia 19?
+<246>Mas, se ela realmente tentasse fazer isso...
+<247>yuki_000763
+<248>Yuki
+<249>"C-Com licença, Takashima-san."
+<250>zaku_000441
+<251>Zakuro
+<252>"Hehe. O que foi? Achou que eu estava planejando pular do telhado no dia 19?"
+<253>yuki_000764
+<254>Yuki
+<255>"Hmm, não. Como eu poderia explicar?"
+<256>zaku_000442
+<257>Zakuro
+<258>"Não se preocupe. Eu não vou fazer nada desse tipo."
+<259>zaku_000443
+<260>Zakuro
+<261>"Aquilo foi uma piada. Só uma piada. Não é verdade que não poderemos ficar juntos depois do dia 20."
+<262>yuki_000765
+<263>Yuki
+<264>"Ah, então é isso... Não me assuste desse jeito."
+<265>zaku_000444
+<266>Zakuro
+<267>"Desculpa."
+<268>yuki_000766
+<269>Yuki
+<270>"Sabe, outro dia..."
+<271>zaku_000445
+<272>Zakuro
+<273>"O outro dia?"
+<274>Aquelas palavras saíram da minha boca quase sem querer. Hesitei, sem saber se deveria terminar a frase, mas eu precisava perguntar a ela sobre aquilo.
+<275>yuki_000767
+<276>Yuki
+<277>"Eu te vi deixando uma boneca na escola. Você me disse que esse ritual deveria ser realizado quando o Triângulo de Verão estivesse visível, então...
+<278>zaku_000446
+<279>Zakuro
+<280>"16 de julho de 2012, às 17h58. Certo?"
+<281>yuki_000768
+<282>Yuki
+<283>"?!"
+<284>Por que ela se lembrava do horário exato? Era exatamente o mesmo horário que a Ayana tinha dito.
+<285>O horário estava correto até o minuto.
+<286>Talvez houvesse algum significado no horário exato em que ela fez isso.
+<287>yuki_000769
+<288>Yuki
+<289>"É, naquela hora, você deixou a boneca no Prédio C, certo?"
+<290>zaku_000447
+<291>Zakuro
+<292>"Então você viu, né?"
+<293>yuki_000770
+<294>Yuki
+<295>"Eu não deveria ter visto?"
+<296>zaku_000448
+<297>Zakuro
+<298>"Isso não importa muito. Eu só estava deixando a boneca."
+<299>yuki_000771
+<300>Yuki
+<301>"Mas por que você deixou a boneca num horário desses? Não era uma forma de procurar alguma coisa no céu?"
+<302>zaku_000449
+<303>Zakuro
+<304>"Sim, isso mesmo."
+<305>yuki_000772
+<306>Yuki
+<307>"Mas o ponto de referência, o Triângulo de Verão, não estava visível naquela hora."
+<308>zaku_000450
+<309>Zakuro
+<310>"Tem razão. Não estava visível."
+<311>yuki_000773
+<312>Yuki
+<313>"Then why did you drop the doll at that time?"
+<314>zaku_000451
+<315>Zakuro
+<316>"I guess you could call it the borderline."
+<317>yuki_000774
+<318>Yuki
+<319>"The borderline?"
+<320>zaku_000452
+<321>Zakuro
+<322>"Yes."
+<323>yuki_000775
+<324>Yuki
+<325>"Um, Ayana-san said it was supposed to have an effect on another world..."
+<326>zaku_000453
+<327>Zakuro
+<328>"Otonashi Ayana..."
+<329>Takashima-san's expression suddenly disappeared.
+<330>yuki_000776
+<331>Yuki
+<332>"Wh-What's the matter?"
+<333>zaku_000454
+<334>Zakuro
+<335>"Otonashi Ayana, you said? So something like her can exist even in this kind of place."
+<336>yuki_000777
+<337>Yuki
+<338>"Even in this kind of place?"
+<339>zaku_000455
+<340>Zakuro
+<341>"But that was inevitable. Now I understand. I can understand why something like her would exist even here."
+<342>I was getting goosebumps for some reason. What the heck was this conversation we were having?
+<343>I'd been perspiring for a while now. It was a cold sweat.
+<344>Takashima-san's expression was dead. I'd never seen a face like that.
+<345>Why would her expression change like that when talking about Ayana?
+<346>zaku_000456
+<347>Zakuro
+<348>"But Otonashi-san... Now that I think about it, there were parts of her that were kind, too."
+<349>zaku_000457
+<350>Zakuro
+<351>"The fate I've chosen can't be changed now."
+<352>zaku_000458
+<353>Zakuro
+<354>"Whether it is inevitable or just coincidence isn't a distinction that a human can make."
+<355>yuki_000778
+<356>Yuki
+<357>"What are you talking about?"
+<358>zaku_000459
+<359>Zakuro
+<360>"The last words Otonashi-san said to me."
+<361>yuki_000779
+<362>Yuki
+<363>"The last?"
+<364>zaku_000460
+<365>Zakuro
+<366>"Ah, I'm sorry!"
+<367>zaku_000461
+<368>Zakuro
+<369>"Y-You see, I had an argument with her. Those were the words she said when we parted."
+<370>yuki_000780
+<371>Yuki
+<372>"I-Is that what it was?"
+<373>So Takashima-san and Otonashi-san knew each other.
+<374>Now that I thought about it, they did both kind of fit into the \n"mysterious girl" mold.
+<375>yuki_000781
+<376>Yuki
+<377>"Takashima-san, you had an argument with Ayana-san?"
+<378>zaku_000462
+<379>Zakuro
+<380>"That's right. Please don't worry too much about what I just said, nor about the incident with the doll."
+<381>zaku_000463
+<382>Zakuro
+<383>"When I dropped the doll from Building C, that was just practice."
+<384>yuki_000782
+<385>Yuki
+<386>"Practice?"
+<387>zaku_000464
+<388>Zakuro
+<389>"Yes. I haven't dropped a doll from the roof in a while, so I was worried I might be out of practice."
+<390>yuki_000783
+<391>Yuki
+<392>"Can you get 'out of practice' at something like that?"
+<393>zaku_000465
+<394>Zakuro
+<395>"Yes. It's rather difficult. You have to throw it so that it floats in the air."
+<396>yuki_000784
+<397>Yuki
+<398>"But it's never floated before, has it?"
+<399>zaku_000466
+<400>Zakuro
+<401>"It hasn't."
+<402>yuki_000785
+<403>Yuki
+<404>"Then how can you practice?"
+<405>zaku_000467
+<406>Zakuro
+<407>"It doesn't float because the sky is wrong. With the correct technique, the doll will float in the right sky."
+<408>zaku_000468
+<409>Zakuro
+<410>"But if you can't throw it correctly, it won't float even in the right sky."
+<411>zaku_000469
+<412>Zakuro
+<413>"And then we would never find the beginning and end of the sky."
+<414>yuki_000786
+<415>Yuki
+<416>"I-I guess that makes sense."
+<417>I guess for all these "mysterious" people, it must be a pain following all these "mysterious" rules.
+<418>sp0008c
+<419>zaku_000470
+<420>Zakuro
+<421>"But..."
+<422>Takashima-san's face suddenly softened.
+<423>When she looked at me, the smile had returned to her lips.
+<424>yuki_000787
+<425>Yuki
+<426>"What is it?"
+<427>zaku_000471
+<428>Zakuro
+<429>"This is nothing like that time, when I was so nervous. Right now, I'm totally relaxed, and I'm enjoying this calm, peaceful, happy moment."
+<430>yuki_000788
+<431>Yuki
+<432>"Are you talking about the person you came with the last time you were here?"
+<433>zaku_000472
+<434>Zakuro
+<435>"Ah, yes. That's right."
+<436>yuki_000789
+<437>Yuki
+<438>"There's really no comparison there, though. You were nervous because you were with the person you liked."
+<439>zaku_000473
+<440>Zakuro
+<441>"But I like you too."
+<442>yuki_000790
+<443>Yuki
+<444>"But that's something different. Not 'love,' just plain old 'like.'"
+<445>zaku_000474
+<446>Zakuro
+<447>"If that's how you want to put it, I loved the person I was here with last, and I love you too."
+<448>yuki_000791
+<449>Yuki
+<450>"Ugh..."
+<451>Now she's saying it too. Jeez.
+<452>yuki_000792
+<453>Yuki
+<454>"But still, there's no way you would get nervous around me, since we're both girls."
+<455>zaku_000475
+<456>Zakuro
+<457>"Heheh. Who cares about that? We still have time to enjoy this wonderland!"
+<458>yuki_000793
+<459>Yuki
+<460>"Wonderland, huh? What a cheap wonderland it is."
+<461>zaku_000476
+<462>Zakuro
+<463>"Dreams are nice because they're cheap. If they weren't cheap, they wouldn't be dreams. What do you think about that?"
+<464>map029
+<465>map029
+<466>ev1002a
+<467>zaku_000515
+<468>Zakuro
+<469>"We rode a lot of different ones, huh?"
+<470>yuki_000840
+<471>Yuki
+<472>"Yeah. Are there any others you want to try?"
+<473>zaku_000516
+<474>Zakuro
+<475>"Now that you mention it, there's a boat ride here."
+<476>yuki_000841
+<477>Yuki
+<478>"Oh, is there?"
+<479>zaku_000517
+<480>Zakuro
+<481>"How does that sound? Does the boat sound like fun?"
+<482>yuki_000794
+<483>Yuki
+<484>"That one?"
+<485>zaku_000477
+<486>Zakuro
+<487>"Yes, that ride looks like fun."
+<488>yuki_000795
+<489>Yuki
+<490>"Spirit room: 'The End Sky'..."
+<491>zaku_000478
+<492>Zakuro
+<493>"That's a strange name. It obviously means 'the end of the sky,' but it's written 'The End Sky.'"
+<494>yuki_000796
+<495>Yuki
+<496>"I wonder what it is. It says it's a spirit room, so it's probably one of those scary attractions."
+<497>zaku_000479
+<498>Zakuro
+<499>"I'm not really sure, but it looks odd, doesn't it? It says it's a 'spirit room,' not a 'haunted house.' It sounds kind of creepy."
+<500>yuki_000797
+<501>Yuki
+<502>"Yeah. Let's check it out."
+<503>zaku_000480
+<504>Zakuro
+<505>"Okay."
+<506>bgm109
+<507>The building had a bizarre structure.
+<508>That was the one thing that made me uncomfortable. Other than that, it looked like an ordinary attraction.
+<509>It was one of those attractions where you ride around in a gondola. I couldn't tell if the rails rusted or what, but they were making an unpleasant noise.
+<510>We sat in the gondola and looked at various worlds that passed us by, each of which had been neatly demarcated from the last.
+<511>At first, we were surrounded by never-ending darkness.
+<512>It felt like we were rising and falling, or even moving from side to side sometimes, but we couldn't really tell for sure what was happening in the dark.
+<513>yuki_000798
+<514>Yuki
+<515>"Wh-What is this?"
+<516>sp0014a
+<517>se913
+<518>yuki_000799
+<519>Yuki
+<520>"What the heck? Are we in a convenience store? Did we go the wrong way?"
+<521>zaku_000481
+<522>Zakuro
+<523>"That can't be it. Why would anyone come to a convenience store on a creepy gondola like this? Besides, there aren't any customers or employees."
+<524>yuki_000800
+<525>Yuki
+<526>"There really isn't anyone here. It's kinda scary how dark it is, too. If something popped out right now, it might actually scare me."
+<527>The gondola slowly passed through the deserted store.
+<528>sp0014b
+<529>I was expecting someone dressed up like a ghost to pop out at any moment, but nothing happened.
+<530>The thin layer of dust on all the shelves was a bit eerie.
+<531>sp0014c
+<532>yuki_000801
+<533>Yuki
+<534>"Hm... Do you think they would mind if I took a piece of candy?"
+<535>zaku_000482
+<536>Zakuro
+<537>"You can't do that. It's not like there's a sign that says 'free samples' or anything."
+<538>yuki_000802
+<539>Yuki
+<540>"But the security cameras aren't even turned on."
+<541>zaku_000483
+<542>Zakuro
+<543>"That's not the problem here..."
+<544>I grabbed a bag of potato chips from a nearby shelf.
+<545>The expiration date was July 20th, 1999.
+<546>yuki_000803
+<547>Yuki
+<548>"Ahaha... This is an antique."
+<549>zaku_000484
+<550>Zakuro
+<551>"Let's stop this."
+<552>It was starting to make sense. The scenery didn't just look old. It really was old.
+<553>What the heck was the designer thinking when he made this ride?
+<554>A deserted store. It definitely was creepy, but as an attraction in an amusement park, it was kind of lacking.
+<555>The rusty rails squeaked as the gondola turned toward a door behind the register.
+<556>sp0014d
+<557>I looked at the register.
+<558>Something was scribbled on a piece of paper there.
+<559>Just one sentence.
+<560>Title of this piece\n"Convenience Store End"
+<561>yuki_000804
+<562>Yuki
+<563>"This piece? Convenience Store End? What does that mean?
+<564>zaku_000485
+<565>Zakuro
+<566>"Maybe it means that this is the end of the convenience store?"
+<567>yuki_000805
+<568>Yuki
+<569>"The end of the convenience store, huh?"
+<570>yuki_000806
+<571>Yuki
+<572>"What is this supposed to be? Some sort of commentary on consumerism?"
+<573>zaku_000486
+<574>Zakuro
+<575>"I don't know. That seems kind of complicated."
+<576>The gondola skirted the wall and entered a staircase. We watched the convenience store recede below us as we ascended.
+<577>sp0015a
+<578>The gondola went up the endless stairs.
+<579>I was a bit surprised that it could go up the steps. It was quite the agile machine.
+<580>zaku_000487
+<581>Zakuro
+<582>"This is a really long stairway, isn't it?"
+<583>yuki_000807
+<584>Yuki
+<585>"It's just stairs and stairs, stretching on forever."
+<586>zaku_000488
+<587>Zakuro
+<588>"Oh, I can see the end."
+<589>sp0015b
+<590>The staircase that we thought was about to end doubled back in the opposite direction, and after we passed that...
+<591>sp0015a
+<592>yuki_000808
+<593>Yuki
+<594>"Was the building really this big?"
+<595>zaku_000489
+<596>Zakuro
+<597>"No. From the outside, it didn't look this big..."
+<598>se323
+<599>se575
+<600>yuki_000809
+<601>Yuki
+<602>"Wh-What?"
+<603>zaku_000490
+<604>Zakuro
+<605>"It's pitch black."
+<606>yuki_000810
+<607>Yuki
+<608>"What is this?"
+<609>sp0016a
+<610>zaku_000491
+<611>Zakuro
+<612>"It looks like the gondola got on an elevator."
+<613>yuki_000811
+<614>Yuki
+<615>"What kind of ride is this?"
+<616>se323
+<617>se575
+<618>sp0017a
+<619>zaku_000492
+<620>Zakuro
+<621>"This part looks like an apartment building."
+<622>yuki_000812
+<623>Yuki
+<624>"An apartment building..."
+<625>se913
+<626>zaku_000493
+<627>Zakuro
+<628>"Oh, the gondola is moving again."
+<629>It moved steadily through the concrete hallway. That was a barren, lifeless hallway, and there was no telling where it would lead.
+<630>yuki_000813
+<631>Yuki
+<632>"Hey. This is a hallway, right? We have to be in an apartment complex..."
+<633>zaku_000494
+<634>Zakuro
+<635>"Yes, probably."
+<636>yuki_000814
+<637>Yuki
+<638>"Then why are there curtains on the hallway windows?"
+<639>zaku_000495
+<640>Zakuro
+<641>"Huh?"
+<642>sp0018a
+<643>The windows of the once-modern hallway had at some point changed into the decrepit windows of a condemned apartment.
+<644>I had thought that we were still in the hallway, but maybe the gondola turned into one of the rooms without either of us noticing.
+<645>zaku_000496
+<646>Zakuro
+<647>"This is a room, isn't it?"
+<648>yuki_000815
+<649>Yuki
+<650>"It looks so old."
+<651>zaku_000497
+<652>Zakuro
+<653>"Ah."
+<654>sp0018b
+<655>yuki_000816
+<656>Yuki
+<657>"Would you call this the living room?"
+<658>zaku_000498
+<659>Zakuro
+<660>"It feels like we're back in the Shouwa era."
+<661>There was an engraved plate on the table.
+<662>Title of this piece\n"Living Room End"
+<663>yuki_000817
+<664>Yuki
+<665>"What's this? Maybe it really is some sort of criticism of modern culture."
+<666>zaku_000499
+<667>Zakuro
+<668>"Maybe it's trying to express a father's fear that the tight-knit family unit is falling apart."
+<669>The sound of grinding rust filled the room as the gondola advanced forward. The entire scene felt kind of surreal, or rather, downright eerie.
+<670>The calendar and clock were both stopped at the same point.
+<671>yuki_000818
+<672>Yuki
+<673>"July of 1999, again."
+<674>What was up with that date? It must have been the date when this attraction was made.
+<675>sp0015c
+<676>We left the living room and emerged into another staircase, except this time it was a small set of stairs like in someone's house.
+<677>It was really creepy.
+<678>sp0019a
+<679>yuki_000819
+<680>Yuki
+<681>"Huh? Those stairs led right into a classroom."
+<682>zaku_000500
+<683>Zakuro
+<684>"The living room was connected to the classroom, huh? Heheh. If you lived in a house like that, you would never be late, would you?"
+<685>yuki_000820
+<686>Yuki
+<687>"But on the other hand, your teacher could come to your room and ask, 'Are you doing your homework?'"
+<688>zaku_000501
+<689>Zakuro
+<690>"Ahaha. You're right, that might be annoying."
+<691>sp0019b
+<692>A plate was set upon the podium.
+<693>Title of this piece\n"End of the Classroom"
+<694>A convenience store, a living room, and then a classroom.
+<695>I see. So the designer was trying to bring out a feeling of unease.
+<696>There was no one in all these places where people should be, and the riders feel like intruders for being in places where they shouldn't be.
+<697>yuki_000821
+<698>Yuki
+<699>"I see. So that's what it meant by 'spirit room.'"
+<700>zaku_000502
+<701>Zakuro
+<702>"What do you mean?"
+<703>yuki_000822
+<704>Yuki
+<705>"All of the rooms are places that exist so that people can live in them. And when you suddenly take the people out of them, and look at all of these places from this gondola..."
+<706>yuki_000823
+<707>Yuki
+<708>"We get to look into these people's lifestyles, as if those lifestyles had been amputated and preserved in a jar."
+<709>yuki_000824
+<710>Yuki
+<711>"I think we're the spirits on this ride."
+<712>zaku_000503
+<713>Zakuro
+<714>"So there won't be any ghosts popping out and scaring us?"
+<715>yuki_000825
+<716>Yuki
+<717>"I don't think they're going to do anything crude like that."
+<718>yuki_000826
+<719>Yuki
+<720>"If any ghosts appeared, we would go back to being human."
+<721>sp0019c
+<722>The gondola left the classroom and went out into the hallway.
+<723>Just how big was this building?
+<724>zaku_000504
+<725>Zakuro
+<726>"It's a really long ride, isn't it?"
+<727>yuki_000827
+<728>Yuki
+<729>"Yeah. It's just showing us all these deserted scenes, but it's scary how big this place is."
+<730>sp0017b
+<731>The gondola kept moving through the hallway. The rust was causing a high-pitched whine.
+<732>The gondola advanced past the classroom and... stopped.
+<733>zaku_000505
+<734>Zakuro
+<735>"It stopped."
+<736>yuki_000828
+<737>Yuki
+<738>"Yeah."
+<739>se323
+<740>se575
+<741>A bell rang behind us as a door closed.
+<742>The gondola rotated around, and...
+<743>sp0016b
+<744>yuki_000829
+<745>Yuki
+<746>"Somehow we ended up in another elevator."
+<747>zaku_000506
+<748>Zakuro
+<749>"Yes. It really is a huge building, isn't it?"
+<750>se323
+<751>se575
+<752>sp0020a
+<753>se913
+<754>Title of this piece\n"The Final Abode"
+<755>yuki_000830
+<756>Yuki
+<757>"'The Final Abode'... That's kind of a gross name for a hospital."
+<758>zaku_000507
+<759>Zakuro
+<760>"By the 'The Final Abode,' they mean the place where you live while waiting to die, I guess."
+<761>yuki_000831
+<762>Yuki
+<763>"You might be right. Most people die in the hospital, but that's a creepy way of saying it."
+<764>sp0020b
+<765>Nevertheless, this was a hell of a design.
+<766>The gondola started to move into the bed.
+<767>sp0020c
+<768>zaku_000508
+<769>Zakuro
+<770>"Whoa, we're going to run into it."
+<771>yuki_000832
+<772>Yuki
+<773>"Whoa!"
+<774>map022
+<775>The gondola went into the bed.
+<776>What kind of structure did this ride have?
+<777>zaku_000509
+<778>Zakuro
+<779>"It's dark, isn't it?"
+<780>yuki_000833
+<781>Yuki
+<782>"Yeah. It's pitch black."
+<783>zaku_000510
+<784>Zakuro
+<785>"Oh, there's a light."
+<786>sp0008b
+<787>The blue sky spread out above us.
+<788>And...
+<789>When we looked down...
+<790>There was another plate.
+<791>Title of this piece\n"The End Sky"
+<792>yuki_000834
+<793>Yuki
+<794>"I see. So that's what it was."
+<795>A tremor ran up my spine, twisting my face into a jagged smile.
+<796>Normally, you were supposed to be scared when you were inside a haunted house, not when you left it.
+<797>But for some reason, this one was different.
+<798>It felt as if everything up to this point was a prelude.
+<799>The creepy feeling from all the deserted places where people should've been, and all the places where we had no right to be, culminated beneath this sky.
+<800>se323
+<801>Just like that, the gondola stopped.
+<802>It seemed like the ride should return to the beginning for the next person, but if this wasn't the end, it would be like the plate was lying.
+<803>yuki_000835
+<804>Yuki
+<805>"Th-That was kind of weird."
+<806>zaku_000511
+<807>Zakuro
+<808>"Heheh. I suppose so."
+<809>yuki_000836
+<810>Yuki
+<811>"Well then, how about we ride something fun next?"
+<812>zaku_000512
+<813>Zakuro
+<814>"That sounds good. It would be nice to ride something more relaxing."
+<815>Really, who the heck would make a ride like that?
+<816>I doubted there was any particular meaning to it. But still, it wasn't a very pleasant experience.
+<817>yuki_000837
+<818>Yuki
+<819>"A ride where you can experience the feeling of being a ghost..."
+<820>zaku_000513
+<821>Zakuro
+<822>"Yuki-sama, look! There's a boat over here!"
+<823>yuki_000838
+<824>Yuki
+<825>"Oh, sure. Just a sec."
+<826>zaku_000514
+<827>Zakuro
+<828>"Yuki-sama, how does that sound? Would you ride the boat with me?"
+<829>yuki_000839
+<830>Yuki
+<831>"Oh, that might be nice. After that weird ride, a boat ride would probably feel good."
+<832>map013
+<833>map018
+<834>sp0008a
+<835>map017
+<836>ev1003b
+<837>Creak... Creak...
+<838>Creak... Creak...
+<839>bgm003
+<840>zaku_000518
+<841>Zakuro
+<842>"I'm sorry about this. I'm making you row, even though I'm the maid."
+<843>yuki_000842
+<844>Yuki
+<845>"It's nothing. Ahaha..."
+<846>At first, Takashima-san said she was going to row, but with her at the oars, we'd hardly moved at all.
+<847>yuki_000843
+<848>Yuki
+<849>"I'm not very good at this, so just say something if you're feeling seasick."
+<850>ev1003a
+<851>zaku_000519
+<852>Zakuro
+<853>"I'm fine. There's no way I would get sick from your rowing."
+<854>yuki_000844
+<855>Yuki
+<856>"How can you say that with such certainty?"
+<857>zaku_000520
+<858>Zakuro
+<859>"Ahaha. I wonder why."
+<860>se057
+<861>zaku_000521
+<862>Zakuro
+<863>"The breeze on this lake is always nice and cool."
+<864>yuki_000845
+<865>Yuki
+<866>"This is the first time I've been here, so I wouldn't know."
+<867>zaku_000522
+<868>Zakuro
+<869>"It feels really good. I think it's wonderful."
+<870>yuki_000846
+<871>Yuki
+<872>"Yeah, the water draws the cool breeze over the lake, doesn't it?"
+<873>zaku_000523
+<874>Zakuro
+<875>"It feels so nice..."
+<876>zaku_000524
+<877>Zakuro
+<878>"The water looks like a mirror reflecting the sky, like we're in a boat flying through the heavens."
+<879>yuki_000847
+<880>Yuki
+<881>"I see what you mean, but that would be kinda scary."
+<882>zaku_000525
+<883>Zakuro
+<884>"Do you think so? I think it feels good to walk through the clouds."
+<885>yuki_000848
+<886>Yuki
+<887>"Ahaha. You say that as if you've actually done it before."
+<888>yuki_000849
+<889>Yuki
+<890>"I've never walked on a cloud before, so I wouldn't know. I just think it's kind of scary to imagine us being up in the sky."
+<891>ev1003b
+<892>zaku_000526
+<893>Zakuro
+<894>"Scary, is it? That's the opposite of what you said last time."
+<895>yuki_000850
+<896>Yuki
+<897>"Last time?"
+<898>zaku_000527
+<899>Zakuro
+<900>"Oh, it's nothing. I'm just talking to myself."
+<901>Creak... Creak...
+<902>Creak... Creak...
+<903>ev1003a
+<904>zaku_000528
+<905>Zakuro
+<906>"Heheh."
+<907>yuki_000851
+<908>Yuki
+<909>"Hmm? What's up?"
+<910>zaku_000529
+<911>Zakuro
+<912>"Oh, it's just... Look, if I touch the water, it's like I can reach out and touch the sky, I guess. That's all."
+<913>yuki_000852
+<914>Yuki
+<915>"Hehehe. That's interesting."
+<916>zaku_000530
+<917>Zakuro
+<918>"That's something I heard from the person I loved."
+<919>yuki_000853
+<920>Yuki
+<921>"Oh? He was a poet, wasn't he?"
+<922>zaku_000531
+<923>Zakuro
+<924>"He was a poet, a swordsman, a philosopher, and a pioneer of aerodynamics."
+<925>yuki_000854
+<926>Yuki
+<927>"..."
+<928>sp0008h
+<929>......
+<930>...
+<931>se912
+<932>yuki_000855
+<933>Yuki
+<934>"...♪"
+<935>zaku_000532
+<936>Zakuro
+<937>"..."
+<938>ev1004a
+<939>bgm003
+<940>We were on the train back home.
+<941>It felt nice. Our languid spirits swayed back and forth with the movement of the train.
+<942>And then...
+<943>Music.
+<944>Takashima-san looked like she was enjoying listening to my music.
+<945>I had her listen to a few songs, judging what genres she liked from her expression. It seemed like Takashima-san enjoyed the classical music.
+<946>I told her that this recording was from a New Year's concert they held every year in a foreign country.
+<947>Their conductor was lauded as a genius, and he led the most famous philharmonic in the world.
+<948>Waltz.
+<949>Polka.
+<950>March.
+<951>A dancing melody.
+<952>The swaying of the train seemed to match the rhythm of the songs.
+<953>I felt her softly put her hand on my hand that was holding the music player.
+<954>Fittingly, the name on the screen was Vergnugungszug, "Pleasure Train."
+<955>Ours was just a ride across town, not a journey, but the relaxed feeling was the same. The song almost made the scenery outside look like it was glowing.
+<956>zaku_000533
+<957>Zakuro
+<958>"Do you like classical music?"
+<959>yuki_000856
+<960>Yuki
+<961>"Well, my mother used to be really strict, and she made me practice the piano."
+<962>zaku_000534
+<963>Zakuro
+<964>"You can play the piano, then?"
+<965>yuki_000857
+<966>Yuki
+<967>"Yeah, as long as it's not too hard, I can manage."
+<968>zaku_000535
+<969>Zakuro
+<970>"Then could you play for me, tonight?"
+<971>yuki_000858
+<972>Yuki
+<973>"Tonight?"
+<974>zaku_000536
+<975>Zakuro
+<976>"Yes. I know a store where they have a piano."
+<977>yuki_000859
+<978>Yuki
+<979>"Is that so?"
+<980>zaku_000537
+<981>Zakuro
+<982>"Yes, though it's a place I heard about from the person I loved."
+<983>yuki_000860
+<984>Yuki
+<985>"Oh, is it?"
+<986>zaku_000538
+<987>Zakuro
+<988>"Would you mind going with me?"
+<989>yuki_000861
+<990>Yuki
+<991>"I'd be glad to."
+<992>se272
+<993>bg1030a
+<994>yuki_000862
+<995>Yuki
+<996>"This kind of looks like a bar or something."
+<997>zaku_000539
+<998>Zakuro
+<999>"Don't worry about that. Here, sit on this seat."
+<1000>yuki_000863
+<1001>Yuki
+<1002>"You're right. There is a piano."
+<1003>zaku_000540
+<1004>Zakuro
+<1005>"Yes. Here."
+<1006>Takashima-san handed me a key.
+<1007>yuki_000864
+<1008>Yuki
+<1009>"What's this?"
+<1010>zaku_000541
+<1011>Zakuro
+<1012>"The key to the piano... This bar's piano."
+<1013>yuki_000865
+<1014>Yuki
+<1015>"Why do you have a key? Do you work here or something?"
+<1016>zaku_000542
+<1017>Zakuro
+<1018>"Heheh. Who knows?"
+<1019>yuki_000866
+<1020>Yuki
+<1021>"The name is... Hakushuukyou Bar. Hmm?"
+<1022>I guess all bars really do look the same. This was my first time in the place, but it felt oddly familiar.
+<1023>yuki_000867
+<1024>Yuki
+<1025>"Is it all right if I play this piano?"
+<1026>zaku_000543
+<1027>Zakuro
+<1028>"There's no problem at all. Please, play the piano."
+<1029>yuki_000868
+<1030>Yuki
+<1031>"Ah, sure."
+<1032>ev0002a
+<1033>se231
+<1034>I played a few notes. It was pretty well tuned.
+<1035>Actually, the piano felt like it was really easy to play. It seemed that the piano and I were compatible.
+<1036>yuki_000869
+<1037>Yuki
+<1038>"Is there anything you'd like to hear?"
+<1039>zaku_000544
+<1040>Zakuro
+<1041>"Yes. For the first one, Erik Satie. Le Picadilly would be nice."
+<1042>yuki_000870
+<1043>Yuki
+<1044>"Oh, you listen to Satie. Good taste."
+<1045>zaku_000545
+<1046>Zakuro
+<1047>"That's right. Enjoying Satie is in good taste. He was a great composer."
+<1048>yuki_000871
+<1049>Yuki
+<1050>"Oh, that's rare. Are you singing your own praises now?"
+<1051>zaku_000546
+<1052>Zakuro
+<1053>"I guess I am."
+<1054>yuki_000872
+<1055>Yuki
+<1056>"What a coincidence, though. I like Satie too."
+<1057>I spread my fingers over the keys.
+<1058>I closed my eyes for a moment, and then...
+<1059>bgm021
+<1060>My fingers danced.
+<1061>As I struck the keys, layers of different tones flowed out from the piano.
+<1062>The music wove a tapestry of good cheer.
+<1063>It was a happy rhythm.
+<1064>Bright.
+<1065>Ornate.
+<1066>And somehow nostalgic.
+<1067>It felt simple and candid.
+<1068>Satie's music blends into the human lifestyle like a piece of furniture.
+<1069>Takashima-san listened quietly.
+<1070>I was having fun playing.
+<1071>yuki_000873
+<1072>Yuki
+<1073>"How was it?"
+<1074>zaku_000547
+<1075>Zakuro
+<1076>"It was wonderful."
+<1077>yuki_000874
+<1078>Yuki
+<1079>"I had fun, too. I haven't played in a long time."
+<1080>And I didn't feel rusty at all.
+<1081>I hadn't been practicing on the piano at home, so I thought that I would mess up, but...
+<1082>zaku_000548
+<1083>Zakuro
+<1084>"Could you play one more?"
+<1085>yuki_000875
+<1086>Yuki
+<1087>"Yeah, sure. What song?"
+<1088>zaku_000549
+<1089>Zakuro
+<1090>"I would like to hear your favorite song."
+<1091>yuki_000876
+<1092>Yuki
+<1093>"My favorite?"
+<1094>zaku_000550
+<1095>Zakuro
+<1096>"Yes, your number one favorite song."
+<1097>yuki_000877
+<1098>Yuki
+<1099>"My favorite, huh?"
+<1100>I faced the piano again and closed my eyes.
+<1101>I slowly opened my hands, and...
+<1102>bgm022
+<1103>I began to play.
+<1104>I played my favorite song.
+<1105>Takashima-san listened with a happy expression on her face.
+<1106>I had to wonder if she knew this song.
+<1107>If she liked Satie, she might have heard it before. It was a famous song.
+<1108>"The Dreamy Fish." That was the title.
+<1109>It was about the dream a fish living in the ocean might have. That was the image the melody evoked.
+<1110>They say Satie's titles were often different from the actual content of the pieces.
+<1111>He didn't want people's impressions to be affected by the title he gave it.
+<1112>That was why a lot of his compositions had strange titles.
+<1113>Embryons desseches. Deux preludes pour un chien. Sonatine bureaucratique. Trois morceaux en forme de poire. Tons of songs like that.
+<1114>But it felt like this song really was about a fish dreaming.
+<1115>yuki_000878
+<1116>Yuki
+<1117>"How was it?"
+<1118>zaku_000551
+<1119>Zakuro
+<1120>"..."
+<1121>bgm003
+<1122>yuki_000879
+<1123>Yuki
+<1124>"Wh-What's wrong?"
+<1125>zaku_000552
+<1126>Zakuro
+<1127>"Yes... Thank you very much."
+<1128>yuki_000880
+<1129>Yuki
+<1130>"Huh? A-Are you crying?"
+<1131>zaku_000553
+<1132>Zakuro
+<1133>"No... I'm not crying."
+<1134>yuki_000881
+<1135>Yuki
+<1136>"But..."
+<1137>zaku_000554
+<1138>Zakuro
+<1139>"No, just... thank you."
+<1140>zaku_000555
+<1141>Zakuro
+<1142>"This semester is going to end soon."
+<1143>yuki_000882
+<1144>Yuki
+<1145>"Yeah it is, although we skipped today."
+<1146>zaku_000556
+<1147>Zakuro
+<1148>"Yep. So with today, it's over."
+<1149>yuki_000883
+<1150>Yuki
+<1151>"It's over?"
+<1152>zaku_000557
+<1153>Zakuro
+<1154>"Yes, that's why I dragged you along to the amusement park."
+<1155>yuki_000884
+<1156>Yuki
+<1157>"Wh-What do you mean? I don't understand what you're saying."
+<1158>zaku_000558
+<1159>Zakuro
+<1160>"At the end of this semester, I'm transferring to a different school."
+<1161>yuki_000885
+<1162>Yuki
+<1163>"Huh?"
+<1164>zaku_000559
+<1165>Zakuro
+<1166>"I'll only be here in this city until the 20th, when the semester ends."
+<1167>yuki_000886
+<1168>Yuki
+<1169>"R-Really?"
+<1170>zaku_000560
+<1171>Zakuro
+<1172>"Yes. I've almost completely moved out already, but I wanted to at least stay and finish the semester."
+<1173>yuki_000887
+<1174>Yuki
+<1175>"Oh... I see."
+<1176>zaku_000561
+<1177>Zakuro
+<1178>"So tomorrow is the last day I can stay at your house."
+<1179>zaku_000562_a
+<1180>Zakuro
+<1181>"I have to leave this city the day after tomorrow."
+<1182>yuki_000888
+<1183>Yuki
+<1184>"Why did you stay until now, then?"
+<1185>yuki_000889
+<1186>Yuki
+<1187>"It sounds like your parents have already moved. It must have been hard to convince them to let you stay."
+<1188>zaku_000563
+<1189>Zakuro
+<1190>"Yes. I insisted they let me stay at least until the semester ended."
+<1191>yuki_000890
+<1192>Yuki
+<1193>"Why did you do that? Was there something you still had to do before leaving?"
+<1194>zaku_000564
+<1195>Zakuro
+<1196>"Yes, there was. There was a person that I had to meet, no matter what."
+<1197>zaku_000565
+<1198>Zakuro
+<1199>"And I remembered the legend."
+<1200>yuki_000891
+<1201>Yuki
+<1202>"What legend?"
+<1203>zaku_000566
+<1204>Zakuro
+<1205>"About the place where the girl of the sky meets the girl who is the world itself."
+<1206>zaku_000567
+<1207>Zakuro
+<1208>"That legend has become a sort of spell on this town."
+<1209>yuki_000892
+<1210>Yuki
+<1211>"A spell?"
+<1212>zaku_000568
+<1213>Zakuro
+<1214>"It's famous. So you really didn't know. It's a spell that lets you find the person you love."
+<1215>yuki_000893
+<1216>Yuki
+<1217>"I see. So then, the last person you wanted to meet was the person you loved."
+<1218>zaku_000569
+<1219>Zakuro
+<1220>"Yes."
+<1221>yuki_000894
+<1222>Yuki
+<1223>"Then you shouldn't be trying to use a charm or anything. If you asked us, we could've helped you find him."
+<1224>zaku_000570
+<1225>Zakuro
+<1226>"No, there's no need to search."
+<1227>yuki_000895
+<1228>Yuki
+<1229>"Huh? What do you mean, no need?"
+<1230>zaku_000571
+<1231>Zakuro
+<1232>"You see, the spell worked properly."
+<1233>yuki_000896
+<1234>Yuki
+<1235>"It worked? You mean you managed to find the person you were looking for?"
+<1236>zaku_000572
+<1237>Zakuro
+<1238>"Yes, thanks to you."
+<1239>yuki_000897
+<1240>Yuki
+<1241>"B-But isn't that a bit strange? You say you found the person you loved, but you spent the entire time at my place, right? What exactly were you doing?"
+<1242>zaku_000573
+<1243>Zakuro
+<1244>"Because the person I wanted to meet was Yuki-sama. It was you."
+<1245>yuki_000898
+<1246>Yuki
+<1247>"Me?"
+<1248>zaku_000574
+<1249>Zakuro
+<1250>"Yes."
+<1251>yuki_000899
+<1252>Yuki
+<1253>"Um, let me get this straight. Uh, first off, we're both girls, and besides, you didn't even know me until after you dropped the doll on my head."
+<1254>zaku_000575
+<1255>Zakuro
+<1256>"That's how it seems to you, but that's just because you're so forgetful."
+<1257>zaku_000576
+<1258>Zakuro
+<1259>"If my being a girl is a problem, you should say that to the other two, not just me."
+<1260>yuki_000900
+<1261>Yuki
+<1262>"By the other two, you mean..."
+<1263>zaku_000577
+<1264>Zakuro
+<1265>"Kagami-san and Tsukasa-san."
+<1266>yuki_000901
+<1267>Yuki
+<1268>"Um, they were probably just playing along, you know?"
+<1269>zaku_000578
+<1270>Zakuro
+<1271>"Maybe so. They probably were."
+<1272>zaku_000579
+<1273>Zakuro
+<1274>"But when someone falls in love with another person, that's just how it is. Or do you think falling in love is something intentional?"
+<1275>yuki_000902
+<1276>Yuki
+<1277>"Uh, no... That's not it. How can I put it?"
+<1278>zaku_000580
+<1279>Zakuro
+<1280>"I had a lot of fun the last few days."
+<1281>zaku_000581
+<1282>Zakuro
+<1283>"At first I thought that I only wanted to be with you because I like you, but as the days went by, I realized that I like Kagami-san and Tsukasa-san too."
+<1284>zaku_000582
+<1285>Zakuro
+<1286>"I loved being together with you all."
+<1287>yuki_000903
+<1288>Yuki
+<1289>"Takashima-san..."
+<1290>zaku_000583
+<1291>Zakuro
+<1292>"Competing with Kagami-san for you, playing with Tsukasa-san..."
+<1293>zaku_000584
+<1294>Zakuro
+<1295>"So thank you for everything."
+<1296>The legend that tells of the meeting between the world girl and the sky girl.
+<1297>The legend that led to some kind of spell for the two girls.
+<1298>The sky we were going to search for was in Takashima-san's hand from the moment we started to search.
+<1299>That was the answer.
+<1300>1-1_0719_Dream
+<1301>zaku_000585
+<1302>Zakuro
+<1303>"And... I'm sorry."
+<1304>yuki_000904
+<1305>Yuki
+<1306>"You're sorry?"
+<1307>zaku_000586
+<1308>Zakuro
+<1309>"Maybe I shouldn't say this."
+<1310>yuki_000905
+<1311>Yuki
+<1312>"What's wrong, Takashima-san?"
+<1313>zaku_000587
+<1314>Zakuro
+<1315>"Tomorrow, when we go stargazing, let's start right after midnight."
+<1316>yuki_000906
+<1317>Yuki
+<1318>"Right after midnight? You mean right when the date changes to the 20th?"
+<1319>zaku_000588
+<1320>Zakuro
+<1321>"Yes."
+<1322>yuki_000907
+<1323>Yuki
+<1324>"Why? If we want to find the sky, it would be easier to do at an earlier time. And besides, we can't really be in the building that late."
+<1325>zaku_000589
+<1326>Zakuro
+<1327>"There's no problem. We can get into the building."
+<1328>yuki_000908
+<1329>Yuki
+<1330>"Huh?"
+<1331>zaku_000590
+<1332>Zakuro
+<1333>"If the world girl desires it, nothing in this world is impossible."
+<1334>yuki_000909
+<1335>Yuki
+<1336>"Uh, excuse me. Takashima-san, by that..."
+<1337>zaku_000591
+<1338>Zakuro
+<1339>"I understand. It sounds like I'm saying something strange to you right now. You probably think I'm some 'mysterious girl,' or maybe that I'm some 'crazy weirdo'..."
+<1340>yuki_000910
+<1341>Yuki
+<1342>"Ah, no, that's not..."
+<1343>zaku_000592
+<1344>Zakuro
+<1345>"It's fine. I understand now. I understand everything."
+<1346>zaku_000593
+<1347>Zakuro
+<1348>"At first, I suffered for my own sin."
+<1349>yuki_000911
+<1350>Yuki
+<1351>"Your own sin?"
+<1352>zaku_000594
+<1353>Zakuro
+<1354>"Yes. I thought that I had to atone for the crime I'd committed."
+<1355>yuki_000912
+<1356>Yuki
+<1357>"Some kind of redemption?"
+<1358>zaku_000595
+<1359>Zakuro
+<1360>"But I understand after walking through this world together with you."
+<1361>zaku_000596
+<1362>Zakuro
+<1363>"The redemption that I seek will only end up making you suffer."
+<1364>zaku_000597
+<1365>Zakuro
+<1366>"If I don't do it, then you'll be happy. You can live the rest of your life like this, in this Wonderful Everyday. But..."
+<1367>zaku_000598
+<1368>Zakuro
+<1369>"My redemption would take that all away."
+<1370>yuki_000913
+<1371>Yuki
+<1372>"U-Uh, I don't really get it."
+<1373>zaku_000599
+<1374>Zakuro
+<1375>"Tomorrow, before the 19th ends, please come to Building C."
+<1376>yuki_000914
+<1377>Yuki
+<1378>"Um, then, Kagami and Tsukasa..."
+<1379>zaku_000600
+<1380>Zakuro
+<1381>"If you wish, I think you'll be able to bring them along. But if you don't wish to, you won't be able to."
+<1382>yuki_000915
+<1383>Yuki
+<1384>"What does that..."
+<1385>zaku_000601
+<1386>Zakuro
+<1387>"You'll understand tomorrow."
+<1388>zaku_000602
+<1389>Zakuro
+<1390>"Depending on how you approach the day we call tomorrow, the shape of the world could change greatly."
+<1391>yuki_000916
+<1392>Yuki
+<1393>"The day we call tomorrow?"
+<1394>zaku_000603
+<1395>Zakuro
+<1396>"Yes, just like this shop..."
+<1397>yuki_000917
+<1398>Yuki
+<1399>"This shop is..."
+<1400>Then it hit me. The other customers were gone. Even the bartender was nowhere to be seen.
+<1401>The only two people here were Takashima-san and me.
+<1402>yuki_000918
+<1403>Yuki
+<1404>"Th-This is..."
+<1405>zaku_000604
+<1406>Zakuro
+<1407>"Most likely, it's because you wish for a long journey."
+<1408>yuki_000919
+<1409>Yuki
+<1410>"A long journey?"
+<1411>zaku_000605
+<1412>Zakuro
+<1413>"Yes. So, tomorrow, on the rooftop..."
+<1414>yuki_000920
+<1415>Yuki
+<1416>"Espera, Takashima-san!"
+<1417>se272
+<1418>1-1_0719_Escape

@@ -1,0 +1,1713 @@
+<0>15 de Julho
+<1>Na Toca do Coelho
+<2>map023
+<3>dayyk0715
+<4>sp0008a
+<5>se058
+<6>Era de manhã. Pude perceber pelo canto dos pássaros lá fora e pela luz que entrava pela fresta das cortinas.
+<7>bg1002a
+<8>bgm003
+<9>yuki_000472
+<10>Yuki
+<11>"Haa... Não consegui dormir depois depois de ouvir Tsukasa dizer algo assim."
+<12>Duas noites sem dormir
+<13>O que ela quis dizer com "amor" caramba, somos duas garotas.
+<14>Mas...
+<15>yuki_000473
+<16>Yuki
+<17>"Por algum motivo, meu coração estava meio acelerado."
+<18>Eu realmente não conseguia entender esse sentimento.
+<19>Normalmente eu teria me sentido chocada e desconfortável, mas...
+<20>Mas aquilo não parecia nem um pouco ruim.
+<21>Se eu tivesse que escolher a frase que melhor descreveria essa sensação...
+<22>A que mais se aproximava seria dizer que meu coração estava "agitado".
+<23>Por que meu coração estava batendo daquele jeito?
+<24>bg1002a
+<25>yuki_000474
+<26>Yuki
+<27>"Eu não consigo entender nada."
+<28>Poxa, Como as coisas acabaram assim, afinal?
+<29>Ah princípio, era só a Takashima-san que ia ficar aqui enquanto procurava pelo céu. Depois, a Kagami e a Tsukasa acabaram ficando aqui também.
+<30>Não fazia sentido nenhum. Como foi que isso acabou desse jeito?
+<31>Além disso...
+<32>Ah é mesmo. No começo ela queria ficar aqui para que ela poder procurar pelo céu.
+<33>Para me livrar dessa sensação, eu precisava encontrar o que quer que fosse que a Takashima-san estivesse procurando o mais rápido possíve, mandá-la para casa e, depois, me livrar da Tsukasa e da Kagami também.
+<34>Se isso continuasse...
+<35>Algo estranho poderia acontecer.
+<36>yuki_000475
+<37>Yuki
+<38>"Ahaha. Parece que as coisas estão tomando um rumo um pouco perigoso. Como se isso fosse levar a uma situação estranha."
+<40>tuka_000187
+<41>Tsukasa
+<42>"O que é perigoso"
+<43>tk0009a_l
+<44>yuki_000476
+<45>Yuki
+<46>"Hãm?! Tsukasa."
+<47>tk0009a
+<48>tuka_000188
+<49>Tsukasa
+<50>"P-Por que está tão surpresa?"
+<51>yuki_000477
+<52>Yuki
+<53>"Ah, Ah, Bem... Nada."
+<54>tk0010
+<55>tuka_000189
+<56>Tsukasa
+<57>"Mas não parece que não seja nada, pelo jeito."
+<58>yuki_000478
+<59>Yuki
+<60>"É-É porque você estava dizendo coisas estranhas ontem à noite."
+<61>tk0008a
+<62>tuka_000190
+<63>Tsukasa
+<64>"Coisas Estranhas?"
+<65>yuki_000479
+<66>Yuki
+<67>"Você estava falando sobre amor e tals."
+<68>tk0008
+<69>tuka_000191
+<70>Tsukasa
+<71>"Isso é estranho? Bem, agora que você mencionou isso, talvez seja mesmo."
+<72>tk0008a
+<73>kg0000a
+<74>kaga_000308
+<75>Kagami
+<76>"Isso não importa. Depressa, vamos nos atrasar para a escola."
+<77>yuki_000480
+<78>Yuki
+<79>"Nossa, você está certo. Tenho que me arrumar!"
+<80>Ontem não fomos, mas hoje fomos à escola.
+<81>Como sempre, não havia nada a fazer a não ser ficar sentado sem fazer nada e esperar a aula acabar. Mas, por alguma razão, o dia letivo não pareceu nada longo.
+<82>As férias de verão estavam quase chegando. Eu só precisava aguentar esse tédio por mais um pouquinho.
+<83>sp0008h
+<84>se060
+<85>bgm020
+<86>Nós quatro voltamos para casa juntos.
+<87>Parecia que fazia muito tempo que não caminhávamos juntos daquele jeito.
+<88>Bem, como estávamos todos indo para o mesmo lugar, talvez fosse inevitável que voltássemos juntos para casa.
+<89>zk0000a
+<90>kg0000a
+<91>tk0000a
+<92>bg1007b
+<93>yuki_000481
+<94>Yuki
+<95>"Precisamos parar de enrolar. Devíamos sair para observar o céu hoje."
+<96>zk0001a
+<97>zaku_000299
+<98>Zakuro
+<99>"Sim. Ontem, também não fizemos isso."
+<100>kg0008a
+<101>kaga_000309
+<102>Kagami
+<103>"By sky-searching, you mean searching for the Summer Triangle?"
+<104>yuki_000482
+<105>Yuki
+<106>"Yeah, there was something about the world-class girl meeting the astronaut, or something like that."
+<107>tk0006a
+<108>tuka_000192
+<109>Tsukasa
+<110>"I don't think that's right, Yuki."
+<111>kaga_000310
+<112>Kagami
+<113>"Where are we going to go search?"
+<114>tk0008a
+<115>yuki_000483
+<116>Yuki
+<117>"There's a building in Suginomiya where we were planning on going, but..."
+<118>kg0010a
+<119>kaga_000311
+<120>Kagami
+<121>"Yuki, have you ever heard of light pollution?"
+<122>yuki_000484
+<123>Yuki
+<124>"Of course I have. Astronomy and things like that are impossible if there's too much light, right?"
+<125>yuki_000485
+<126>Yuki
+<127>"But what's the use in trying to find a spot in Tokyo without any light? Besides, even here in Tokyo, we should at least be able to spot the Summer Triangle."
+<128>kaga_000312
+<129>Kagami
+<130>"But still, you shouldn't pick the part of the city with the most lights. Suginomiya is right in the middle of the shopping district."
+<131>yuki_000486
+<132>Yuki
+<133>"But are there any rooftops we can get to in the parts of the city with less light? There's no point if we can't get on the roof."
+<134>kg0008a
+<135>kaga_000313
+<136>Kagami
+<137>"Why don't you talk to the Astronomy Club?"
+<138>yuki_000487
+<139>Yuki
+<140>"Astronomy Club?"
+<141>kg0002a
+<142>tk0001a
+<143>kaga_000314
+<144>Kagami
+<145>"The Astronomy Club. They can use the school roof at night if they get permission ahead of time."
+<146>yuki_000488
+<147>Yuki
+<148>"Really?"
+<149>kg0001
+<150>kaga_000315
+<151>Kagami
+<152>"Of course, it's a pain filling out the paperwork to be allowed up there in the middle of the night, but it shouldn't be a problem going just a couple hours after the sun sets."
+<153>tk0008
+<154>tuka_000193
+<155>Tsukasa
+<156>"Can you see the stars well from there?"
+<157>kg0002
+<158>kaga_000316
+<159>Kagami
+<160>"Yeah. The school is built on high ground, and it's surrounded by forest. Especially Building C, since its roof is the highest."
+<161>zk0007a
+<162>zaku_000300
+<163>Zakuro
+<164>"Did you say... Building C?"
+<165>Takashima-san's expression suddenly clouded over as she mumbled that.
+<166>yuki_000489
+<167>Yuki
+<168>"What's wrong? You looked pretty grim when she said 'Building C.'"
+<169>zk0009a
+<170>kg0008a
+<171>tk0008a
+<172>zk0007a
+<173>zaku_000301
+<174>Zakuro
+<175>"Ah, no. It's nothing. Excuse me."
+<176>zk0000a
+<177>zaku_000302
+<178>Zakuro
+<179>"But I do think that would be the best place, since it's the highest place in the school. I've been there quite a few times before."
+<180>yuki_000490
+<181>Yuki
+<182>"Have you?"
+<183>zk0006a
+<184>zaku_000303
+<185>Zakuro
+<186>"I was in the Art Club. The only way to get to the roof of Building C is through the art room, so we used to go up there a lot."
+<187>yuki_000491
+<188>Yuki
+<189>"Oh. You're not in that club anymore?"
+<190>zaku_000304
+<191>Zakuro
+<192>"There was a little accident, so the club doesn't operate anymore."
+<193>yuki_000492
+<194>Yuki
+<195>"The Art Club had an accident?"
+<196>zk0000a
+<197>zaku_000305
+<198>Zakuro
+<199>"Well, I don't think that's what really matters here. We were talking about the school roof."
+<200>tk0006a
+<201>tuka_000194
+<202>Tsukasa
+<203>"I don't hang around the school at night very often, but you're right, it does seem like it would get pretty dark at night."
+<204>kg0000a
+<205>kaga_000317
+<206>Kagami
+<207>"It might be a problem trying to look at the eastern side of the sky, since there would be too many lights, but we should be able to see the Summer Triangle pretty clearly after eight o'clock or so."
+<208>yuki_000493
+<209>Yuki
+<210>"Speaking of which, why do you know so much about astronomy?"
+<211>kg0001a
+<212>tk0001a
+<213>kaga_000318
+<214>Kagami
+<215>"One of the girls from our class, Miu, is in the Astronomy Club."
+<216>yuki_000494
+<217>Yuki
+<218>"Miu-san? Now that you mention it, I might've heard that name before."
+<219>kg0010a
+<220>kaga_000319
+<221>Kagami
+<222>"You really don't remember your own classmates, do you?"
+<223>zk0007
+<224>tk0006a
+<225>zaku_000306
+<226>Zakuro
+<227>"Yuki-sama can't remember people's faces or names. She didn't remember me either."
+<228>yuki_000495
+<229>Yuki
+<230>"Huh? Really? I think I can remember people fine. I remembered you after the first time we met on the rooftop."
+<231>zk0006a
+<232>zaku_000307
+<233>Zakuro
+<234>"You're the only one who thinks that. It's not a big deal, though."
+<235>The way she said that.. It was like she was saying we'd met before. Actually, thinking back on it, she did say, "Thank you for lending me another book," or something like that.
+<236>Which would mean that we already knew each other, at least well enough to be lending each other books. I didn't remember that at all, though.
+<237>kaga_000320
+<238>Kagami
+<239>"Yuki, you should try to remember people better. Who's gonna want to be friends with you if you can't even remember their name?"
+<240>yuki_000496
+<241>Yuki
+<242>"Well... Yeah, I'll try."
+<243>kg0001a
+<244>kaga_000321
+<245>Kagami
+<246>"Anyway, I'll call Miu and ask her. We'll probably be able to use the roof tomorrow, or at worst the day after."
+<247>yuki_000497
+<248>Yuki
+<249>"Then what should we do for today?"
+<250>zk0000a
+<251>kg0000a
+<252>tk0000a
+<253>tuka_000195
+<254>Tsukasa
+<255>"Want to try going to the building you were talking about earlier?"
+<256>zk0001a
+<257>kg0008a
+<258>tk0010
+<259>zaku_000308
+<260>Zakuro
+<261>"No. In that case, we should just go home. I have some important news."
+<262>yuki_000498
+<263>Yuki
+<264>"Important?"
+<265>tuka_000196
+<266>Tsukasa
+<267>"That's right. There's something very important today."
+<268>yuki_000499
+<269>Yuki
+<270>"Huh? Really?"
+<271>I wondered what they meant by "something important."
+<272>Whatever they were talking about, it felt like something was up.
+<273>By the time we got home, the sun had set.
+<274>Takashima-san and Tsukasa started making dinner right away.
+<275>It looked like those two would be the ones making dinner tonight.
+<276>I didn't think Tsukasa was any good at cooking, though.
+<277>Putting that aside, what did they mean by "something important"?
+<278>That was what I was worried about, but the two of them just started making dinner as if they had forgotten about it.
+<279>zk0010
+<280>kg0010a
+<281>tk0003a
+<282>bg1002c
+<283>bgm023
+<284>tuka_000197
+<285>Tsukasa
+<286>"Dinner's ready!"
+<287>yuki_000500
+<288>Yuki
+<289>"Whoa, that was fast!"
+<290>kaga_000322
+<291>Kagami
+<292>"And this... is dinner?"
+<293>They laid out crackers, cheese, potato chips, and pizza (probably leftovers). Though I guess they probably made these fries. If I had to describe it...
+<294>zk0000a
+<295>kg0008a
+<296>tk0008a
+<297>zaku_000309
+<298>Zakuro
+<299>"That's right. Um, I have an important announcement."
+<300>yuki_000501
+<301>Yuki
+<302>"An important announcement?"
+<303>zaku_000310
+<304>Zakuro
+<305>"Anyway, it's not fancy, but I got this box and made lots."
+<306>yuki_000502
+<307>Yuki
+<308>"Lots? We're going to draw lots to determine our roles, right?"
+<309>kaga_000323
+<310>Kagami
+<311>"We're just going stargazing. What roles could there be for that?"
+<312>zaku_000311
+<313>Zakuro
+<314>"No, these aren't roles for stargazing."
+<315>yuki_000503
+<316>Yuki
+<317>"Then what roles are they?"
+<318>kaga_000324
+<319>Kagami
+<320>"Actually, I do remember you talking last night about how important the division of labor is."
+<321>zk0004a
+<322>zaku_000312
+<323>Zakuro
+<324>"Yes. The world is divided into those who rule and those who are ruled. The people who stand above and the people who toil below."
+<325>yuki_000504
+<326>Yuki
+<327>"Huh?"
+<328>tk0001a
+<329>tuka_000198
+<330>Tsukasa
+<331>"Well, I guess that is pretty important."
+<332>kg0010a
+<333>kaga_000325
+<334>Kagami
+<335>"Hey, how can you be convinced so easily?"
+<336>zaku_000313
+<337>Zakuro
+<338>"Kagami-san is right. The light pollution would be a problem in Suginomiya. I don't think we would accomplish anything there. There might not be any point in going today."
+<339>kg0006a
+<340>kaga_000326
+<341>Kagami
+<342>"What does that have to do with the rulers and the ruled?"
+<343>zk0003a
+<344>tk0003a
+<345>se572
+<346>tuka_000199
+<347>Tsukasa
+<348>"We're going to determine who's King tonight!"
+<349>kg0009a
+<350>kaga_000327
+<351>Kagami
+<352>"Huh?"
+<353>zk0002a
+<354>tk0002a
+<355>bgm001
+<356>zaku_000314
+<357>Zakuro
+<358>"Yes. That's exactly it. This night is ours, so we should enjoy it. It won't take that long to find what I'm searching for."
+<359>tk0003a
+<360>tuka_000200
+<361>Tsukasa
+<362>"Well then, let the King Game begin!"
+<363>yuki_000505
+<364>Yuki
+<365>"King? King Game?! What does that have to do with stargazing?"
+<366>zk0003
+<367>zaku_000315
+<368>Zakuro
+<369>"Here we go!"
+<370>She shook the box.
+<371>Something else was still bothering me.
+<372>yuki_000506
+<373>Yuki
+<374>"Um, Takashima-san, you said it wouldn't take very long?"
+<375>zk0008a
+<376>zaku_000316
+<377>Zakuro
+<378>"Yes, I did."
+<379>yuki_000507
+<380>Yuki
+<381>"How do you know that?"
+<382>zk0001a
+<383>zaku_000317
+<384>Zakuro
+<385>"I can't say for sure. It's just an optimistic view. With this many people searching, it shouldn't take that long. That's what I was thinking."
+<386>yuki_000508
+<387>Yuki
+<388>"Oh, okay."
+<389>Optimistic, huh? Well, okay, I guess.
+<390>After all, it's not like a real beginning and end to the sky ever existed.
+<391>Why did she think you could find something like that so easily?
+<392>Where the girl of the sky meets the girl who is the world itself. The beginning of the sky and the end of the sky.
+<393>I couldn't even imagine a place like that existing.
+<394>So why was I helping Zakuro search for it?
+<395>zk0002
+<396>kg0000a
+<397>tk0003a
+<398>bg1002c
+<399>tuka_000201
+<400>Tsukasa
+<401>"Let's get started! I always dreamed of sitting around, eating junk food, and playing games with you guys."
+<402>kg0010a
+<403>kaga_000328
+<404>Kagami
+<405>"So this was your idea, Tsukasa."
+<406>tuka_000202
+<407>Tsukasa
+<408>"Yeah, we never do anything like this in our house. If we're going to have a slumber party, this is what we have to do."
+<409>zk0003a
+<410>zaku_000318
+<411>Zakuro
+<412>"We have plenty of drinks too."
+<413>What the heck? This was "something important"?
+<414>Jeez, Tsukasa and Takashima-san were...
+<415>ev3002a
+<416>kyod_000002
+<417>Tsukasa+Zakuro
+<418>"Who is the K-I-N-G?"
+<419>tuka_000203
+<420>Tsukasa
+<421>"Come on, you two have to say it too."
+<422>kaga_000329
+<423>Kagami
+<424>"Um, I don't know how to play this game."
+<425>tuka_000204
+<426>Tsukasa
+<427>"Just say, 'Who is the K-I-N-G?' and draw a lot. Then whoever the king is gives an order to one of the numbers, and whoever drew that number has to do what the king says."
+<428>kaga_000330
+<429>Kagami
+<430>"Really? Th-That's a bit scary."
+<431>tuka_000205
+<432>Tsukasa
+<433>"So you don't want to give any really unfair orders. If everyone keeps giving orders like that, it just gets worse and worse as it escalates."
+<434>tuka_000206
+<435>Tsukasa
+<436>"Well, it's definitely something people would do at a party, but we're all girls, so nothing that bad's gonna happen."
+<437>tuka_000207
+<438>Tsukasa
+<439>"Well then, let's go."
+<440>kyod_000003
+<441>Everyone
+<442>"Who is the K-I-N-G?"
+<443>We all said that and drew our lots.
+<444>kaga_000331
+<445>Kagami
+<446>"Oh... Mine says 'King.'"
+<447>tuka_000208
+<448>Tsukasa
+<449>"Kagami-sama has been crowned King."
+<450>tuka_000209
+<451>Tsukasa
+<452>"Well then, what command do you want to give to what number?"
+<453>yuki_000509
+<454>Yuki
+<455>"Please, God, don't let her choose me. I beg of you."
+<456>tuka_000210
+<457>Tsukasa
+<458>"Yuki, that's the death penalty! To the guillotine with you! We'll put your head on a pike!"
+<459>yuki_000510
+<460>Yuki
+<461>"Huh?! What's this all of a sudden, and why a pike?"
+<462>tuka_000211
+<463>Tsukasa
+<464>"If you talk about the king like that, you'll be put to death instantly for lese-majeste."
+<465>yuki_000511
+<466>Yuki
+<467>"What does that have to do with the King Game?"
+<468>tuka_000212
+<469>Tsukasa
+<470>"What should I do with this foolish peasant, your majesty?"
+<471>kaga_000332
+<472>Kagami
+<473>"Let's see. Well, if she apologizes, I suppose I could deign to forgive her."
+<474>tuka_000213
+<475>Tsukasa
+<476>"That's far too lenient, my lord!"
+<477>kaga_000333
+<478>Kagami
+<479>"Huh?"
+<480>tuka_000214
+<481>Tsukasa
+<482>"You must be kingly and say, 'My word is law. My deeds are law. I shall not allow anyone in this world to defy me, even should I defy everyone in it.' Without that resolve, you won't be able to unite the Three Kingdoms."
+<483>yuki_000512
+<484>Yuki
+<485>"This isn't the Three Kingdoms Period, and besides, there are four of us."
+<486>tuka_000215
+<487>Tsukasa
+<488>"Stay your tongue!"
+<489>tuka_000216
+<490>Tsukasa
+<491>"With that attitude, you'll amount to nothing in the coming age."
+<492>yuki_000513
+<493>Yuki
+<494>"Wh-What are you talking about?"
+<495>zaku_000319
+<496>Zakuro
+<497>"That's right. We don't know who's going to be the next king."
+<498>kaga_000334
+<499>Kagami
+<500>"N-Now that you mention it, I might not have another chance, and I can make Yuki do anything I want. Hehehe."
+<501>yuki_000514
+<502>Yuki
+<503>"Th-That smile is kind of creepy, Kagami."
+<504>Did she have some kind of grudge against me? I was kind of worried what she was going to make me do.
+<505>kaga_000335
+<506>Kagami
+<507>"Heheh. I hope you're ready."
+<508>kaga_000336
+<509>Kagami
+<510>"A-Ahem. Well then, Yuki."
+<511>kaga_000337
+<512>Kagami
+<513>"G-Give me a compliment."
+<514>yuki_000515
+<515>Yuki
+<516>"Huh? What? That's all? That is a bit embarrassing, but..."
+<517>tuka_000217
+<518>Tsukasa
+<519>"She has proffered an armistice. She wishes to cease this bloodshed and live in peace. Can ye not even understand that much?"
+<520>yuki_000516
+<521>Yuki
+<522>"You can stop with the Three Kingdoms act. And that's not even really Three Kingdoms stuff. Those lines are actually all from Yokoyama *****teru's version."
+<523>tuka_000218
+<524>Tsukasa
+<525>"But still, you're always fighting with her. It wouldn't hurt to give her a compliment once in a while, would it?"
+<526>yuki_000517
+<527>Yuki
+<528>"Hmm... Well, a compliment, you say?"
+<529>I looked straight at Kagami.
+<530>yuki_000518
+<531>Yuki
+<532>"Hmm... A compliment, you say, but I don't really know what to compliment."
+<533>kaga_000338
+<534>Kagami
+<535>"Tsukasa, off with her head!"
+<536>bg1002c
+<537>tk0103a
+<538>tuka_000219
+<539>Tsukasa
+<540>"Abracadabra!"
+<541>yuki_000519
+<542>Yuki
+<543>"Ts-Tsukasa!"
+<544>tk0105a
+<545>tuka_000220
+<546>Tsukasa
+<547>"No, your line is 'Guan Yu, how could you?'"
+<548>yuki_000520
+<549>Yuki
+<550>"I get it, you like the Romance of the Three Kingdoms."
+<551>tk0103a
+<552>tuka_000221
+<553>Tsukasa
+<554>"I love it. It's great, isn't it? If you say 'King Game,' that's the first thing that comes to mind, isn't it?"
+<555>I was pretty sure that wasn't the first thing that would come to anyone's mind.
+<556>tk0102a
+<557>tuka_000222
+<558>Tsukasa
+<559>"Yuki, what's your OTP? It's gotta be Zhou Yu and Zhuge Liang. The Romance of the Three Kingdoms was the historical record of their blossoming love."
+<560>yuki_000521
+<561>Yuki
+<562>"Of course not. You can't just make up stories about people that actually existed."
+<563>tk0105a
+<564>tuka_000223
+<565>Tsukasa
+<566>"I'm not making it up. I mean, Fa-sama even said so."
+<567>yuki_000522
+<568>Yuki
+<569>"And who's Fa-sama?"
+<570>tk0104a
+<571>tuka_000224
+<572>Tsukasa
+<573>"Fa-sama is Fa-sama... hic."
+<574>Hic?
+<575>Huh?
+<576>I was wondering, but...
+<577>yuki_000523
+<578>Yuki
+<579>"Tsukasa, isn't your face a bit flushed?"
+<580>tuka_000225
+<581>Tsukasa
+<582>"I'm fine. I can hold my drink."
+<583>Hold her drink?
+<584>Wait! She couldn't be...
+<585>I checked my drink.
+<586>And...
+<587>yuki_000524
+<588>Yuki
+<589>"This is alcohol, isn't it?!"
+<590>tk0103a
+<591>tuka_000226
+<592>Tsukasa
+<593>"Hehehe. You need beer to play the King Game."
+<594>kg0110a
+<595>tk0103a
+<596>kaga_000339
+<597>Kagami
+<598>"Well then..."
+<599>Kagami stood in front of me. Her cheeks were flushed as well.
+<600>When I looked her in the eyes, her gaze was unsteady.
+<601>yuki_000525
+<602>Yuki
+<603>"Wait, why do you have a knife? W-Wait a second!"
+<604>tuka_000227
+<605>Tsukasa
+<606>"Go ahead and say it."
+<607>yuki_000526
+<608>Yuki
+<609>"Urgh."
+<610>tk0105a
+<611>tuka_000228
+<612>Tsukasa
+<613>"What do you mean, 'urgh'?"
+<614>tk0104a
+<615>I don't know what's going on, but these two are definitely a bit tipsy. Um, maybe I should try not to upset them too much.
+<616>yuki_000527
+<617>Yuki
+<618>"O-Okay..."
+<619>yuki_000528
+<620>Yuki
+<621>"Um, let's see. Um..."
+<622>yuki_000529
+<623>Yuki
+<624>"Well, well, well... You see, hmm... Well..."
+<625>kg0104a
+<626>kaga_000340
+<627>Kagami
+<628>"Why the hesitation? Is it so hard to think of anything to compliment about me on?"
+<629>kg0105a
+<630>kaga_000341
+<631>Kagami
+<632>"She's starting to get on my nerves. Tsukasa, maybe we really should take off her head."
+<633>yuki_000530
+<634>Yuki
+<635>"Oh, I'm joking. That was a joke. I'll say one, right now, yeah."
+<636>kg0104a
+<637>yuki_000531
+<638>Yuki
+<639>"Um... yeah, um... Well, you see... Uhhhh... Um, that, that thing, uh... Right, like, uh..."
+<640>kg0103a
+<641>kaga_000342
+<642>Kagami
+<643>"Tsukasa, could you hold her down? I don't think I'll be able to get all the way through with one swing."
+<644>tk0103
+<645>yuki_000532
+<646>Yuki
+<647>"I-I think you're cute, Kagami. You have a nice figure, you stay in shape, and you're really smart, yeah!"
+<648>kg0104
+<649>kaga_000343
+<650>Kagami
+<651>"..."
+<652>yuki_000533
+<653>Yuki
+<654>"Huh? Huh? Wh-Why are you glaring at me? I complimented you, didn't I?"
+<655>kaga_000344
+<656>Kagami
+<657>"No, for some reason, hearing you say that bugs me. It's like you didn't really mean it."
+<658>yuki_000534
+<659>Yuki
+<660>"Wh-What do you want me to say, then?"
+<661>zk0106a
+<662>kg0104a
+<663>tk0103a
+<664>zaku_000320
+<665>Zakuro
+<666>"This isn't how the King Game should work. You have to say a number before giving a command."
+<667>kg0106a
+<668>kaga_000345
+<669>Kagami
+<670>"I-I guess so... I guess that is what the rules were. Well then, number one, do twenty sit-ups."
+<671>kg0103a
+<672>
+<673>zk0107a
+<674>zaku_000321
+<675>Zakuro
+<676>"Ooh... Looks like I dug my own grave."
+<677>yuki_000535
+<678>Yuki
+<679>"Huh? Takashima-san, you're number one?"
+<680>kg0106a
+<681>zaku_000322
+<682>Zakuro
+<683>"Yes, unfortunately."
+<684>zaku_000323
+<685>Zakuro
+<686>"I'm not very strong, but if it's the king's order, I guess I have to."
+<687>She laid on the ground and started doing sit-ups.
+<688>zaku_000324
+<689>Zakuro
+<690>"Hmm... ah... One... haa... Two."
+<691>Her movements put pressure on her chest, emphasizing her plentiful bust.
+<692>zaku_000325
+<693>Zakuro
+<694>"Mm... haaa... Th... ree."
+<695>Her breath was ragged. As she'd said, she wasn't very strong.
+<696>Could she really do twenty of them?
+<697>And...
+<698>zaku_000326
+<699>Zakuro
+<700>"Haa, hhmm... Four."
+<701>Her breasts were jiggling...
+<702>She really is well endowed, isn't she?
+<703>zaku_000327
+<704>Zakuro
+<705>"D-Don't worry about me. Go ahead and start the next round. I'll take the one that's left over."
+<706>kg0106a
+<707>tk0103a
+<708>kaga_000346
+<709>Kagami
+<710>"Maybe we could lower the number?"
+<711>zaku_000328
+<712>Zakuro
+<713>"No. We have to play by the rules."
+<714>tuka_000229
+<715>Tsukasa
+<716>"Takashima-san, don't push yourself too hard."
+<717>zaku_000329
+<718>Zakuro
+<719>"Thank you."
+<720>yuki_000536
+<721>Yuki
+<722>"Uh, well then..."
+<723>ev3002c
+<724>We mixed up the lots again.
+<725>kyod_000004
+<726>Everyone
+<727>"Who is the K-I-N-G?"
+<728>We all drew our lots.
+<729>tuka_000230
+<730>Tsukasa
+<731>"Ah! I'm the king!"
+<732>kaga_000347
+<733>Kagami
+<734>"Tsukasa's the king."
+<735>tuka_000231
+<736>Tsukasa
+<737>"At ease, my subjects."
+<738>kaga_000348
+<739>Kagami
+<740>"What order do you give, and to whom, your majesty?"
+<741>tuka_000232
+<742>Tsukasa
+<743>"First, deploy the troops along the southern shore. Next, feign concession so you can approach, and then have Huang Gai torch Cao Cao's ships."
+<744>yuki_000537
+<745>Yuki
+<746>"Three Kingdoms again!"
+<747>tuka_000233
+<748>Tsukasa
+<749>"Onee-chan, to the guillotine with her!"
+<750>yuki_000538
+<751>Yuki
+<752>"Again with the guillotine?!"
+<753>tuka_000234
+<754>Tsukasa
+<755>"Come on, Yuki. That was an official decree of the Wu clan. Don't ruin the mood."
+<756>yuki_000539
+<757>Yuki
+<758>"I'm pretty sure that was actually Zhou Yu. And he wasn't a king."
+<759>tuka_000235
+<760>Tsukasa
+<761>"I love Zhou Yu!"
+<762>Tsukasa's face was pure red, but she looked like she was having fun.
+<763>I had to wonder if she should be drinking.
+<764>tuka_000236
+<765>Tsukasa
+<766>"Oh, well... Let's see... Number two, twenty push-ups!"
+<767>zaku_000330
+<768>Zakuro
+<769>"Two more... Haa, ha... Nineteen!"
+<770>kaga_000349
+<771>Kagami
+<772>"You can do it, Takashima-san. One more!"
+<773>zaku_000331
+<774>Zakuro
+<775>"Haa... Hmmhaa, Twenty."
+<776>yuki_000540
+<777>Yuki
+<778>"Good work!"
+<779>zaku_000332
+<780>Zakuro
+<781>"Haa, haa... Thank you. Well then, my number is..."
+<782>Takashima flipped over her own lot.
+<783>yuki_000541
+<784>Yuki
+<785>"Aah..."
+<786>zaku_000333
+<787>Zakuro
+<788>"Ugh..."
+<789>kaga_000350
+<790>Kagami
+<791>"My condolences."
+<792>tuka_000237
+<793>Tsukasa
+<794>"Ahaha. Maybe I should change the order."
+<795>zaku_000334
+<796>Zakuro
+<797>"No. Then we couldn't call it the King Game. It's called the King Game because we have to obey the order no matter what it might be."
+<798>zaku_000335
+<799>Zakuro
+<800>"So I'll do the pushups... One."
+<801>tuka_000238
+<802>Tsukasa
+<803>"Let's at least change the number."
+<804>zaku_000336
+<805>Zakuro
+<806>"No. The rules are absolute. We can't change them now. Please, keep playing."
+<807>kaga_000351
+<808>Kagami
+<809>"All right. Then..."
+<810>We mixed up the lots again.
+<811>kyod_000005
+<812>Everyone
+<813>"Who is the K-I-N-G?"
+<814>We each picked our lots.
+<815>zaku_000337
+<816>Zakuro
+<817>"Ah..."
+<818>kaga_000352
+<819>Kagami
+<820>"N-No way."
+<821>zaku_000338
+<822>Zakuro
+<823>"Exactly. I was waiting for this."
+<824>tuka_000239
+<825>Tsukasa
+<826>"Takashima-san is the king?"
+<827>zaku_000339
+<828>Zakuro
+<829>"I am the god of the New World Order! Mmph, four."
+<830>yuki_000542
+<831>Yuki
+<832>"You're not a god. And you should finish your push-ups before declaring a new world order."
+<833>zaku_000340
+<834>Zakuro
+<835>"I'll be finished in just a moment..."
+<836>map029
+<837>map029
+<838>ev3002b
+<839>zaku_000341
+<840>Zakuro
+<841>"Haa, haa, haa..."
+<842>tuka_000240
+<843>Tsukasa
+<844>"U-Um, Takashima-san, are you okay?"
+<845>zaku_000342
+<846>Zakuro
+<847>"D-Don't worry about me. I have carried out your orders... Haa, haa..."
+<848>It must have been pretty tough doing all those sit-ups and push-ups, especially considering the effects of the alcohol. We waited a while for her to get her breath back.
+<849>When she got her breath back, her eyes still looked a bit glazed.
+<850>zaku_000343
+<851>Zakuro
+<852>"Let's see... Number three!"
+<853>She yelled that and looked at our faces. Apparently, her strategy was to guess whose number she had called based on our reactions.
+<854>But no one would fall for...
+<855>tuka_000241
+<856>Tsukasa
+<857>"Wha-Wha-Whaa..."
+<858>zaku_000344
+<859>Zakuro
+<860>"Oh, it's Tsukasa-san?"
+<861>tuka_000242
+<862>Tsukasa
+<863>"Yes... I'm number three."
+<864>zaku_000345
+<865>Zakuro
+<866>"You were kind to me, so... hic."
+<867>tuka_000243
+<868>Tsukasa
+<869>"Ahahaha..."
+<870>zaku_000346
+<871>Zakuro
+<872>"I'll let you off easy. Get naked."
+<873>yuki_000543
+<874>Yuki
+<875>"Huh?!"
+<876>kaga_000353
+<877>Kagami
+<878>"Guh?!"
+<879>tuka_000244
+<880>Tsukasa
+<881>"Uwaaah!"
+<882>Th-That was a really rough one.
+<883>Wasn't that the kind of order that usually happened in the last stages of the game?
+<884>Though it probably did seem like the last stage to her after she drank that much and we made her do all those exercises.
+<885>But still, why naked?
+<886>zaku_000347
+<887>Zakuro
+<888>"Hic... Um, can't you do it? It's fine if you can't do it... It's just a game, after all... Hehe."
+<889>Hey, you were the one that insisted we had to follow the orders no matter what!
+<890>tuka_000245
+<891>Tsukasa
+<892>"O-Of course I can do it!"
+<893>tuka_000246
+<894>Tsukasa
+<895>"As a general, it's my duty to live on and become the next king, even if it means bearing this shame!"
+<896>What was she even talking about?
+<897>kaga_000354
+<898>Kagami
+<899>"U-Um, Tsukasa..."
+<900>tuka_000247
+<901>Tsukasa
+<902>"B-Besides, w-we're all girls! There's nothing to be embarrassed about!"
+<903>tuka_000248
+<904>Tsukasa
+<905>"But when I'm crowned as king, I'll make you do something even worse!"
+<906>The King Game was pointlessly escalating. I wondered if Tsukasa was serious about that.
+<907>se284
+<908>ev3002d
+<909>tuka_000249
+<910>Tsukasa
+<911>"Th-There, I did it."
+<912>kaga_000355
+<913>Kagami
+<914>"Uh, maybe we should use the three second rule, or something like that?"
+<915>tuka_000250
+<916>Tsukasa
+<917>"I-I don't need that. Come on, start the next round."
+<918>Tsukasa's face was red and streaked with tears. If it was that embarrassing, she didn't have to go that far. Takashima-san even said she didn't have to do it.
+<919>yuki_000544
+<920>Yuki
+<921>"Um, Tsukasa..."
+<922>tuka_000251
+<923>Tsukasa
+<924>"I-I'm not embarrassed! Start the next round!"
+<925>It was true that we were all the same sex, and we wouldn't care if we were at a bath house or someplace where we were all naked. It just felt weird because we were in the living room and she was the only one naked.
+<926>And it didn't help that Tsukasa herself was so clearly embarrassed. It was kind of making the rest of us feel embarrassed too.
+<927>Tsukasa's face was so red that it seemed like steam was about to billow out of her ears. She was huddled on the floor, trying to hide her shame.
+<928>We mixed up the lots again.
+<929>kyod_000006
+<930>Everyone
+<931>"Who is the K-I-N-G?"
+<932>tuka_000252
+<933>Tsukasa
+<934>"Uwooah, I got it! I'm the king!"
+<935>yuki_000545
+<936>Yuki
+<937>"Th-That's amazing. I guess your tenacity paid off."
+<938>tuka_000253
+<939>Tsukasa
+<940>"Hehehe... Now it's my turn."
+<941>tuka_000254
+<942>Tsukasa
+<943>"Number two!"
+<944>King Tsukasa yelled out a number and looked at our faces... No one fell for it.
+<945>tuka_000255
+<946>Tsukasa
+<947>"Hmm? Why are you looking away, Takashima-san?"
+<948>zaku_000348
+<949>Zakuro
+<950>"B-Because..."
+<951>tuka_000256
+<952>Tsukasa
+<953>"Number two, take off all your clothes!"
+<954>zaku_000349
+<955>Zakuro
+<956>"Heheheh..."
+<957>tuka_000257
+<958>Tsukasa
+<959>"Huh?"
+<960>kaga_000356
+<961>Kagami
+<962>"Number two... is me, Tsukasa."
+<963>tuka_000258
+<964>Tsukasa
+<965>"One of Zhuge Liang's traps!"
+<966>yuki_000546
+<967>Yuki
+<968>"No, that trap was obvious."
+<969>tuka_000259
+<970>Tsukasa
+<971>"After that, off with Yuki's head."
+<972>yuki_000547
+<973>Yuki
+<974>"That has nothing to do with the King Game!"
+<975>tuka_000260
+<976>Tsukasa
+<977>"Um, Onee-chan..."
+<978>kaga_000357
+<979>Kagami
+<980>"Ugh... Whatever, we won't be able to get revenge if we change the rules now."
+<981>tuka_000261
+<982>Tsukasa
+<983>"Onee-chan..."
+<984>kaga_000358
+<985>Kagami
+<986>"I won't let you off with just stripping. We'll show you the power of the twins working together."
+<987>But you two weren't working together at all. That's why you fell into that trap.
+<988>zaku_000350
+<989>Zakuro
+<990>"We can stop now if you want. Hic."
+<991>kaga_000359
+<992>Kagami
+<993>"I won't let you get away with humiliating Tsukasa!"
+<994>kaga_000360
+<995>Kagami
+<996>"Ooh..."
+<997>Jeez... Those three really weren't thinking straight. The alcohol probably had something to do with it, but really, it was the game that was making them act like that.
+<998>se284
+<999>ev3002e
+<1000>kaga_000361
+<1001>Kagami
+<1002>"I-I did it..."
+<1003>zaku_000351
+<1004>Zakuro
+<1005>"I'll let you two off with the three second rule. You don't have to be stubborn."
+<1006>kyod_000007
+<1007>Kagami+Tsukasa
+<1008>"No, thank you!"
+<1009>kaga_000362
+<1010>Kagami
+<1011>"Ugh, i-it's not embarrassing at all. A-After all, we're all girls..."
+<1012>tuka_000262
+<1013>Tsukasa
+<1014>"I feel a little better now that you're naked too."
+<1015>kaga_000363
+<1016>Kagami
+<1017>"Y-Yeah. Anyway, start the next round already."
+<1018>tuka_000263_a
+<1019>Tsukasa
+<1020>"Yeah. We can't back down now."
+<1021>yuki_000548
+<1022>Yuki
+<1023>"Ooh..."
+<1024>kaga_000364
+<1025>Kagami
+<1026>"Wh-What are you looking at?!"
+<1027>yuki_000549
+<1028>Yuki
+<1029>"N-Nothing. I was thinking that it's kind of weird having just the two of you naked here in the living room."
+<1030>kaga_000365
+<1031>Kagami
+<1032>"Y-You don't have to say it!"
+<1033>tuka_000264
+<1034>Tsukasa
+<1035>"You dummy! W-We're trying not to think about it!"
+<1036>The two of them suddenly turned beet-red. They almost looked like they were going to cry.
+<1037>yuki_000550
+<1038>Yuki
+<1039>"C-Can we call this whole thing off now?"
+<1040>kaga_000366
+<1041>Kagami
+<1042>"What are you saying? There's no way we can stop now."
+<1043>tuka_000265
+<1044>Tsukasa
+<1045>"We can't stop after coming this far."
+<1046>kaga_000367
+<1047>Kagami
+<1048>"Let's do our best, Tsukasa."
+<1049>tuka_000266
+<1050>Tsukasa
+<1051>"Let's do it!"
+<1052>yuki_000551
+<1053>Yuki
+<1054>"Y-You don't have to try that hard. It's just a game."
+<1055>tuka_000267
+<1056>Tsukasa
+<1057>"Yes, we do!"
+<1058>kyod_000008
+<1059>Everyone
+<1060>"Who is the K-I-N-G?"
+<1061>We all picked our lots.
+<1062>And the result was...
+<1063>kaga_000368
+<1064>Kagami
+<1065>"I'm the king."
+<1066>zaku_000352
+<1067>Zakuro
+<1068>"Ahh..."
+<1069>kaga_000369
+<1070>Kagami
+<1071>"Well then, I'll give my order to... number three!"
+<1072>The same strategy. But I couldn't imagine anyone falling for it at this point.
+<1073>For the record, I held number two, so it had to be Tsukasa or Takashima-san.
+<1074>kaga_000370
+<1075>Kagami
+<1076>"Heheh. Number three is Takashima-san, huh? It shows on your face."
+<1077>zaku_000353
+<1078>Zakuro
+<1079>"No, it doesn't! There's nothing on my face!"
+<1080>kaga_000371
+<1081>Kagami
+<1082>"Just kidding."
+<1083>As expected of Kagami, she was a much better strategist than Takashima-san.
+<1084>kaga_000372
+<1085>Kagami
+<1086>"That was a bluff. I could tell it wasn't Tsukasa from her face, so I just needed to figure out if it was you or Yuki."
+<1087>kaga_000373
+<1088>Kagami
+<1089>"It didn't show on either of your faces, so I went ahead and said it was you. Doesn't cost me anything to say it."
+<1090>kaga_000374
+<1091>Kagami
+<1092>"If I was wrong, you wouldn't've had that kind of expression. You would've just said 'Huh?' like usual. Even if you try to pretend otherwise, it shows on your face for a moment."
+<1093>zaku_000354
+<1094>Zakuro
+<1095>"Ooh... W-Well done."
+<1096>kaga_000375
+<1097>Kagami
+<1098>"So, number three, please take off all your clothes."
+<1099>zaku_000355
+<1100>Zakuro
+<1101>"A-All right..."
+<1102>Wait, what the hell is going on here?
+<1103>Takashima-san's face was red, but she took off her clothes as if it were perfectly natural.
+<1104>How far did this game have to escalate before they'd be satisfied?
+<1105>ev3002f
+<1106>zaku_000356
+<1107>Zakuro
+<1108>"I d-did it..."
+<1109>kaga_000376
+<1110>Kagami
+<1111>"Uh... this is kind of..."
+<1112>tuka_000268
+<1113>Tsukasa
+<1114>"Your chest is so big. You're making me feel self-conscious."
+<1115>zaku_000357
+<1116>Zakuro
+<1117>"P-Please don't say that."
+<1118>kaga_000377
+<1119>Kagami
+<1120>"But now Takashima-san is naked too, and the next order will be even better."
+<1121>zaku_000358
+<1122>Zakuro
+<1123>"If you get me again, what exactly are you thinking of making me do?"
+<1124>kaga_000378
+<1125>Kagami
+<1126>"You'll see next time it happens."
+<1127>tuka_000269
+<1128>Tsukasa
+<1129>"And Takashima-san, you're..."
+<1130>zaku_000359
+<1131>Zakuro
+<1132>"Since you made me strip, my revenge will be even more embarrassing."
+<1133>tuka_000270
+<1134>Tsukasa
+<1135>"Ugh... What do you mean by 'embarrassing'?"
+<1136>zaku_000360
+<1137>Zakuro
+<1138>"What are you imagining, Tsukasa?"
+<1139>tuka_000271
+<1140>Tsukasa
+<1141>"Hmm... Well, if we get Yuki, I guess we should make her strip too?"
+<1142>yuki_000552
+<1143>Yuki
+<1144>"M-Me too?"
+<1145>tuka_000272
+<1146>Tsukasa
+<1147>"Yeah, and if it's Onee-chan, I can make her put her clothes back on. And if it's Takashima-san... Heheh."
+<1148>tuka_000273
+<1149>Tsukasa
+<1150>"I'll have her do something you might see in an eroge."
+<1151>yuki_000553
+<1152>Yuki
+<1153>"E-Eroge?"
+<1154>tuka_000274
+<1155>Tsukasa
+<1156>"Yeah. There are devilish games that are said to corrupt your mind once you play them. Rumors speak of games where every embarrassing situation imaginable is on display."
+<1157>yuki_000554
+<1158>Yuki
+<1159>"B-But something like that could only exist in some fictional world."
+<1160>tuka_000275
+<1161>Tsukasa
+<1162>"No. Sometimes at night when I get sleepy, I have trouble telling the difference between fantasy and reality... Or when I'm drinking, heheheh."
+<1163>Y-You shouldn't do that, Tsukasa.
+<1164>zaku_000361
+<1165>Zakuro
+<1166>"Well then, there's no holding back in the next round."
+<1167>kaga_000379
+<1168>Kagami
+<1169>"Yeah, no holding back. After you made us do this, we're going to make you do something really kinky."
+<1170>She was talking about "kinky" stuff already?
+<1171>yuki_000555
+<1172>Yuki
+<1173>"Well, let's get started..."
+<1174>kyod_000009
+<1175>"Yeah!"
+<1176>Everyone
+<1177>Everyone
+<1178>"Yeah!"
+<1179>Everyone
+<1180>"Yeah!"
+<1181>Everyone
+<1182> 
+<1183>Everyone
+<1184> 
+<1185>Everyone
+<1186> 
+<1187>Everyone
+<1188> 
+<1189>Everyone
+<1190> 
+<1191>Everyone
+<1192> 
+<1193>Everyone
+<1194> 
+<1195>Everyone
+<1196>
+<1197>We mixed up the lots again.
+<1198>kyod_000010
+<1199>Everyone
+<1200>"Who is the K-I-N-G?"
+<1201>We pulled our lots, and for the first time...
+<1202>yuki_000556
+<1203>Yuki
+<1204>"Huh?"
+<1205>zaku_000362
+<1206>Zakuro
+<1207>"Excuse me..."
+<1208>tuka_000276
+<1209>Tsukasa
+<1210>"Did you..."
+<1211>kaga_000380
+<1212>Kagami
+<1213>"Yuki is the king?"
+<1214>yuki_000557
+<1215>Yuki
+<1216>"Ahaha. Looks like it."
+<1217>Normally I'd joke around and say, "I'll have all of your heads!" or something to that effect, but the atmosphere was kind of tense.
+<1218>I wondered if there was any order I could give that would lighten the mood.
+<1219>zaku_000363
+<1220>Zakuro
+<1221>"Hmm... Even when I was the king, I never got Yuki's number right."
+<1222>tuka_000277
+<1223>Tsukasa
+<1224>"Why are you the one that got to be king?"
+<1225>kaga_000381
+<1226>Kagami
+<1227>"Come on, this is the part where we're supposed to get you, not the other way around."
+<1228>They were awfully impudent considering they were talking to the king.
+<1229>yuki_000558
+<1230>Yuki
+<1231>"What were you guys going to do if you got my number? Probably something terrible, right?"
+<1232>zaku_000364
+<1233>Zakuro
+<1234>"Not at all. I was going to ask for a kiss."
+<1235>kaga_000382
+<1236>Kagami
+<1237>"What?!"
+<1238>zaku_000365
+<1239>Zakuro
+<1240>"I'm sure that's not what the other two had in mind, but that's what I wanted to ask for."
+<1241>kaga_000383
+<1242>Kagami
+<1243>"Why do you assume we had something else in mind?!"
+<1244>zaku_000366
+<1245>Zakuro
+<1246>"Well then, what were you thinking of?"
+<1247>kaga_000384
+<1248>Kagami
+<1249>"Oh, um... It's not like that was my goal, but... I was just thinking, if that's how it ended up, that might not be bad, either..."
+<1250>tuka_000278
+<1251>Tsukasa
+<1252>"That's right. Now then, your majesty, first of all, please state your order."
+<1253>yuki_000559
+<1254>Yuki
+<1255>"Wh-Why are the rules different for me?"
+<1256>tuka_000279
+<1257>Tsukasa
+<1258>"Yuki, this is the part where one of us was supposed to be the king, so show us that you're fit to rule."
+<1259>yuki_000560
+<1260>Yuki
+<1261>"How am I supposed to do that?"
+<1262>tuka_000280
+<1263>Tsukasa
+<1264>"Give the people what they want. If you do that, the public opinion of you will soar."
+<1265>yuki_000561
+<1266>Yuki
+<1267>"Even if I do, it's not like there's one single thing all of you want."
+<1268>tuka_000281
+<1269>Tsukasa
+<1270>"Everyone wants a kiss from you."
+<1271>yuki_000562
+<1272>Yuki
+<1273>"Everyone wants to kiss me..."
+<1274>yuki_000563
+<1275>Yuki
+<1276>"What?!"
+<1277>yuki_000564
+<1278>Yuki
+<1279>"Th-That doesn't make any sense. I mean, Tsukasa, there's no way you want to kiss me, right?"
+<1280>tuka_000282
+<1281>Tsukasa
+<1282>"No. I did think of ordering you to kiss me if I got the chance."
+<1283>kaga_000385
+<1284>Kagami
+<1285>"Ts-Tsukasa..."
+<1286>yuki_000565
+<1287>Yuki
+<1288>"But, Kagami..."
+<1289>kaga_000386
+<1290>Kagami
+<1291>"I-I just said it, didn't I? I wouldn't mind..."
+<1292>......
+<1293>But why?
+<1294>Why are they all after my lips?
+<1295>These idiots are drunk. They're acting on their natural impulses. No, this isn't even natural.
+<1296>yuki_000566
+<1297>Yuki
+<1298>"U-Um... we're the same sex, you know?"
+<1299>tuka_000283
+<1300>Tsukasa
+<1301>"We won't make you if you don't want to."
+<1302>I-I...
+<1303>I should decide?
+<1304>Even though we were all girls?
+<1305>1-1_0715_01-1
+<1306>Kiss
+<1307>1-1_0715_01-2
+<1308>I can't do that
+<1309>bgm004
+<1310>yuki_000567
+<1311>Yuki
+<1312>"A-All right... I'll do it."
+<1313>I was the king. I should've been the one to decide the order, but for some reason I gave in to their demands.
+<1314>I was probably drunk too. I wasn't sure, but that was probably it.
+<1315>If I wasn't, there's no way I would've said yes. Normally, there's no way I'd kiss another girl.
+<1316>kaga_000387
+<1317>Kagami
+<1318>"Uhh."
+<1319>tuka_000284
+<1320>Tsukasa
+<1321>"Sh-She'll do it..."
+<1322>zaku_000367
+<1323>Zakuro
+<1324>"Well then, what number?"
+<1325>What number? I had no idea who had what number.
+<1326>What should I do?
+<1327>1-1_0715_02-1
+<1328>Choose #1
+<1329>1-1_0715_02-2
+<1330>Choose #2
+<1331>1-1_0715_02-3
+<1332>Choose #3
+<1333>yuki_000568
+<1334>Yuki
+<1335>"Number one!"
+<1336>kaga_000388
+<1337>Kagami
+<1338>"Huh? U-Uh... Really?"
+<1339>yuki_000569
+<1340>Yuki
+<1341>"Okay, I'll change it."
+<1342>kaga_000389
+<1343>Kagami
+<1344>"What do you mean?!"
+<1345>yuki_000570
+<1346>Yuki
+<1347>"But I mean, you don't really want to do it, right?"
+<1348>kaga_000390
+<1349>Kagami
+<1350>"Why do you think that?!"
+<1351>yuki_000571
+<1352>Yuki
+<1353>"I thought you were just being obstinate like usual."
+<1354>yuki_000572
+<1355>Yuki
+<1356>"It would be a shame to force you to do it if you didn't want to."
+<1357>kaga_000391
+<1358>Kagami
+<1359>"You dummy..."
+<1360>yuki_000573
+<1361>Yuki
+<1362>"Huh?"
+<1363>kaga_000392
+<1364>Kagami
+<1365>"Just now, you gave your order! The order is absolute! Yuki!"
+<1366>yuki_000574
+<1367>Yuki
+<1368>"Huh?"
+<1369>Her naked body pressed up against mine, and just like that...
+<1370>yuki_000575
+<1371>Yuki
+<1372>"Mmpph."
+<1373>ev3003a
+<1374>kaga_000393
+<1375>Kagami
+<1376>"Haa..."
+<1377>What?
+<1378>What's happening?
+<1379>Kagami was kissing me... Hey!\n&
+<1380>Not just that, she was pushing her tongue inside my mouth.
+<1381>kaga_000394
+<1382>Kagami
+<1383>"Pch, haa... Yuki."
+<1384>yuki_000576
+<1385>Yuki
+<1386>"Mm, hmm?!"
+<1387>Wh-What? Why?
+<1388>I was surprised she kissed me, but I was even more surprised by something else.
+<1389>My heart was beating so fast.
+<1390>It was like...
+<1391>Maybe I'm actually...
+<1392>kaga_000395
+<1393>Kagami
+<1394>"I did it."
+<1395>yuki_000577
+<1396>Yuki
+<1397>"Uwhoa."
+<1398>kaga_000396
+<1399>Kagami
+<1400>"It was my first kiss..."
+<1401>yuki_000578
+<1402>Yuki
+<1403>"It was mine too! A-And I lost it to a girl!"
+<1404>kaga_000397
+<1405>Kagami
+<1406>"S-Sorry. Was it unpleasant?"
+<1407>yuki_000579
+<1408>Yuki
+<1409>"Uhh..."
+<1410>Kagami looked up at me with tearful eyes.
+<1411>Wh-Why did she react like that? Kagami wouldn't react like that, would she?
+<1412>When she looked at me like that...
+<1413>I...
+<1414>yuki_000580
+<1415>Yuki
+<1416>"Um... it wasn't unpleasant, but..."
+<1417>I couldn't meet her eyes. I couldn't look straight at her.
+<1418>I couldn't look at her.
+<1419>This feeling...
+<1420>It was like...
+<1421>tuka_000285
+<1422>Tsukasa
+<1423>"I'm so jealous, Onee-chan."
+<1424>kaga_000398
+<1425>Kagami
+<1426>"You really wanted to kiss her too?"
+<1427>tuka_000286
+<1428>Tsukasa
+<1429>"Huh? You say that like the rest of us were just joking around."
+<1430>kaga_000399
+<1431>Kagami
+<1432>"Th-That's not what I mean. It's just..."
+<1433>zaku_000368
+<1434>Zakuro
+<1435>"..."
+<1436>yuki_000581
+<1437>Yuki
+<1438>"Well then, can we call that the last round?"
+<1439>I don't even know what would have happened if I let them keep playing any further than this.
+<1440>We were already at the point where I couldn't even look straight at Kagami.
+<1441>kaga_000400
+<1442>Kagami
+<1443>"Y-Yeah, let's..."
+<1444>tuka_000287
+<1445>Tsukasa
+<1446>"It's not fair to quit before the rest of us get a chance."
+<1447>zaku_000369
+<1448>Zakuro
+<1449>"She's right. It's late, and the cold has sobered us up."
+<1450>Takashima-san started putting her clothes back on.
+<1451>tuka_000288
+<1452>Tsukasa
+<1453>"I guess so. And it's kind of weird to be sitting around naked in the living room."
+<1454>zaku_000370
+<1455>Zakuro
+<1456>"Hehe... Though we kind of got used to that."
+<1457>tuka_000289
+<1458>Tsukasa
+<1459>"I didn't."
+<1460>Tsukasa started putting her clothes back on too.
+<1461>I couldn't believe the King Game ended with everyone but me completely naked.
+<1462>I felt like the game helped me sort out my uncertain feelings.
+<1463>Though I was still trying my hardest not to think about them.
+<1464>yuki_000582
+<1465>Yuki
+<1466>"Number two!"
+<1467>tuka_000290
+<1468>Tsukasa
+<1469>"Huh? R-Really?"
+<1470>yuki_000583
+<1471>Yuki
+<1472>"Wait, you mean..."
+<1473>tuka_000291
+<1474>Tsukasa
+<1475>"Yeah, that's me."
+<1476>yuki_000584
+<1477>Yuki
+<1478>"U-Uh, maybe I should change the order."
+<1479>tuka_000292
+<1480>Tsukasa
+<1481>"You shouldn't say mean things like that."
+<1482>yuki_000585
+<1483>Yuki
+<1484>"B-But I mean, it's not like you want to do it either. You just went with the flow, right?"
+<1485>tuka_000293
+<1486>Tsukasa
+<1487>"I said it last night, Yuki."
+<1488>yuki_000586
+<1489>Yuki
+<1490>"Huh?"
+<1491>tuka_000294
+<1492>Tsukasa
+<1493>"I'll give up if you say you don't want to, but if you don't mind, it would make me really happy if I could kiss you."
+<1494>yuki_000587
+<1495>Yuki
+<1496>"Y-You mean..."
+<1497>kaga_000401
+<1498>Kagami
+<1499>"The order is final, Yuki."
+<1500>tuka_000295
+<1501>Tsukasa
+<1502>"Onee-chan..."
+<1503>kaga_000402
+<1504>Kagami
+<1505>"Go ahead, Yuki. Do it."
+<1506>yuki_000588
+<1507>Yuki
+<1508>"Uh..."
+<1509>While I was deliberating, Tsukasa suddenly drew near.
+<1510>tuka_000296
+<1511>Tsukasa
+<1512>"Ey!"
+<1513>Her naked body pressed up against me. Even compared to the other girls, Tsukasa's body was thin and delicate. It felt like I might break her if I wasn't careful.
+<1514>tuka_000297
+<1515>Tsukasa
+<1516>"If you don't want to, just say so."
+<1517>yuki_000589
+<1518>Yuki
+<1519>"Uh, no... It's not that I don't want to, really... b-but... ?!"
+<1520>tuka_000298
+<1521>Tsukasa
+<1522>"Mm..."
+<1523>ev3003c
+<1524>Is this really Tsukasa?\n&
+<1525>She suddenly brought her lips to mine.
+<1526>And Tsukasa was...
+<1527>tuka_000299
+<1528>Tsukasa
+<1529>"Mm... Hmm..."
+<1530>Her tongue was pushing at my closed lips. Was she trying to kiss me even more deeply?
+<1531>yuki_000590
+<1532>Yuki
+<1533>"Mm, hmm?!"
+<1534>I slowly opened my mouth, and her tongue darted in.
+<1535>tuka_000300
+<1536>Tsukasa
+<1537>"Haa... Hmm, hmm..."
+<1538>yuki_000591
+<1539>Yuki
+<1540>"Hhm?"
+<1541>My mind went numb.
+<1542>I couldn't believe how good the inside of another girl's mouth felt.
+<1543>That's all that went through my mind.
+<1544>It felt so good.
+<1545>So good that I was hit with an urge to push her to the ground, right here...\n&
+<1546>But of course I couldn't do that.
+<1547>But I couldn't push her away either.
+<1548>tuka_000301
+<1549>Tsukasa
+<1550>"Mmhaa... haa... Mmm..."
+<1551>I couldn't have imagined her doing this before tonight. She was lusting after me, thrusting her tongue deep inside my mouth.
+<1552>Her privates rubbed up against my thigh.
+<1553>I felt something moist dripping down my leg from the spot she was touching.
+<1554>At this rate...
+<1555>If this kept up...
+<1556>Even if she was drunk, we were standing in front of everyone.
+<1557>yuki_000592
+<1558>Yuki
+<1559>"Wait, y-you're overdoing it."
+<1560>tuka_000302
+<1561>Tsukasa
+<1562>"Huh? Did I do something wrong?"
+<1563>yuki_000593
+<1564>Yuki
+<1565>"N-No, but... Well..."
+<1566>Tsukasa looked at me.
+<1567>But I couldn't return her gaze.
+<1568>My heart was pounding just from looking at her face.
+<1569>tuka_000303
+<1570>Tsukasa
+<1571>"You were my first kiss."
+<1572>Tsukasa said that with a laugh, but I couldn't believe she could kiss someone so erotically if it was her first time.
+<1573>My leg was cold. My thigh was still drenched from before.
+<1574>When I looked closely, Tsukasa's thighs were covered with the same liquid.
+<1575>yuki_000594
+<1576>Yuki
+<1577>"Wh-Why do you look so happy?"
+<1578>tuka_000304
+<1579>Tsukasa
+<1580>"Because I enjoyed it. Didn't you?"
+<1581>yuki_000595
+<1582>Yuki
+<1583>"No, it's not that I disliked it. Uh..."
+<1584>zaku_000371
+<1585>Zakuro
+<1586>"..."
+<1587>yuki_000596
+<1588>Yuki
+<1589>"Well then, can we call that the last round?"
+<1590>I don't even know what would have happened if I allowed the game to continue.
+<1591>We were already at the point where I couldn't even look straight at Tsukasa.
+<1592>tuka_000305
+<1593>Tsukasa
+<1594>"Are you fine with that, Onee-chan?"
+<1595>kaga_000403
+<1596>Kagami
+<1597>"I don't mind. It kind of feels like that was the climax."
+<1598>zaku_000372
+<1599>Zakuro
+<1600>"You're right. It's getting late, and the cold has sobered us up a lot."
+<1601>Takashima-san started putting her clothes back on.
+<1602>kaga_000404
+<1603>Kagami
+<1604>"Even in summer, you'll catch a cold if you run around naked. Come on, Tsukasa, put your clothes back on."
+<1605>Kagami started getting dressed too.
+<1606>I couldn't believe the King Game ended with everyone but me completely naked.
+<1607>I felt like the game helped me sort out my uncertain feelings.
+<1608>Though I was still trying my hardest not to think about them.
+<1609>yuki_000597
+<1610>Yuki
+<1611>"Number three!"
+<1612>zaku_000373
+<1613>Zakuro
+<1614>"That's me."
+<1615>kaga_000405
+<1616>Kagami
+<1617>"Wha―"
+<1618>tuka_000306
+<1619>Tsukasa
+<1620>"Ugh."
+<1621>zaku_000374
+<1622>Zakuro
+<1623>"Well then, excuse me."
+<1624>yuki_000598
+<1625>Yuki
+<1626>"Ah."
+<1627>zaku_000375
+<1628>Zakuro
+<1629>"Mm... smooch."
+<1630>I closed my eyes.
+<1631>But there was no need. She just gave me a kiss on the cheek.
+<1632>yuki_000599
+<1633>Yuki
+<1634>"On the ch-cheek?"
+<1635>zaku_000376
+<1636>Zakuro
+<1637>"Yes. Isn't that enough?"
+<1638>yuki_000600
+<1639>Yuki
+<1640>"Well, uh... I guess..."
+<1641>zaku_000377
+<1642>Zakuro
+<1643>"Well then, shall we call it a night?"
+<1644>kaga_000406
+<1645>Kagami
+<1646>"You want to end it now?"
+<1647>zaku_000378
+<1648>Zakuro
+<1649>"Yes. I'm sorry. My prank went a little too far. I don't want to know what might happen if we let the game escalate any further."
+<1650>kaga_000407
+<1651>Kagami
+<1652>"You're right. Besides, I think we've all sobered up from the cold. Maybe we overdid it."
+<1653>tuka_000307
+<1654>Tsukasa
+<1655>"Ahaha. Maybe we let it escalate a bit too far."
+<1656>zaku_000379
+<1657>Zakuro
+<1658>"That's right. And it's getting late, too."
+<1659>Takashima-san started putting her clothes back on.
+<1660>tuka_000308
+<1661>Tsukasa
+<1662>"Ahaha. It's kind of scary playing with you guys. We got a bit reckless."
+<1663>kaga_000408
+<1664>Kagami
+<1665>"Well, you really shouldn't kiss someone just for the sake of a prank anyway."
+<1666>Kagami started getting dressed too.
+<1667>I couldn't believe the King Game ended with everyone but me completely naked.
+<1668>But I was glad it didn't go any further than that.
+<1669>I was relieved at that, if nothing else.
+<1670>1-1_0716_Dream
+<1671>bgm020
+<1672>yuki_000601
+<1673>Yuki
+<1674>"As if I could do something like that!"
+<1675>yuki_000602
+<1676>Yuki
+<1677>"Number one, number two, number three! Put on your clothes!"
+<1678>kaga_000409
+<1679>Kagami
+<1680>"Huh?"
+<1681>tuka_000309
+<1682>Tsukasa
+<1683>"You mean..."
+<1684>zaku_000380
+<1685>Zakuro
+<1686>"Understood. If that is the king's command, we must obey."
+<1687>Takashima-san started getting dressed.
+<1688>kaga_000410
+<1689>Kagami
+<1690>"Th-That's right. If we can put our clothes back on, that's perfect."
+<1691>tuka_000310
+<1692>Tsukasa
+<1693>"Yeah. She's the king, so her word is law."
+<1694>kaga_000411
+<1695>Kagami
+<1696>"That's right. This was just a little prank. You shouldn't kiss someone for something like that. Ahaha."
+<1697>tuka_000311
+<1698>Tsukasa
+<1699>"We kind of got carried away since we were all drunk, but I think the cold is starting to sober us up."
+<1700>Kagami and Tsukasa started dressing too.
+<1701>yuki_000603
+<1702>Yuki
+<1703>"Let's call it a night, then?"
+<1704>kaga_000412
+<1705>Kagami
+<1706>"Yeah. It's pretty late."
+<1707>tuka_000312
+<1708>Tsukasa
+<1709>"We played a bit too much, didn't we?"
+<1710>I couldn't believe the King Game ended with everyone but me completely naked.
+<1711>Though I was glad it didn't go any further than this.
+<1712>I was relieved at that, if nothing else.
+<1713>1-1_0716_Dream
